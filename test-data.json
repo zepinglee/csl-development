@@ -591,38 +591,6 @@
 		"title": "United States <i>v.</i> Dino Nastasi et al."
 	},
 	{
-		"id": "molc.85:01",
-		"type": "webpage",
-		"container-title": "BBC News",
-		"language": "en",
-		"title": "When China began streaming trials online",
-		"URL": "https://www.bbc.com/news/blogs-china-blog-37515399",
-		"author": [
-			{
-				"family": "McDonell",
-				"given": "Stephen"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					7,
-					26
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2016",
-					9,
-					30
-				]
-			]
-		}
-	},
-	{
 		"id": "molc.83:02",
 		"type": "legal_case",
 		"container-title": "U.S.",
@@ -641,7 +609,7 @@
 	{
 		"id": "molc.91.6:01",
 		"type": "chapter",
-		"container-title": "FS-Steindorff",
+		"collection-title": "FS-Steindorff",
 		"language": "de",
 		"note": "为祝贺文集",
 		"title": "Gesamtunwirksamkeit und Teilgü-ltigkeit rechtsgeschäftlicher Regelungen",
@@ -685,7 +653,7 @@
 		"id": "molc.91.5:01",
 		"type": "chapter",
 		"container-title": "Das Abtreibungsverbot des § 218 StGB",
-		"edition": "2. Aufl.",
+		"edition": "2",
 		"language": "de",
 		"title": "Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht",
 		"author": [
@@ -711,7 +679,7 @@
 	{
 		"id": "molc.91.3:02",
 		"type": "book",
-		"edition": "2. Aufl.",
+		"edition": "2",
 		"event-place": "Heidelberg",
 		"ISBN": "978-3-8252-2043-3",
 		"language": "de",
@@ -736,31 +704,6 @@
 					"2003",
 					11,
 					1
-				]
-			]
-		}
-	},
-	{
-		"id": "molc.91.3:01",
-		"type": "book",
-		"edition": "4. Aufl.",
-		"ISBN": "978-3-406-53071-5",
-		"language": "de",
-		"number-of-pages": "1136",
-		"publisher": "C. H. Beck",
-		"source": "Google Books",
-		"title": "Strafrecht Allgemeiner Teil",
-		"title-short": "Strafrecht",
-		"volume": "Band I",
-		"author": [
-			{
-				"literal": "Claus Roxin"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2006"
 				]
 			]
 		}
@@ -874,11 +817,12 @@
 		}
 	},
 	{
-		"id": "molc.96.1:03",
+		"id": "molc.96.1:02",
 		"type": "book",
+		"collection-title": "法律学体系·コンメンタール篇",
 		"language": "ja",
 		"publisher": "日本評論社",
-		"title": "民法総則物権法（法律学体系·コンメンタール篇）",
+		"title": "民法総則物権法",
 		"author": [
 			{
 				"literal": "我妻栄"
@@ -898,9 +842,11 @@
 	{
 		"id": "molc.96.1:01",
 		"type": "book",
+		"collection-number": "Ⅲ",
+		"collection-title": "民法講義",
 		"language": "ja",
 		"publisher": "有斐閣",
-		"title": "新訂担保物権法（民法講義Ⅲ）",
+		"title": "新訂担保物権法",
 		"author": [
 			{
 				"literal": "我妻栄"
@@ -922,6 +868,7 @@
 		"language": "ja",
 		"page": "1",
 		"title": "付加物及び従物と抵当権",
+		"URL": "https://dl.ndl.go.jp/info:ndljp/pid/3564970?tocOpened=1",
 		"volume": "29",
 		"author": [
 			{
@@ -1067,6 +1014,7 @@
 		"publisher": "Montchrestien",
 		"publisher-place": "Paris",
 		"title": "L’État de droit",
+		"URL": "https://www.decitre.fr/livres/l-etat-de-droit-9782707613714.html",
 		"author": [
 			{
 				"family": "Chevallier",
@@ -1125,7 +1073,7 @@
 		}
 	},
 	{
-		"id": "molc.86.4:01",
+		"id": "molc.86.3:01",
 		"type": "chapter",
 		"container-title": "Le droit des Océans",
 		"edition": "Éditions de la mer",
@@ -1153,11 +1101,11 @@
 		}
 	},
 	{
-		"id": "molc.86.3:01",
-		"type": "paper-conference",
-		"event-title": "Congrès de Marseille",
+		"id": "molc.86.4:01",
+		"type": "report",
 		"language": "fr",
-		"page": "228-229.",
+		"page": "228-229",
+		"publisher": "Congrès de Marseille",
 		"title": "Le droit de la mer en Méditerranée",
 		"author": [
 			{
@@ -1301,5 +1249,256 @@
 		"language": "zh",
 		"title": "被告人李宁、张磊贪污案一审开庭",
 		"URL": "http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm"
+	},
+	{
+		"id": "molc.97:02",
+		"type": "legal_case",
+		"authority": "最高裁判所",
+		"container-title": "最高裁判所民事判例集",
+		"language": "ja",
+		"number": "6",
+		"page": "1113",
+		"volume": "36",
+		"issued": {
+			"date-parts": [
+				[
+					"1982",
+					7,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "molc.97:01",
+		"type": "legal_case",
+		"authority": "大審院",
+		"container-title": "大審院民事判決録",
+		"language": "ja",
+		"page": "356",
+		"volume": "25",
+		"issued": {
+			"date-parts": [
+				[
+					"1919",
+					3,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "molc.91.4:01",
+		"type": "chapter",
+		"container-title": "Münchener Kommentar BGB",
+		"edition": "6",
+		"language": "de",
+		"URL": "https://beck-online.beck.de/?vpath=bibdata%2Fkomm%2FMuekoBGB_Band5%2FBGB%2Fcont%2FMuekoBGB.BGB.P817.T0.htm",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Schwab",
+				"given": "Martin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "molc.91.3:01",
+		"type": "book",
+		"edition": "4",
+		"ISBN": "978-3-406-53071-5",
+		"language": "de",
+		"number-of-pages": "1136",
+		"publisher": "C. H. Beck",
+		"source": "Google Books",
+		"title": "Strafrecht Allgemeiner Teil",
+		"title-short": "Strafrecht",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Roxin",
+				"given": "Claus"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "molc.93:01",
+		"type": "legal_case",
+		"container-title": "BVerfGE",
+		"language": "de",
+		"page": "369",
+		"title": "Strauß-Karikatur, Kunstfreiheit",
+		"volume": "75"
+	},
+	{
+		"id": "molc.99:01",
+		"type": "document",
+		"language": "ja",
+		"title": "平成26年版犯罪白書",
+		"URL": "https://hakusyo1.moj.go.jp/jp/61/nfm/mokuji.html"
+	},
+	{
+		"id": "molc.93:02",
+		"type": "legal_case",
+		"authority": "BGH",
+		"container-title": "NStZ-RR",
+		"language": "de",
+		"page": "185",
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "molc.93:03",
+		"type": "legal_case",
+		"authority": "BGH",
+		"container-title": "NJW",
+		"language": "de",
+		"page": "1560",
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "molc.92:03",
+		"type": "legislation",
+		"language": "de",
+		"title": "GG"
+	},
+	{
+		"id": "molc.92:01",
+		"type": "legislation",
+		"language": "de",
+		"section": "§ 32 II",
+		"title": "StGB"
+	},
+	{
+		"id": "molc.92:02",
+		"type": "legislation",
+		"language": "de",
+		"section": "§ 58a I Nr. 2",
+		"title": "StPO"
+	},
+	{
+		"id": "molc.94:01",
+		"type": "webpage",
+		"language": "de",
+		"title": "Wissenschaftliches Publizieren",
+		"URL": "https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html",
+		"author": [
+			{
+				"family": "Meidenbauer",
+				"given": "Martin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					10,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "molc.85:01",
+		"type": "webpage",
+		"container-title": "BBC News",
+		"language": "en",
+		"title": "When China began streaming trials online",
+		"URL": "https://www.bbc.com/news/blogs-china-blog-37515399",
+		"author": [
+			{
+				"family": "McDonell",
+				"given": "Stephen"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					9,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "molc.98:01",
+		"type": "legislation",
+		"language": "ja",
+		"title": "動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律",
+		"URL": "https://elaws.e-gov.go.jp/document?lawid=410AC0000000104_20220401_503AC0000000037"
+	},
+	{
+		"id": "molc.99:99",
+		"type": "webpage",
+		"language": "ja",
+		"title": "ジュリスト",
+		"URL": "http://www.yuhikaku.co.jp/jurist",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "molc.89:01",
+		"type": "webpage",
+		"container-title": "Histoire & mesure",
+		"language": "fr",
+		"title": "L’histoire de l’art et le quantitatif",
+		"URL": "http://histoiremesure.revues.org/index3543.html",
+		"author": [
+			{
+				"family": "Joyeux-Prunel",
+				"given": "Béatrice"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2010",
+					3,
+					17
+				]
+			]
+		}
 	}
 ]

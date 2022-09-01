@@ -305,12 +305,35 @@
         ],
         [
             {
-                "id": "molc.91.1:01"
+                "id": "molc.89:01"
             }
         ],
         [
             {
-                "id": "molc.91.1:02"
+                "id": "molc.89:01",
+                "locator": "42-73",
+                "label": "page"
+            }
+        ],
+        [
+            {
+                "id": "molc.86.2:01",
+                "locator": "212",
+                "label": "page"
+            }
+        ],
+        [
+            {
+                "id": "molc.91.1:01",
+                "locator": "630",
+                "label": "page"
+            }
+        ],
+        [
+            {
+                "id": "molc.91.1:02",
+                "locator": "238 f.",
+                "label": "page"
             }
         ],
         [
@@ -320,42 +343,139 @@
         ],
         [
             {
-                "id": "molc.91.3:01"
+                "id": "molc.91.3:01",
+                "locator": "15 Rn. 19",
+                "label": "section"
             }
         ],
         [
             {
-                "id": "molc.91.3:02"
+                "id": "molc.91.3:02",
+                "locator": "181",
+                "label": "page"
             }
         ],
         [
             {
-                "id": "molc.91.5:01"
+                "id": "molc.91.4:01",
+                "locator": "817 Rn. 9",
+                "label": "section"
             }
         ],
         [
             {
-                "id": "molc.91.6:01"
+                "id": "molc.91.5:01",
+                "locator": "46 ff.",
+                "label": "page"
             }
         ],
         [
             {
-                "id": "molc.96.1:01"
+                "id": "molc.91.6:01",
+                "locator": "524",
+                "label": "page"
             }
         ],
         [
             {
-                "id": "molc.96.1:03"
+                "id": "molc.92:01"
             }
         ],
         [
             {
-                "id": "molc.96.2:01"
+                "id": "molc.92:02"
+            }
+        ],
+        [
+            {
+                "id": "molc.92:03",
+                "locator": "2 II",
+                "label": "article-locator"
+            }
+        ],
+        [
+            {
+                "id": "molc.93:01"
+            }
+        ],
+        [
+            {
+                "id": "molc.93:02"
+            }
+        ],
+        [
+            {
+                "id": "molc.93:03"
+            }
+        ],
+        [
+            {
+                "id": "molc.94:01"
+            }
+        ],
+        [
+            {
+                "id": "molc.91.3:01",
+                "locator": "101",
+                "label": "page"
+            }
+        ],
+        [
+            {
+                "id": "molc.91.4:01",
+                "locator": "817 Rn. 9",
+                "label": "section"
+            }
+        ],
+        [
+            {
+                "id": "molc.96.1:01",
+                "locator": "50",
+                "label": "page"
+            }
+        ],
+        [
+            {
+                "id": "molc.96.1:02",
+                "locator": "31",
+                "label": "page",
+                "suffix": "参照"
+            }
+        ],
+        [
+            {
+                "id": "molc.96.2:01",
+                "suffix": "以下"
             }
         ],
         [
             {
                 "id": "molc.96.3:01"
+            }
+        ],
+        [
+            {
+                "id": "molc.97:01"
+            }
+        ],
+        [
+            {
+                "id": "molc.97:02"
+            }
+        ],
+        [
+            {
+                "id": "molc.98:01"
+            }
+        ],
+        [
+            {
+                "id": "molc.99:01"
+            }
+        ],
+        [
+            {
+                "id": "molc.99:99"
             }
         ]
     ]

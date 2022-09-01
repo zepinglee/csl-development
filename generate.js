@@ -17,10 +17,21 @@ function make_citeproc_sys(items) {
     }
     var citeproc_sys = {
         retrieveLocale: function (lang){
-            return fs.readFileSync("locales/locales-" + lang + ".xml", "utf8");
+            var path = "locales/locales-" + lang + ".xml";
+            if (fs.existsSync(path)) {
+                return fs.readFileSync(path, "utf8");
+            } else {
+                console.error('Cannot find "' + path + '".');
+                return undefined;
+            }
         },
         retrieveItem: function(id){
-            return bib[id];
+            if (bib[id]) {
+                return bib[id];
+            } else {
+                console.error('Cannot find "' + id + '".');
+                return undefined;
+            }
         }
     };
     return citeproc_sys;
