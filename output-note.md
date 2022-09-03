@@ -110,7 +110,7 @@
   <sup>68</sup> 大審院1919年3月3日判決，大審院民事判決録25輯356頁。<br>
   <sup>69</sup> 最高裁判所1982年7月15日判決，最高裁判所民事判例集36卷6号1113頁。<br>
   <sup>70</sup> 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律。<br>
-  <sup>71</sup> 「平成26年版犯罪白書」。<br>
+  <sup>71</sup> 「平成26年版犯罪白書」による。<br>
   <sup>72</sup> 「ジュリスト」（访问于2022年9月1日）<a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>。<br>
 </blockquote>
 
