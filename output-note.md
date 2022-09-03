@@ -79,11 +79,11 @@
   <sup>37</sup> Marc Chevallier, <i>L’État de droit</i>, Montchrestien, 4<sup>e</sup> éd., Paris, 2003.<br>
   <sup>38</sup> Marc Poisson, « Le droit de la mer », <i>RGDIP</i>, 2015, p. 15-47.<br>
   <sup>39</sup> Claire Badiou-Monferran, « La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle », <i>La Licorne</i>, n<sup>o</sup> 43, 1997, p. 75-94.<br>
-  <sup>40</sup> Marc Poisson, « Le droit de la mer », in R. Lapieuvre (éd.), <i>Le droit des Océans</i>, Éditions de la mer, 2015, p. 12-48.<br>
+  <sup>40</sup> Marc Poisson, « Le droit de la mer », in R. Lapieuvre (dir.), <i>Le droit des Océans</i>, Éditions de la mer, 2015, p. 12-48.<br>
   <sup>41</sup> Marc Poisson, Le droit de la mer en Méditerranée, Congrès de Marseille, juillet 2016, p. 228-229.<br>
   <sup>42</sup> Marc Poisson, Le droit de la mer en Méditerranée, Rapport de recherche de l’IFREMER, n<sup>o</sup> 1202, août 2016.<br>
   <sup>43</sup> Marc Poisson, Le droit de la mer appliqué à la Méditerranée, Thèse de l’Université de Marseille, 17 juin 2016.<br>
-  <sup>44</sup> Béatrice Joyeux-Prunel, L’histoire de l’art et le quantitatif, Histoire &#38; mesure, [En ligne: <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>]. Consulté le 17 mars 2010.<br>
+  <sup>44</sup> Béatrice Joyeux-Prunel, L’histoire de l’art et le quantitatif, Histoire &#38; mesure, vol. XXIII, n° 2, 2008, [En ligne: <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>]. Consulté le 17 mars 2010.<br>
   <sup>45</sup> Ibid., p. 42-73.<br>
   <sup>46</sup> Marc Poisson, « Le droit de la mer », op. cit., p. 212.<br>
   <sup>47</sup> Benjamin Vogel, Rechtsgüterschutz und Normgeltung, ZStW 129 (2017), S. 630.<br>
@@ -108,7 +108,7 @@
   <sup>66</sup> 於保不二雄「付加物及び従物と抵当権」民商法雑誌29巻5号（1954年）1頁以下。<br>
   <sup>67</sup> 佐藤英明「一時所得の要件に関する覚書」金子宏ほか編『租税法と市場』（有斐閣，2014年）220頁。<br>
   <sup>68</sup> 大審院1919年3月3日判決，大審院民事判決録25輯356頁。<br>
-  <sup>69</sup> 最高裁判所1982年7月15日判決，最高裁判所民事判例集36巻6号1113頁。<br>
+  <sup>69</sup> 最高裁判所1982年7月15日判決，最高裁判所民事判例集36卷6号1113頁。<br>
   <sup>70</sup> 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律。<br>
   <sup>71</sup> 「平成26年版犯罪白書」。<br>
   <sup>72</sup> 「ジュリスト」（访问于2022年9月1日）<a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>。<br>
@@ -157,11 +157,11 @@
     <div class="csl-entry">〔37〕 Marc Chevallier, <i>L’État de droit</i>, Montchrestien, 4<sup>e</sup> éd., Paris, 2003.</div>
     <div class="csl-entry">〔38〕 Marc Poisson, « Le droit de la mer », <i>RGDIP</i>, 2015, p. 15-47.</div>
     <div class="csl-entry">〔39〕 Claire Badiou-Monferran, « La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle », <i>La Licorne</i>, n<sup>o</sup> 43, 1997, p. 75-94.</div>
-    <div class="csl-entry">〔40〕 Marc Poisson, « Le droit de la mer », in R. Lapieuvre (éd.), <i>Le droit des Océans</i>, Éditions de la mer, 2015, p. 12-48.</div>
+    <div class="csl-entry">〔40〕 Marc Poisson, « Le droit de la mer », in R. Lapieuvre (dir.), <i>Le droit des Océans</i>, Éditions de la mer, 2015, p. 12-48.</div>
     <div class="csl-entry">〔41〕 Marc Poisson, Le droit de la mer en Méditerranée, Congrès de Marseille, juillet 2016, p. 228-229.</div>
     <div class="csl-entry">〔42〕 Marc Poisson, Le droit de la mer en Méditerranée, Rapport de recherche de l’IFREMER, n<sup>o</sup> 1202, août 2016.</div>
     <div class="csl-entry">〔43〕 Marc Poisson, Le droit de la mer appliqué à la Méditerranée, Thèse de l’Université de Marseille, 17 juin 2016.</div>
-    <div class="csl-entry">〔44〕 Béatrice Joyeux-Prunel, L’histoire de l’art et le quantitatif, Histoire &#38; mesure, [En ligne: <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>]. Consulté le 17 mars 2010.</div>
+    <div class="csl-entry">〔44〕 Béatrice Joyeux-Prunel, L’histoire de l’art et le quantitatif, Histoire &#38; mesure, vol. XXIII, n° 2, 2008, [En ligne: <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>]. Consulté le 17 mars 2010.</div>
     <div class="csl-entry">〔45〕 Benjamin Vogel, Rechtsgüterschutz und Normgeltung, ZStW 129 (2017).</div>
     <div class="csl-entry">〔46〕 Markus Würdinger, Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts, JuS 2012.</div>
     <div class="csl-entry">〔47〕 Thomas Fischer, Absurdes Spektakel um den Tod, in: Die Zeit v. 29.9.2015.</div>
@@ -172,7 +172,7 @@
     <div class="csl-entry">〔52〕 Claus-Wilhelm Canaris, Gesamtunwirksamkeit und Teilgü-ltigkeit rechtsgeschäftlicher Regelungen, FS-Steindorff, 1990.</div>
     <div class="csl-entry">〔53〕 § 32 II StGB.</div>
     <div class="csl-entry">〔54〕 § 58a I Nr. 2 StPO.</div>
-    <div class="csl-entry">〔55〕 GG.</div>
+    <div class="csl-entry">〔55〕 Art. 2 II GG.</div>
     <div class="csl-entry">〔56〕 BVerfGE 75, 369.</div>
     <div class="csl-entry">〔57〕 BGH NStZ-RR 1999, 185.</div>
     <div class="csl-entry">〔58〕 BGH NJW 2000, 1560.</div>
@@ -182,7 +182,7 @@
     <div class="csl-entry">〔62〕 於保不二雄「付加物及び従物と抵当権」民商法雑誌29巻5号（1954年）1頁。</div>
     <div class="csl-entry">〔63〕 佐藤英明「一時所得の要件に関する覚書」金子宏ほか編『租税法と市場』（有斐閣，2014年）220頁。</div>
     <div class="csl-entry">〔64〕 大審院1919年3月3日判決，大審院民事判決録25輯356頁。</div>
-    <div class="csl-entry">〔65〕 最高裁判所1982年7月15日判決，最高裁判所民事判例集36巻6号1113頁。</div>
+    <div class="csl-entry">〔65〕 最高裁判所1982年7月15日判決，最高裁判所民事判例集36卷6号1113頁。</div>
     <div class="csl-entry">〔66〕 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律。</div>
     <div class="csl-entry">〔67〕 「平成26年版犯罪白書」。</div>
     <div class="csl-entry">〔68〕 「ジュリスト」（访问于2022年9月1日）<a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>。</div>
@@ -239,7 +239,7 @@
     <div class="csl-entry">〔44〕 Marc Chevallier, <i>L’État de droit</i>, Montchrestien, 4<sup>e</sup> éd., Paris, 2003.</div>
     <div class="csl-entry">〔45〕 Claire Badiou-Monferran, « La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle », <i>La Licorne</i>, n<sup>o</sup> 43, 1997, p. 75-94.</div>
     <div class="csl-entry">〔46〕 Marc Poisson, « Le droit de la mer », <i>RGDIP</i>, 2015, p. 15-47.</div>
-    <div class="csl-entry">〔47〕 Marc Poisson, « Le droit de la mer », in R. Lapieuvre (éd.), <i>Le droit des Océans</i>, Éditions de la mer, 2015, p. 12-48.</div>
+    <div class="csl-entry">〔47〕 Marc Poisson, « Le droit de la mer », in R. Lapieuvre (dir.), <i>Le droit des Océans</i>, Éditions de la mer, 2015, p. 12-48.</div>
     <div class="csl-entry">〔48〕 Marc Poisson, Le droit de la mer en Méditerranée, Congrès de Marseille, juillet 2016, p. 228-229.</div>
     <div class="csl-entry">〔49〕 Marc Poisson, Le droit de la mer en Méditerranée, Rapport de recherche de l’IFREMER, n<sup>o</sup> 1202, août 2016.</div>
     <div class="csl-entry">〔50〕 Marc Poisson, Le droit de la mer appliqué à la Méditerranée, Thèse de l’Université de Marseille, 17 juin 2016.</div>
@@ -247,7 +247,7 @@
     <div class="csl-entry">〔52〕 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案，最高人民法院民事裁定书（2011）民一终字第 81 号，2017年12月16日。</div>
     <div class="csl-entry">〔53〕 [德]莱纳·沃尔夫：《风险法的风险》，陈霄译，载刘刚主编：《风险规制：德国的理论与实践》，法律出版社2012年版。</div>
     <div class="csl-entry">〔54〕 《被告人李宁、张磊贪污案一审开庭》，载新华网，<a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>。</div>
-    <div class="csl-entry">〔55〕 最高裁判所1982年7月15日判決，最高裁判所民事判例集36巻6号1113頁。</div>
+    <div class="csl-entry">〔55〕 最高裁判所1982年7月15日判決，最高裁判所民事判例集36卷6号1113頁。</div>
     <div class="csl-entry">〔56〕 大審院1919年3月3日判決，大審院民事判決録25輯356頁。</div>
     <div class="csl-entry">〔57〕 Martin Schwab, in: Münchener Kommentar BGB, Band V, 6. Aufl., 2013.</div>
     <div class="csl-entry">〔58〕 Claus Roxin, Strafrecht Allgemeiner Teil, Band I, 4. Aufl., 2006.</div>
@@ -255,14 +255,16 @@
     <div class="csl-entry">〔60〕 「平成26年版犯罪白書」。</div>
     <div class="csl-entry">〔61〕 BGH NStZ-RR 1999, 185.</div>
     <div class="csl-entry">〔62〕 BGH NJW 2000, 1560.</div>
-    <div class="csl-entry">〔63〕 GG.</div>
+    <div class="csl-entry">〔63〕 Art. 2 II GG.</div>
     <div class="csl-entry">〔64〕 § 32 II StGB.</div>
     <div class="csl-entry">〔65〕 § 58a I Nr. 2 StPO.</div>
     <div class="csl-entry">〔66〕 Martin Meidenbauer, Wissenschaftliches Publizieren, URL: <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>. (abgerufen am 10. Oktober 2017).</div>
     <div class="csl-entry">〔67〕 Stephen McDonell, <i>When China Began Streaming Trials Online</i>, BBC News (30 September 2016), <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.</div>
     <div class="csl-entry">〔68〕 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律。</div>
     <div class="csl-entry">〔69〕 「ジュリスト」（访问于2022年9月1日）<a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>。</div>
-    <div class="csl-entry">〔70〕 Béatrice Joyeux-Prunel, L’histoire de l’art et le quantitatif, Histoire &#38; mesure, [En ligne: <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>]. Consulté le 17 mars 2010.</div>
+    <div class="csl-entry">〔70〕 Béatrice Joyeux-Prunel, L’histoire de l’art et le quantitatif, Histoire &#38; mesure, vol. XXIII, n° 2, 2008, [En ligne: <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>]. Consulté le 17 mars 2010.</div>
+    <div class="csl-entry">〔71〕 颜厥安、谢世民、等：《以平等为本的自由主义：德沃金法政哲学研究》，开学文化2014年版。</div>
+    <div class="csl-entry">〔72〕 李旭东：《司法建构主义的法律概念——德沃金《法律帝国》重述》，山东人民出版社2016年版。</div>
   </div>
 </blockquote>
 

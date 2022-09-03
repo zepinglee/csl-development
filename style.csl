@@ -955,6 +955,9 @@
     <names variable="editor">
       <name initialize="true" and="symbol" delimiter=", " delimiter-precedes-last="never"/>
       <label form="short" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editorial-director"/>
+      </substitute>
     </names>
   </macro>
   <macro name="editor-ja">
