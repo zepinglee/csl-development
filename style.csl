@@ -847,6 +847,16 @@
       <else-if type="article-journal article-newspaper article-magazine chapter paper-conference" match="any">
         <text variable="title" quotes="true"/>
       </else-if>
+      <else-if type="post post-weblog webpage" match="any">
+        <choose>
+          <if variable="container-title">
+            <text variable="title" quotes="true"/>
+          </if>
+          <else>
+            <text variable="title"/>
+          </else>
+        </choose>
+      </else-if>
       <else>
         <text variable="title"/>
       </else>

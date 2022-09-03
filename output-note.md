@@ -83,7 +83,7 @@
   <sup>41</sup> Marc Poisson, <i>Le droit de la mer en Méditerranée</i>, Congrès de Marseille, juillet 2016, p. 228-229.<br>
   <sup>42</sup> Marc Poisson, <i>Le droit de la mer en Méditerranée</i>, Rapport de recherche de l’IFREMER, n<sup>o</sup> 1202, août 2016.<br>
   <sup>43</sup> Marc Poisson, <i>Le droit de la mer appliqué à la Méditerranée</i>, Thèse de l’Université de Marseille, 17 juin 2016.<br>
-  <sup>44</sup> Béatrice Joyeux-Prunel, L’histoire de l’art et le quantitatif, Histoire &#38; mesure, vol. XXIII, n° 2, 2008, [En ligne: <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>]. Consulté le 17 mars 2010.<br>
+  <sup>44</sup> Béatrice Joyeux-Prunel, « L’histoire de l’art et le quantitatif », Histoire &#38; mesure, vol. XXIII, n° 2, 2008, [En ligne: <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>]. Consulté le 17 mars 2010.<br>
   <sup>45</sup> Ibid., p. 42-73.<br>
   <sup>46</sup> Marc Poisson, « Le droit de la mer », op. cit., p. 212.<br>
   <sup>47</sup> Benjamin Vogel, Rechtsgüterschutz und Normgeltung, ZStW 129 (2017), S. 630.<br>
@@ -161,7 +161,7 @@
     <div class="csl-entry">〔41〕 Marc Poisson, <i>Le droit de la mer en Méditerranée</i>, Congrès de Marseille, juillet 2016, p. 228-229.</div>
     <div class="csl-entry">〔42〕 Marc Poisson, <i>Le droit de la mer en Méditerranée</i>, Rapport de recherche de l’IFREMER, n<sup>o</sup> 1202, août 2016.</div>
     <div class="csl-entry">〔43〕 Marc Poisson, <i>Le droit de la mer appliqué à la Méditerranée</i>, Thèse de l’Université de Marseille, 17 juin 2016.</div>
-    <div class="csl-entry">〔44〕 Béatrice Joyeux-Prunel, L’histoire de l’art et le quantitatif, Histoire &#38; mesure, vol. XXIII, n° 2, 2008, [En ligne: <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>]. Consulté le 17 mars 2010.</div>
+    <div class="csl-entry">〔44〕 Béatrice Joyeux-Prunel, « L’histoire de l’art et le quantitatif », Histoire &#38; mesure, vol. XXIII, n° 2, 2008, [En ligne: <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>]. Consulté le 17 mars 2010.</div>
     <div class="csl-entry">〔45〕 Benjamin Vogel, Rechtsgüterschutz und Normgeltung, ZStW 129 (2017).</div>
     <div class="csl-entry">〔46〕 Markus Würdinger, Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts, JuS 2012.</div>
     <div class="csl-entry">〔47〕 Thomas Fischer, Absurdes Spektakel um den Tod, in: Die Zeit v. 29.9.2015.</div>
@@ -262,7 +262,7 @@
     <div class="csl-entry">〔67〕 Stephen McDonell, <i>When China Began Streaming Trials Online</i>, BBC News (30 September 2016), <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.</div>
     <div class="csl-entry">〔68〕 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律。</div>
     <div class="csl-entry">〔69〕 「ジュリスト」（访问于2022年9月1日）<a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>。</div>
-    <div class="csl-entry">〔70〕 Béatrice Joyeux-Prunel, L’histoire de l’art et le quantitatif, Histoire &#38; mesure, vol. XXIII, n° 2, 2008, [En ligne: <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>]. Consulté le 17 mars 2010.</div>
+    <div class="csl-entry">〔70〕 Béatrice Joyeux-Prunel, « L’histoire de l’art et le quantitatif », Histoire &#38; mesure, vol. XXIII, n° 2, 2008, [En ligne: <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>]. Consulté le 17 mars 2010.</div>
     <div class="csl-entry">〔71〕 颜厥安、谢世民、等：《以平等为本的自由主义：德沃金法政哲学研究》，开学文化2014年版。</div>
     <div class="csl-entry">〔72〕 李旭东：《司法建构主义的法律概念——德沃金《法律帝国》重述》，山东人民出版社2016年版。</div>
   </div>
