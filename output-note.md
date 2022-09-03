@@ -80,9 +80,9 @@
   <sup>38</sup> Marc Poisson, « Le droit de la mer », <i>RGDIP</i>, 2015, p. 15-47.<br>
   <sup>39</sup> Claire Badiou-Monferran, « La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle », <i>La Licorne</i>, n<sup>o</sup> 43, 1997, p. 75-94.<br>
   <sup>40</sup> Marc Poisson, « Le droit de la mer », in R. Lapieuvre (dir.), <i>Le droit des Océans</i>, Éditions de la mer, 2015, p. 12-48.<br>
-  <sup>41</sup> Marc Poisson, Le droit de la mer en Méditerranée, Congrès de Marseille, juillet 2016, p. 228-229.<br>
-  <sup>42</sup> Marc Poisson, Le droit de la mer en Méditerranée, Rapport de recherche de l’IFREMER, n<sup>o</sup> 1202, août 2016.<br>
-  <sup>43</sup> Marc Poisson, Le droit de la mer appliqué à la Méditerranée, Thèse de l’Université de Marseille, 17 juin 2016.<br>
+  <sup>41</sup> Marc Poisson, <i>Le droit de la mer en Méditerranée</i>, Congrès de Marseille, juillet 2016, p. 228-229.<br>
+  <sup>42</sup> Marc Poisson, <i>Le droit de la mer en Méditerranée</i>, Rapport de recherche de l’IFREMER, n<sup>o</sup> 1202, août 2016.<br>
+  <sup>43</sup> Marc Poisson, <i>Le droit de la mer appliqué à la Méditerranée</i>, Thèse de l’Université de Marseille, 17 juin 2016.<br>
   <sup>44</sup> Béatrice Joyeux-Prunel, L’histoire de l’art et le quantitatif, Histoire &#38; mesure, vol. XXIII, n° 2, 2008, [En ligne: <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>]. Consulté le 17 mars 2010.<br>
   <sup>45</sup> Ibid., p. 42-73.<br>
   <sup>46</sup> Marc Poisson, « Le droit de la mer », op. cit., p. 212.<br>
@@ -158,9 +158,9 @@
     <div class="csl-entry">〔38〕 Marc Poisson, « Le droit de la mer », <i>RGDIP</i>, 2015, p. 15-47.</div>
     <div class="csl-entry">〔39〕 Claire Badiou-Monferran, « La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle », <i>La Licorne</i>, n<sup>o</sup> 43, 1997, p. 75-94.</div>
     <div class="csl-entry">〔40〕 Marc Poisson, « Le droit de la mer », in R. Lapieuvre (dir.), <i>Le droit des Océans</i>, Éditions de la mer, 2015, p. 12-48.</div>
-    <div class="csl-entry">〔41〕 Marc Poisson, Le droit de la mer en Méditerranée, Congrès de Marseille, juillet 2016, p. 228-229.</div>
-    <div class="csl-entry">〔42〕 Marc Poisson, Le droit de la mer en Méditerranée, Rapport de recherche de l’IFREMER, n<sup>o</sup> 1202, août 2016.</div>
-    <div class="csl-entry">〔43〕 Marc Poisson, Le droit de la mer appliqué à la Méditerranée, Thèse de l’Université de Marseille, 17 juin 2016.</div>
+    <div class="csl-entry">〔41〕 Marc Poisson, <i>Le droit de la mer en Méditerranée</i>, Congrès de Marseille, juillet 2016, p. 228-229.</div>
+    <div class="csl-entry">〔42〕 Marc Poisson, <i>Le droit de la mer en Méditerranée</i>, Rapport de recherche de l’IFREMER, n<sup>o</sup> 1202, août 2016.</div>
+    <div class="csl-entry">〔43〕 Marc Poisson, <i>Le droit de la mer appliqué à la Méditerranée</i>, Thèse de l’Université de Marseille, 17 juin 2016.</div>
     <div class="csl-entry">〔44〕 Béatrice Joyeux-Prunel, L’histoire de l’art et le quantitatif, Histoire &#38; mesure, vol. XXIII, n° 2, 2008, [En ligne: <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>]. Consulté le 17 mars 2010.</div>
     <div class="csl-entry">〔45〕 Benjamin Vogel, Rechtsgüterschutz und Normgeltung, ZStW 129 (2017).</div>
     <div class="csl-entry">〔46〕 Markus Würdinger, Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts, JuS 2012.</div>
@@ -240,9 +240,9 @@
     <div class="csl-entry">〔45〕 Claire Badiou-Monferran, « La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle », <i>La Licorne</i>, n<sup>o</sup> 43, 1997, p. 75-94.</div>
     <div class="csl-entry">〔46〕 Marc Poisson, « Le droit de la mer », <i>RGDIP</i>, 2015, p. 15-47.</div>
     <div class="csl-entry">〔47〕 Marc Poisson, « Le droit de la mer », in R. Lapieuvre (dir.), <i>Le droit des Océans</i>, Éditions de la mer, 2015, p. 12-48.</div>
-    <div class="csl-entry">〔48〕 Marc Poisson, Le droit de la mer en Méditerranée, Congrès de Marseille, juillet 2016, p. 228-229.</div>
-    <div class="csl-entry">〔49〕 Marc Poisson, Le droit de la mer en Méditerranée, Rapport de recherche de l’IFREMER, n<sup>o</sup> 1202, août 2016.</div>
-    <div class="csl-entry">〔50〕 Marc Poisson, Le droit de la mer appliqué à la Méditerranée, Thèse de l’Université de Marseille, 17 juin 2016.</div>
+    <div class="csl-entry">〔48〕 Marc Poisson, <i>Le droit de la mer en Méditerranée</i>, Congrès de Marseille, juillet 2016, p. 228-229.</div>
+    <div class="csl-entry">〔49〕 Marc Poisson, <i>Le droit de la mer en Méditerranée</i>, Rapport de recherche de l’IFREMER, n<sup>o</sup> 1202, août 2016.</div>
+    <div class="csl-entry">〔50〕 Marc Poisson, <i>Le droit de la mer appliqué à la Méditerranée</i>, Thèse de l’Université de Marseille, 17 juin 2016.</div>
     <div class="csl-entry">〔51〕 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案，最高人民法院指导案例24号（2014年）。</div>
     <div class="csl-entry">〔52〕 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案，最高人民法院民事裁定书（2011）民一终字第 81 号，2017年12月16日。</div>
     <div class="csl-entry">〔53〕 [德]莱纳·沃尔夫：《风险法的风险》，陈霄译，载刘刚主编：《风险规制：德国的理论与实践》，法律出版社2012年版。</div>
