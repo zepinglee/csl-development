@@ -77,15 +77,15 @@
   <sup>35</sup> United States <i>v.</i> Dino Nastasi et al., No. 3:15-cr-00213-FDW-DCK (W.D. North Carolina).<br>
   <sup>36</sup> Stephen McDonell, <i>When China Began Streaming Trials Online</i>, BBC News (30 September 2016), <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.<br>
   <sup>37</sup> Marc Chevallier, <i>L’État de droit</i>, Montchrestien, 4<sup>e</sup> éd., Paris, 2003.<br>
-  <sup>38</sup> Marc Poisson, « Le droit de la mer, » RGDIP, 2015, p. 15-47.<br>
-  <sup>39</sup> Claire Badiou-Monferran, « La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle, » La Licorne, n<sup>o</sup> 43, 1997, p. 75-94.<br>
-  <sup>40</sup> Marc Poisson, « Le droit de la mer, » in R. Lapieuvre (éd.), Le droit des Océans, Éditions de la mer, 2015, p. 12-48.<br>
+  <sup>38</sup> Marc Poisson, « Le droit de la mer », RGDIP, 2015, p. 15-47.<br>
+  <sup>39</sup> Claire Badiou-Monferran, « La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle », La Licorne, n<sup>o</sup> 43, 1997, p. 75-94.<br>
+  <sup>40</sup> Marc Poisson, « Le droit de la mer », in R. Lapieuvre (éd.), Le droit des Océans, Éditions de la mer, 2015, p. 12-48.<br>
   <sup>41</sup> Marc Poisson, Le droit de la mer en Méditerranée, Congrès de Marseille, juillet 2016, p. 228-229.<br>
   <sup>42</sup> Marc Poisson, Le droit de la mer en Méditerranée, Rapport de recherche de l’IFREMER, n<sup>o</sup> 1202, août 2016.<br>
   <sup>43</sup> Marc Poisson, Le droit de la mer appliqué à la Méditerranée, Thèse de l’Université de Marseille, 17 juin 2016.<br>
   <sup>44</sup> Béatrice Joyeux-Prunel, L’histoire de l’art et le quantitatif, Histoire &#38; mesure, [En ligne: <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>]. Consulté le 17 mars 2010.<br>
   <sup>45</sup> Ibid., p. 42-73.<br>
-  <sup>46</sup> Marc Poisson, « Le droit de la mer, » op. cit., p. 212.<br>
+  <sup>46</sup> Marc Poisson, « Le droit de la mer », op. cit., p. 212.<br>
   <sup>47</sup> Benjamin Vogel, Rechtsgüterschutz und Normgeltung, ZStW 129 (2017), S. 630.<br>
   <sup>48</sup> Markus Würdinger, Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts, JuS 2012, S. 238 f.<br>
   <sup>49</sup> Thomas Fischer, Absurdes Spektakel um den Tod, in: Die Zeit v. 29.9.2015.<br>
@@ -155,9 +155,9 @@
     <div class="csl-entry">〔35〕 United States <i>v.</i> Dino Nastasi et al., No. 3:15-cr-00213-FDW-DCK (W.D. North Carolina).</div>
     <div class="csl-entry">〔36〕 Stephen McDonell, <i>When China Began Streaming Trials Online</i>, BBC News (30 September 2016), <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.</div>
     <div class="csl-entry">〔37〕 Marc Chevallier, <i>L’État de droit</i>, Montchrestien, 4<sup>e</sup> éd., Paris, 2003.</div>
-    <div class="csl-entry">〔38〕 Marc Poisson, « Le droit de la mer, » RGDIP, 2015, p. 15-47.</div>
-    <div class="csl-entry">〔39〕 Claire Badiou-Monferran, « La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle, » La Licorne, n<sup>o</sup> 43, 1997, p. 75-94.</div>
-    <div class="csl-entry">〔40〕 Marc Poisson, « Le droit de la mer, » in R. Lapieuvre (éd.), Le droit des Océans, Éditions de la mer, 2015, p. 12-48.</div>
+    <div class="csl-entry">〔38〕 Marc Poisson, « Le droit de la mer », RGDIP, 2015, p. 15-47.</div>
+    <div class="csl-entry">〔39〕 Claire Badiou-Monferran, « La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle », La Licorne, n<sup>o</sup> 43, 1997, p. 75-94.</div>
+    <div class="csl-entry">〔40〕 Marc Poisson, « Le droit de la mer », in R. Lapieuvre (éd.), Le droit des Océans, Éditions de la mer, 2015, p. 12-48.</div>
     <div class="csl-entry">〔41〕 Marc Poisson, Le droit de la mer en Méditerranée, Congrès de Marseille, juillet 2016, p. 228-229.</div>
     <div class="csl-entry">〔42〕 Marc Poisson, Le droit de la mer en Méditerranée, Rapport de recherche de l’IFREMER, n<sup>o</sup> 1202, août 2016.</div>
     <div class="csl-entry">〔43〕 Marc Poisson, Le droit de la mer appliqué à la Méditerranée, Thèse de l’Université de Marseille, 17 juin 2016.</div>
@@ -237,9 +237,9 @@
     <div class="csl-entry">〔42〕 Barbara Ward, <i>Progress for a Small Planet</i>, Harvard Business Review, 1979, p. 89.</div>
     <div class="csl-entry">〔43〕 国家质量监督检验检疫总局、中国国家标准化管理委员会：《信息与文献 参考文献著录规则》，2015年版。</div>
     <div class="csl-entry">〔44〕 Marc Chevallier, <i>L’État de droit</i>, Montchrestien, 4<sup>e</sup> éd., Paris, 2003.</div>
-    <div class="csl-entry">〔45〕 Claire Badiou-Monferran, « La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle, » La Licorne, n<sup>o</sup> 43, 1997, p. 75-94.</div>
-    <div class="csl-entry">〔46〕 Marc Poisson, « Le droit de la mer, » RGDIP, 2015, p. 15-47.</div>
-    <div class="csl-entry">〔47〕 Marc Poisson, « Le droit de la mer, » in R. Lapieuvre (éd.), Le droit des Océans, Éditions de la mer, 2015, p. 12-48.</div>
+    <div class="csl-entry">〔45〕 Claire Badiou-Monferran, « La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle », La Licorne, n<sup>o</sup> 43, 1997, p. 75-94.</div>
+    <div class="csl-entry">〔46〕 Marc Poisson, « Le droit de la mer », RGDIP, 2015, p. 15-47.</div>
+    <div class="csl-entry">〔47〕 Marc Poisson, « Le droit de la mer », in R. Lapieuvre (éd.), Le droit des Océans, Éditions de la mer, 2015, p. 12-48.</div>
     <div class="csl-entry">〔48〕 Marc Poisson, Le droit de la mer en Méditerranée, Congrès de Marseille, juillet 2016, p. 228-229.</div>
     <div class="csl-entry">〔49〕 Marc Poisson, Le droit de la mer en Méditerranée, Rapport de recherche de l’IFREMER, n<sup>o</sup> 1202, août 2016.</div>
     <div class="csl-entry">〔50〕 Marc Poisson, Le droit de la mer appliqué à la Méditerranée, Thèse de l’Université de Marseille, 17 juin 2016.</div>

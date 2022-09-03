@@ -36,7 +36,6 @@
     </terms>
   </locale>
   <locale xml:lang="fr">
-    <style-options punctuation-in-quote="false"/>
     <date form="text" delimiter=" ">
       <date-part name="day"/>
       <date-part name="month"/>
@@ -81,6 +80,7 @@
     </terms>
   </locale>
   <locale>
+    <style-options punctuation-in-quote="false"/>
     <terms>
       <term name="page-range-delimiter">-</term>
     </terms>
