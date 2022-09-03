@@ -141,7 +141,7 @@
   </macro>
   <macro name="author-zh">
     <names variable="author">
-      <name delimiter="、"/>
+      <name delimiter="、" delimiter-precedes-et-al="never"/>
       <label form="short"/>
       <substitute>
         <names variable="editor"/>
@@ -151,7 +151,7 @@
   <!-- 略写文献时，标示文献性质的“编”“主编”等可以省略 -->
   <macro name="author-short-zh">
     <names variable="author">
-      <name delimiter="、"/>
+      <name delimiter="、" delimiter-precedes-et-al="never"/>
       <substitute>
         <names variable="editor"/>
       </substitute>
