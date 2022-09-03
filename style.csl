@@ -863,7 +863,10 @@
       <if type="book">
         <group prefix="『" suffix="』">
           <text variable="title"/>
-          <text variable="collection-title" prefix="（" suffix="）"/>
+          <group  prefix="（" suffix="）">
+            <text variable="collection-title"/>
+            <number variable="collection-number" form="roman" text-case="uppercase"/>
+          </group>
         </group>
       </if>
       <else>

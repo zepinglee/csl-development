@@ -103,7 +103,7 @@
   <sup>61</sup> Martin Meidenbauer, Wissenschaftliches Publizieren, URL: <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>. (abgerufen am 10. Oktober 2017).<br>
   <sup>62</sup> Roxin (Fn. 50), S. 101.<br>
   <sup>63</sup> Schwab, Münchener Kommentar BGB (Fn. 52), § 817 Rn. 9.<br>
-  <sup>64</sup> 我妻栄『新訂担保物権法（民法講義）』（有斐閣，1971年）50頁。<br>
+  <sup>64</sup> 我妻栄『新訂担保物権法（民法講義III）』（有斐閣，1971年）50頁。<br>
   <sup>65</sup> 我妻栄=有泉亨『民法総則物権法（法律学体系·コンメンタール篇）』（日本評論社，1950年）31頁参照。<br>
   <sup>66</sup> 於保不二雄「付加物及び従物と抵当権」民商法雑誌29巻5号（1954年）1頁以下。<br>
   <sup>67</sup> 佐藤英明「一時所得の要件に関する覚書」金子宏ほか編『租税法と市場』（有斐閣，2014年）220頁。<br>
@@ -177,7 +177,7 @@
     <div class="csl-entry">〔57〕 BGH NStZ-RR 1999, 185.</div>
     <div class="csl-entry">〔58〕 BGH NJW 2000, 1560.</div>
     <div class="csl-entry">〔59〕 Martin Meidenbauer, Wissenschaftliches Publizieren, URL: <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>. (abgerufen am 10. Oktober 2017).</div>
-    <div class="csl-entry">〔60〕 我妻栄『新訂担保物権法（民法講義）』（有斐閣，1971年）。</div>
+    <div class="csl-entry">〔60〕 我妻栄『新訂担保物権法（民法講義III）』（有斐閣，1971年）。</div>
     <div class="csl-entry">〔61〕 我妻栄=有泉亨『民法総則物権法（法律学体系·コンメンタール篇）』（日本評論社，1950年）。</div>
     <div class="csl-entry">〔62〕 於保不二雄「付加物及び従物と抵当権」民商法雑誌29巻5号（1954年）1頁。</div>
     <div class="csl-entry">〔63〕 佐藤英明「一時所得の要件に関する覚書」金子宏ほか編『租税法と市場』（有斐閣，2014年）220頁。</div>
@@ -230,7 +230,7 @@
     <div class="csl-entry">〔35〕 Benjamin Vogel, Rechtsgüterschutz und Normgeltung, ZStW 129 (2017).</div>
     <div class="csl-entry">〔36〕 佐藤英明「一時所得の要件に関する覚書」金子宏ほか編『租税法と市場』（有斐閣，2014年）220頁。</div>
     <div class="csl-entry">〔37〕 我妻栄=有泉亨『民法総則物権法（法律学体系·コンメンタール篇）』（日本評論社，1950年）。</div>
-    <div class="csl-entry">〔38〕 我妻栄『新訂担保物権法（民法講義）』（有斐閣，1971年）。</div>
+    <div class="csl-entry">〔38〕 我妻栄『新訂担保物権法（民法講義III）』（有斐閣，1971年）。</div>
     <div class="csl-entry">〔39〕 於保不二雄「付加物及び従物と抵当権」民商法雑誌29巻5号（1954年）1頁。</div>
     <div class="csl-entry">〔40〕 Jürgen Habermas, <i>Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy</i>, translated by William Rehg, MIT Press, 1996.</div>
     <div class="csl-entry">〔41〕 Andrew Rosenthal, <i>White House Tutors Kremlin in How a Presidency Works</i>, New York Times, 15 June 1990, at A1.</div>
