@@ -1031,7 +1031,7 @@
     <choose>
       <if type="article-journal article-magazine" match="any">
         <group delimiter=", ">
-          <text variable="container-title" form="short"/>
+          <text variable="container-title" form="short" font-style="italic"/>
           <text macro="issue-fr"/>
         </group>
       </if>
@@ -1040,7 +1040,7 @@
           <text term="in"/>
           <group delimiter=", ">
             <text macro="editor-fr"/>
-            <text variable="container-title"/>
+            <text variable="container-title" font-style="italic"/>
             <text macro="edition-fr"/>
           </group>
         </group>
