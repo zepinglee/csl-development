@@ -88,7 +88,7 @@
   <sup>46</sup> Marc Poisson, « Le droit de la mer », op. cit., p. 212.<br>
   <sup>47</sup> Benjamin Vogel, Rechtsgüterschutz und Normgeltung, ZStW 129 (2017), S. 630.<br>
   <sup>48</sup> Markus Würdinger, Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts, JuS 2012, S. 238 f.<br>
-  <sup>49</sup> Thomas Fischer, Absurdes Spektakel um den Tod, in: Die Zeit v. 29.9.2015.<br>
+  <sup>49</sup> Thomas Fischer, Absurdes Spektakel um den Tod, in: Die Zeit v. 29. 9. 2015.<br>
   <sup>50</sup> Claus Roxin, Strafrecht Allgemeiner Teil, Band I, 4. Aufl., 2006, § 15 Rn. 19.<br>
   <sup>51</sup> Ralf Dreier/Stanley L. Paulson (Hrsg.), Rechtsphilosophie Studienausgabe, 2. Aufl., 2003, S. 181.<br>
   <sup>52</sup> Martin Schwab, in: Münchener Kommentar BGB, Band V, 6. Aufl., 2013, § 817 Rn. 9.<br>
@@ -164,7 +164,7 @@
     <div class="csl-entry">〔44〕 Béatrice Joyeux-Prunel, « L’histoire de l’art et le quantitatif », Histoire &#38; mesure, vol. XXIII, n° 2, 2008, [En ligne: <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>]. Consulté le 17 mars 2010.</div>
     <div class="csl-entry">〔45〕 Benjamin Vogel, Rechtsgüterschutz und Normgeltung, ZStW 129 (2017).</div>
     <div class="csl-entry">〔46〕 Markus Würdinger, Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts, JuS 2012.</div>
-    <div class="csl-entry">〔47〕 Thomas Fischer, Absurdes Spektakel um den Tod, in: Die Zeit v. 29.9.2015.</div>
+    <div class="csl-entry">〔47〕 Thomas Fischer, Absurdes Spektakel um den Tod, in: Die Zeit v. 29. 9. 2015.</div>
     <div class="csl-entry">〔48〕 Claus Roxin, Strafrecht Allgemeiner Teil, Band I, 4. Aufl., 2006.</div>
     <div class="csl-entry">〔49〕 Ralf Dreier/Stanley L. Paulson (Hrsg.), Rechtsphilosophie Studienausgabe, 2. Aufl., 2003.</div>
     <div class="csl-entry">〔50〕 Martin Schwab, in: Münchener Kommentar BGB, Band V, 6. Aufl., 2013.</div>
@@ -223,7 +223,7 @@
     <div class="csl-entry">〔28〕 United States <i>v.</i> Dino Nastasi et al., No. 3:15-cr-00213-FDW-DCK (W.D. North Carolina).</div>
     <div class="csl-entry">〔29〕 Roe <i>v.</i> Wade, 410 U.S. 113 (1973).</div>
     <div class="csl-entry">〔30〕 Claus-Wilhelm Canaris, Gesamtunwirksamkeit und Teilgü-ltigkeit rechtsgeschäftlicher Regelungen, FS-Steindorff, 1990.</div>
-    <div class="csl-entry">〔31〕 Thomas Fischer, Absurdes Spektakel um den Tod, in: Die Zeit v. 29.9.2015.</div>
+    <div class="csl-entry">〔31〕 Thomas Fischer, Absurdes Spektakel um den Tod, in: Die Zeit v. 29. 9. 2015.</div>
     <div class="csl-entry">〔32〕 Arthur Kaufmann, Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht, in: Jürgen Baumann (Hrsg.), Das Abtreibungsverbot des § 218 StGB, 2. Aufl., 1972.</div>
     <div class="csl-entry">〔33〕 Ralf Dreier/Stanley L. Paulson (Hrsg.), Rechtsphilosophie Studienausgabe, 2. Aufl., 2003.</div>
     <div class="csl-entry">〔34〕 Markus Würdinger, Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts, JuS 2012.</div>

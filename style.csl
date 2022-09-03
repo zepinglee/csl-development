@@ -18,9 +18,9 @@
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="de">
-    <date form="text" delimiter=".">
-      <date-part name="day"/>
-      <date-part name="month" form="numeric"/>
+    <date form="text" delimiter=" ">
+      <date-part name="day" form="ordinal"/>
+      <date-part name="month"/>
       <date-part name="year"/>
     </date>
   </locale>
@@ -169,11 +169,7 @@
           <group delimiter=" " prefix="(" suffix=")">
             <text term="retrieved"/>
             <text value="am"/>
-            <date variable="accessed" delimiter=" ">
-              <date-part name="day" form="ordinal"/>
-              <date-part name="month"/>
-              <date-part name="year"/>
-            </date>
+            <date variable="accessed" form="text"/>
           </group>
         </else>
       </choose>
@@ -1280,9 +1276,16 @@
   </macro>
   <macro name="issuance-de">
     <choose>
-      <if type="article-magazine article-newspaper post post-weblog webpage" match="any">
-        <date variable="issued" form="text"/>
+      <if type="article-magazine article-newspaper" match="any">
+        <date variable="issued" delimiter=" ">
+          <date-part name="day" form="ordinal"/>
+          <date-part name="month" form="numeric" suffix="."/>
+          <date-part name="year"/>
+        </date>
       </if>
+      <else-if type="post post-weblog webpage" match="any">
+        <date variable="issued" form="text"/>
+      </else-if>
       <else>
         <date variable="issued">
           <date-part name="year"/>
