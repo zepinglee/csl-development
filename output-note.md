@@ -101,7 +101,7 @@
   <sup>59</sup> BVerfGE 75, 369.<br>
   <sup>60</sup> BGH NStZ-RR 1999, 185.<br>
   <sup>61</sup> BGH NJW 2000, 1560.<br>
-  <sup>62</sup> Martin Meidenbauer, Wissenschaftliches Publizieren, URL: <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>. (abgerufen am 10. Oktober 2017).<br>
+  <sup>62</sup> Martin Meidenbauer, Wissenschaftliches Publizieren, <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>. (abgerufen am 10. Oktober 2017).<br>
   <sup>63</sup> Roxin (Fn. 51), S. 101.<br>
   <sup>64</sup> Schwab, Münchener Kommentar BGB (Fn. 53), § 817 Rn. 9.<br>
   <sup>65</sup> 我妻栄『新訂担保物権法（民法講義III）』（有斐閣，1971年）50頁。<br>
@@ -178,7 +178,7 @@
     <div class="csl-entry">〔57〕 BVerfGE 75, 369.</div>
     <div class="csl-entry">〔58〕 BGH NStZ-RR 1999, 185.</div>
     <div class="csl-entry">〔59〕 BGH NJW 2000, 1560.</div>
-    <div class="csl-entry">〔60〕 Martin Meidenbauer, Wissenschaftliches Publizieren, URL: <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>. (abgerufen am 10. Oktober 2017).</div>
+    <div class="csl-entry">〔60〕 Martin Meidenbauer, Wissenschaftliches Publizieren, <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>. (abgerufen am 10. Oktober 2017).</div>
     <div class="csl-entry">〔61〕 我妻栄『新訂担保物権法（民法講義III）』（有斐閣，1971年）。</div>
     <div class="csl-entry">〔62〕 我妻栄=有泉亨『民法総則物権法（法律学体系·コンメンタール篇）』（日本評論社，1950年）。</div>
     <div class="csl-entry">〔63〕 於保不二雄「付加物及び従物と抵当権」民商法雑誌29巻5号（1954年）1頁。</div>
@@ -260,7 +260,7 @@
     <div class="csl-entry">〔63〕 Art. 2 II GG.</div>
     <div class="csl-entry">〔64〕 § 32 II StGB.</div>
     <div class="csl-entry">〔65〕 § 58a I Nr. 2 StPO.</div>
-    <div class="csl-entry">〔66〕 Martin Meidenbauer, Wissenschaftliches Publizieren, URL: <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>. (abgerufen am 10. Oktober 2017).</div>
+    <div class="csl-entry">〔66〕 Martin Meidenbauer, Wissenschaftliches Publizieren, <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>. (abgerufen am 10. Oktober 2017).</div>
     <div class="csl-entry">〔67〕 Stephen McDonell, <i>When China Began Streaming Trials Online</i>, BBC News (30 September 2016), <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.</div>
     <div class="csl-entry">〔68〕 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律。</div>
     <div class="csl-entry">〔69〕 「ジュリスト」（访问于2022年9月1日）<a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>。</div>
