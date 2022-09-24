@@ -612,7 +612,7 @@
 		"collection-title": "FS-Steindorff",
 		"language": "de",
 		"note": "为祝贺文集",
-		"title": "Gesamtunwirksamkeit und Teilgü-ltigkeit rechtsgeschäftlicher Regelungen",
+		"title": "Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen",
 		"author": [
 			{
 				"family": "Canaris",
@@ -695,7 +695,7 @@
 			},
 			{
 				"family": "Paulson",
-				"given": "Stanley L."
+				"given": "Stanley"
 			}
 		],
 		"issued": {
@@ -1505,7 +1505,7 @@
 		"type": "book",
 		"collection-title": "二十世纪中华法学文丛",
 		"ISBN": "978-7-5620-2576-4",
-		"language": "zh",
+		"language": "zh-CN",
 		"number-of-pages": "1159",
 		"publisher": "中国政法大学出版社",
 		"title": "近代中国宪政历程",
@@ -1545,6 +1545,21 @@
 					"2004",
 					12,
 					1
+				]
+			]
+		}
+	},
+	{
+		"id": "molc.14:56",
+		"type": "legal_case",
+		"container-title": "QB",
+		"language": "en-GB",
+		"title": "R. v. Panel on Take-overs and Mergers",
+		"volume": "815",
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
 				]
 			]
 		}
