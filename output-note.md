@@ -2,7 +2,7 @@
 
 <blockquote>
   <sup>1</sup> 王名扬：《美国行政法》，北京大学出版社2007年版。<br>
-  <sup>2</sup> 同上注，第18页。<br>
+  <sup>2</sup> 王名扬：《美国行政法》，北京大学出版社2007年版，第18页。<br>
   <sup>3</sup> 季卫东：《法律程序的意义：对中国法制建设的另一种思考》，载《中国社会科学》1993年第1期。<br>
   <sup>4</sup> 王保树：《股份有限公司机关构造中的董事和董事会》，载梁慧星主编：《民商法论丛》第1卷，法律出版社1994年版。<br>
   <sup>5</sup> 何海波：《判决书上网》，载《法制日报》2000年5月21日，第2版。<br>
@@ -60,10 +60,10 @@
   <sup>19</sup> Louis D. Brandeis, <i>What Publicity Can Do</i>, Harper’s Weekly, 20 December 1913, p. 10.<br>
   <sup>20</sup> William Alford, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995, p. 98.<br>
   <sup>21</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社2006年版。<br>
-  <sup>22</sup> 同上注。<br>
+  <sup>22</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社2006年版。<br>
   <sup>23</sup> R. v. Panel on Take-overs and Mergers, 815 QB (1987).<br>
-  <sup>24</sup> Ibid.<br>
-  <sup>25</sup> 同前注，应松年、马怀德书。<br>
+  <sup>24</sup> R. v. Panel on Take-overs and Mergers, 815 QB (1987).<br>
+  <sup>25</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社2006年版。<br>
   <sup>26</sup> 罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，载《中国法学》1993年第1期。<br>
   <sup>27</sup> 夏新华、胡旭晟等：《近代中国宪政历程》，中国政法大学出版社2004年版。<br>
   <sup>28</sup> 《刑法修正案（十）》。<br>
@@ -91,8 +91,8 @@
   <sup>50</sup> Marc Poisson, <i>Le droit de la mer en Méditerranée</i>, Rapport de recherche de l’IFREMER, n<sup>o</sup> 1202, août 2016.<br>
   <sup>51</sup> Marc Poisson, <i>Le droit de la mer appliqué à la Méditerranée</i>, Thèse de l’Université de Marseille, 17 juin 2016.<br>
   <sup>52</sup> Béatrice Joyeux-Prunel, « L’histoire de l’art et le quantitatif », Histoire &#38; mesure, vol. XXIII, n° 2, 2008, [En ligne: <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>]. Consulté le 17 mars 2010.<br>
-  <sup>53</sup> Ibid., p. 42-73.<br>
-  <sup>54</sup> Marc Poisson, « Le droit de la mer », op. cit., p. 212.<br>
+  <sup>53</sup> Béatrice Joyeux-Prunel, « L’histoire de l’art et le quantitatif », Histoire &#38; mesure, vol. XXIII, n° 2, 2008, [En ligne: <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>]. Consulté le 17 mars 2010.<br>
+  <sup>54</sup> Marc Poisson, « Le droit de la mer », <i>RGDIP</i>, 2015, p. 212.<br>
   <sup>55</sup> Benjamin Vogel, Rechtsgüterschutz und Normgeltung, ZStW 129 (2017), S. 630.<br>
   <sup>56</sup> Markus Würdinger, Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts, JuS 2012, S. 238 f.<br>
   <sup>57</sup> Thomas Fischer, Absurdes Spektakel um den Tod, in: Die Zeit v. 29. 9. 2015.<br>
@@ -108,8 +108,8 @@
   <sup>67</sup> BGH NStZ-RR 1999, 185.<br>
   <sup>68</sup> BGH NJW 2000, 1560.<br>
   <sup>69</sup> Martin Meidenbauer, Wissenschaftliches Publizieren, <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>. (abgerufen am 10. Oktober 2017).<br>
-  <sup>70</sup> Roxin (Fn. 58), S. 101.<br>
-  <sup>71</sup> Schwab, Münchener Kommentar BGB (Fn. 60), § 817 Rn. 9.<br>
+  <sup>70</sup> Claus Roxin, Strafrecht Allgemeiner Teil, Band I, 4. Aufl. 2006, S. 101.<br>
+  <sup>71</sup> Martin Schwab, in: Münchener Kommentar BGB, Band V, 6. Aufl. 2013, § 817 Rn. 9.<br>
   <sup>72</sup> 我妻栄『新訂担保物権法（民法講義III）』（有斐閣，1971年）50頁。<br>
   <sup>73</sup> 我妻栄=有泉亨『民法総則物権法（法律学体系·コンメンタール篇）』（日本評論社，1950年）31頁参照。<br>
   <sup>74</sup> 於保不二雄「付加物及び従物と抵当権」民商法雑誌29巻5号（1954年）1頁以下。<br>
@@ -289,10 +289,10 @@
 <blockquote>
   <sup>1</sup> Cass R. Sunstein, <i>Social Norms and Social Roles</i>, 96 Columbia Law Review 903, 903 (1996).<br>
   <sup>2</sup> I. Morri, <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, Farrar, Straus and Giroux, 2010.<br>
-  <sup>3</sup> Ibid.<br>
-  <sup>4</sup> Ibid, p. 260.<br>
+  <sup>3</sup> I. Morri, <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, Farrar, Straus and Giroux, 2010.<br>
+  <sup>4</sup> I. Morri, <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, Farrar, Straus and Giroux, 2010, p. 260.<br>
   <sup>5</sup> 罗杰斯：《西方文明史: 问题与源头》，潘惠霞、魏婧、杨艳、汤玲译，东北财经大学出版社2011年版，第15-16页。<br>
-  <sup>6</sup> Supra note 2, I. Morri, p. 326-329.<br>
+  <sup>6</sup> I. Morri, <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, Farrar, Straus and Giroux, 2010, p. 326-329.<br>
   <sup>7</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，载中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，国家图书馆出版社2011年版，第48页。<br>
   <sup>8</sup> 邓一刚：《全智能节电器》，2006年版。<br>
   <sup>9</sup> D. Bawden, <i>Origins and Concepts of Digital Literacy</i>, (4 May 2008), <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.<br>
