@@ -10063,7 +10063,7 @@ CSL.Node.date = {
 
 CSL.Node["date-part"] = {
     build: function (state, target) {
-        var func, pos, len, first_date, value, value_end, real, have_collapsed, invoked, precondition, known_year, bc, ad, bc_end, ad_end, ready, curr, dcurr, number, num, formatter, item;
+        var func, pos, len, first_date, value, value_end, real, have_collapsed, invoked, precondition, known_year, bc, ad, bc_end, ad_end, ready, curr, dcurr, number, num, formatter, item, blob;
         if (!this.strings.form) {
             this.strings.form = "long";
         }
@@ -10206,7 +10206,7 @@ CSL.Node["date-part"] = {
                             // and we reach this block, then we can combine the dates
                             // to a string, run minimial-two, and output the trailing
                             // year right here. No impact on other functionality.
-                            
+
                             if (state.opt["year-range-format"]
                                 && state.opt["year-range-format"] !== "expanded"
                                 && !state.tmp.date_object.day
@@ -10214,7 +10214,7 @@ CSL.Node["date-part"] = {
                                 && !state.tmp.date_object.season
                                 && this.strings.name === "year"
                                 && value && value_end) {
-                                
+
                                 // second argument adjusts collapse as required for years
                                 // See OSCOLA section 1.3.2
                                 value_end = state.fun.year_mangler(value + "-" + value_end, true);
@@ -10224,13 +10224,21 @@ CSL.Node["date-part"] = {
                             last_string_output = value_end;
                             state.dateput.append(value_end, this);
                             if (first_date) {
-                                state.dateput.current.value().blobs[0].strings.prefix = "";
+                                blob = state.dateput.current.value().blobs[0];
+                                if (blob) {
+                                    blob.strings.prefix = "";
+                                }
+
                             }
                         }
                         last_string_output = value;
                         state.output.append(value, this);
                         curr = state.output.current.value();
-                        curr.blobs[(curr.blobs.length - 1)].strings.suffix = "";
+                        blob = curr.blobs[(curr.blobs.length - 1)];
+                        if (blob) {
+                            blob.strings.suffix = "";
+                        }
+
                         if (this.strings["range-delimiter"]) {
                             state.output.append(this.strings["range-delimiter"]);
                         } else {
@@ -10265,7 +10273,10 @@ CSL.Node["date-part"] = {
                                 last_string_output = value_end;
                                 state.dateput.append(value_end, this);
                                 if (first_date) {
-                                    state.dateput.current.value().blobs[0].strings.prefix = "";
+                                    blob = state.dateput.current.value().blobs[0];
+                                    if (blob) {
+                                        blob.strings.prefix = "";
+                                    }
                                 }
                                 if (bc) {
                                     last_string_output = bc;
@@ -10356,8 +10367,6 @@ CSL.Node["date-part"] = {
         target.push(this);
     }
 };
-
-
 
 /*global CSL: true */
 
