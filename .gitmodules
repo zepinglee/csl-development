@@ -1,3 +1,4 @@
 [submodule "locales"]
 	path = locales
 	url = https://github.com/citation-style-language/locales.git
+	branch = v1.0.2
