@@ -1,9 +1,9 @@
 [
 	{
 		"id": "ssc.2.6.2.5:01",
-		"type": "manuscript",
-		"archive": "Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)",
-		"archive_location": "National Archives II, College Park, MD",
+		"type": "personal_communication",
+		"archive": "National Archives II, College Park, MD",
+		"archive_location": "Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)",
 		"language": "en",
 		"title": "Nixon to Kissinger",
 		"issued": {
@@ -19,13 +19,14 @@
 	{
 		"id": "ssc.2.6.2.4:01",
 		"type": "chapter",
-		"container-title": "Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society",
-		"event-place": "Cambridge, MA",
+		"container-title": "Hunger and history: The impact of changing food production and consumption pattern on society",
+		"event-place": "Cambridge, Mass.",
 		"language": "en",
 		"page": "55-88",
 		"publisher": "Cambridge University Press",
-		"publisher-place": "Cambridge, MA",
-		"title": "The Impact of Scarcity and Plenty on Population Change in England",
+		"publisher-place": "Cambridge, Mass.",
+		"title": "The impact of scarcity and plenty on population change in England",
+		"title-short": "Hunger and History",
 		"author": [
 			{
 				"family": "Schfield",
@@ -57,7 +58,7 @@
 		"language": "en",
 		"publisher": "Cumberland House",
 		"publisher-place": "Hertfordshire",
-		"title": "The Travels of Marco Polo",
+		"title": "The travels of Marco Polo",
 		"author": [
 			{
 				"family": "Polo",
@@ -85,7 +86,7 @@
 		"language": "en",
 		"publisher": "University of Chicago Press",
 		"publisher-place": "Chicago",
-		"title": "Troubling Confessions: Speaking Guilt in Law and Literature",
+		"title": "Troubling confessions: Speaking guilt in law and literature",
 		"author": [
 			{
 				"family": "Brooks",
@@ -103,13 +104,12 @@
 	{
 		"id": "ssc.2.6.2.3:01",
 		"type": "article-journal",
-		"archive_location": "100 citation(s)",
 		"container-title": "Modern China",
 		"DOI": "10.1177/009770049301900206",
 		"issue": "2",
 		"language": "en",
 		"page": "199-215",
-		"title": "On the Search for Civil Society in China",
+		"title": "On the search for civil society in China",
 		"volume": "19",
 		"author": [
 			{
@@ -181,9 +181,9 @@
 	},
 	{
 		"id": "ssc.2.3.2:01",
-		"type": "manuscript",
-		"archive": "北洋档案 1011—5961",
-		"archive_location": "中国第二历史档案馆藏",
+		"type": "personal_communication",
+		"archive": "中国第二历史档案馆",
+		"archive_location": "北洋档案 1011—5961",
 		"language": "zh-CN",
 		"title": "傅良佐致国务院电",
 		"issued": {
@@ -200,7 +200,7 @@
 		"id": "ssc.2.3.1:01",
 		"type": "thesis",
 		"event-place": "北京",
-		"genre": "博士",
+		"genre": "博士学位论文",
 		"language": "zh-CN",
 		"publisher": "北京师范大学历史系",
 		"publisher-place": "北京",
@@ -223,7 +223,7 @@
 		"type": "article-newspaper",
 		"container-title": "四川工人日报",
 		"language": "zh-CN",
-		"section": "第2版",
+		"page": "2",
 		"title": "李劼人轶事",
 		"author": [
 			{
@@ -243,10 +243,10 @@
 	{
 		"id": "ssc.2.2.1:10",
 		"type": "article-journal",
-		"archive_location": "社会科学版",
 		"container-title": "武汉大学学报",
 		"issue": "4",
 		"language": "zh-CN",
+		"note": "section: 社会科学版",
 		"title": "德育学科的比较研究与理论探索",
 		"author": [
 			{
@@ -265,8 +265,9 @@
 		"id": "ssc.2.3.1:02",
 		"type": "paper-conference",
 		"event-place": "天津",
-		"event-title": "全球化与亚太区域化国际研讨会论文",
+		"event-title": "全球化与亚太区域化国际研讨会",
 		"language": "zh-CN",
+		"note": "event-date: 2000-06",
 		"page": "9",
 		"publisher-place": "天津",
 		"title": "对国际体制和国际制度的理解和翻译",
@@ -275,15 +276,7 @@
 				"family": "任东来",
 				"given": ""
 			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2000",
-					6
-				]
-			]
-		}
+		]
 	},
 	{
 		"id": "ssc.2.2.2:04",
@@ -291,8 +284,8 @@
 		"container-title": "民国日报",
 		"event-place": "上海",
 		"language": "zh-CN",
+		"page": "4",
 		"publisher-place": "上海",
-		"section": "第4版",
 		"title": "上海各路商界总联合会致外交部电",
 		"issued": {
 			"date-parts": [
@@ -308,9 +301,10 @@
 		"id": "ssc.2.2.2:03",
 		"type": "article-newspaper",
 		"container-title": "广益丛报",
-		"edition": "第8年第19期，“新章”，",
 		"language": "zh-CN",
+		"note": "issue: 第8年第19期",
 		"page": "1-2",
+		"section": "新章",
 		"title": "四川会议厅暂行章程",
 		"issued": {
 			"date-parts": [
@@ -326,9 +320,9 @@
 		"id": "ssc.2.2.2:02",
 		"type": "article-newspaper",
 		"container-title": "清议报",
-		"edition": "第69册，光绪二十六年十一月二十一日",
 		"language": "zh-CN",
-		"page": "1",
+		"note": "volume: 第69册\noriginal-date: 光绪二十六年十一月二十一日",
+		"page": "第1页",
 		"title": "说奴隶",
 		"author": [
 			{
@@ -339,10 +333,10 @@
 	{
 		"id": "ssc.2.2.1:03",
 		"type": "article-journal",
-		"archive_location": "兰州",
 		"container-title": "社会科学",
 		"issue": "6",
 		"language": "zh-CN",
+		"note": "publisher-place: 兰州",
 		"title": "论近代西北人口波动的主要原因",
 		"author": [
 			{
@@ -380,13 +374,14 @@
 	{
 		"id": "ssc.2.1.4.3:01",
 		"type": "book",
-		"edition": "卷5",
+		"edition": "影印本",
 		"event-place": "沈阳",
 		"language": "zh-CN",
-		"note": "影印本，上册，第461 页下栏。",
+		"note": "type: classic",
 		"publisher": "辽沈书社",
 		"publisher-place": "沈阳",
 		"title": "雪桥诗话续集",
+		"volume": "5",
 		"author": [
 			{
 				"literal": "杨钟羲"
@@ -403,10 +398,11 @@
 	{
 		"id": "ssc.2.1.4.1:01",
 		"type": "book",
-		"edition": "卷3，光绪三年苏州文学山房活字本",
+		"edition": "光绪三年苏州文学山房活字本",
 		"language": "zh-CN",
-		"note": "，第9页 a。",
+		"note": "type: classic",
 		"title": "古今伪书考",
+		"volume": "3",
 		"author": [
 			{
 				"literal": "姚际恒"
@@ -462,14 +458,16 @@
 	{
 		"id": "ssc.2.1.4.4:01",
 		"type": "chapter",
+		"collection-title": "四库全书存目丛书",
 		"container-title": "续问辨牍",
-		"edition": "卷2，《四库全书存目丛书》",
+		"edition": "影印本",
 		"event-place": "济南",
 		"language": "zh-CN",
-		"note": "影印本，子部，第88册，第73页。",
+		"note": "type: classic",
 		"publisher": "齐鲁书社",
 		"publisher-place": "济南",
 		"title": "答屠仪部赤水丈书",
+		"volume": "2",
 		"author": [
 			{
 				"family": "管志道",
@@ -488,7 +486,7 @@
 		"id": "ssc.2.1.3.2:01",
 		"type": "chapter",
 		"container-title": "傅雷家书",
-		"edition": "（增补本）",
+		"edition": "增补本",
 		"event-place": "北京",
 		"language": "zh-CN",
 		"page": "2",
@@ -538,7 +536,6 @@
 	{
 		"id": "ssc.2.1.2:02",
 		"type": "chapter",
-		"collection-number": "9",
 		"container-title": "鲁迅全集",
 		"event-place": "北京",
 		"language": "zh-CN",
@@ -546,6 +543,7 @@
 		"publisher": "人民文学出版社",
 		"publisher-place": "北京",
 		"title": "中国小说的历史的变迁",
+		"volume": "第9册",
 		"author": [
 			{
 				"literal": "鲁迅"
@@ -602,19 +600,11 @@
 			{
 				"literal": "狄葆贤"
 			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1948"
-				]
-			]
-		}
+		]
 	},
 	{
 		"id": "ssc.2.1.1:05",
 		"type": "book",
-		"archive_location": "日",
 		"event-place": "香港",
 		"language": "zh-CN",
 		"publisher": "香港中文大学出版社",
@@ -667,14 +657,10 @@
 		"type": "book",
 		"event-place": "西安",
 		"language": "zh-CN",
+		"note": "compiler: 谢兴尧",
 		"publisher": "西北大学出版社",
 		"publisher-place": "西安",
 		"title": "荣庆日记",
-		"author": [
-			{
-				"literal": "谢兴尧整理"
-			}
-		],
 		"issued": {
 			"date-parts": [
 				[
@@ -703,12 +689,12 @@
 	{
 		"id": "ssc.2.1.1:07",
 		"type": "book",
-		"edition": "上册",
 		"event-place": "北京",
 		"language": "zh-CN",
 		"publisher": "全国图书馆文献缩微复制中心",
 		"publisher-place": "北京",
 		"title": "晚清洋务运动事类汇钞五十七种",
+		"volume": "上册",
 		"author": [
 			{
 				"literal": "佚名"
@@ -781,6 +767,243 @@
 			"date-parts": [
 				[
 					"1948"
+				]
+			]
+		}
+	},
+	{
+		"id": "ssc.2.2.1:02",
+		"type": "article-journal",
+		"container-title": "中国经济",
+		"issue": "6",
+		"language": "zh-CN",
+		"title": "江苏的小农及其副业",
+		"volume": "4",
+		"author": [
+			{
+				"literal": "汪疑今"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1936",
+					6,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "ssc.2.2.1:07",
+		"type": "article-journal",
+		"container-title": "福建论坛",
+		"issue": "3",
+		"language": "zh-CN",
+		"note": "section: 文史哲版",
+		"title": "评黄龟年四劾秦桧",
+		"author": [
+			{
+				"literal": "黄义豪"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "ssc.2.2.2:05",
+		"type": "article-newspaper",
+		"container-title": "民国日报",
+		"event-place": "上海",
+		"language": "zh-CN",
+		"page": "第1张第4版",
+		"publisher-place": "上海",
+		"title": "西南中委反对在宁召开五全会",
+		"issued": {
+			"date-parts": [
+				[
+					"1933",
+					8,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "ssc.2.3.2:02",
+		"type": "manuscript",
+		"archive": "中共四川省委统战部档案室",
+		"archive_location": "李劼人档案",
+		"language": "zh-CN",
+		"title": "党外人士座谈会记录",
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "ssc.2.1.4.2:01",
+		"type": "book",
+		"event-place": "上海",
+		"language": "zh-CN",
+		"note": "type: classic",
+		"publisher": "上海古籍出版社",
+		"publisher-place": "上海",
+		"title": "墨余录",
+		"author": [
+			{
+				"literal": "毛祥麟"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "ssc.2.1.4.5:01",
+		"type": "book",
+		"language": "zh-CN",
+		"note": "type: classic\noriginal-date: 乾隆\nvolume-title: 风俗",
+		"title": "嘉定县志",
+		"volume": "12"
+	},
+	{
+		"id": "ssc.2.1.4.5:02",
+		"type": "book",
+		"language": "zh-CN",
+		"note": "type: classic\noriginal-date: 民国\nvolume-title: 疆域",
+		"title": "上海县续志",
+		"volume": "1"
+	},
+	{
+		"id": "ssc.2.1.4.5:03",
+		"type": "chapter",
+		"container-title": "稀见中国地方志汇刊",
+		"edition": "影印本",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"note": "type: classic\noriginal-date: 万历\nvolume-title: 郡县志二·广州府·城池",
+		"publisher": "中国书店",
+		"publisher-place": "北京",
+		"title": "广东通志",
+		"volume": "15",
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "ssc.2.1.4.6:01",
+		"type": "book",
+		"edition": "标点本",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"note": "type: classic\nvolume-title: 玄宗纪下",
+		"publisher": "中华书局",
+		"publisher-place": "北京",
+		"title": "旧唐书",
+		"volume": "9",
+		"issued": {
+			"date-parts": [
+				[
+					"1975"
+				]
+			]
+		}
+	},
+	{
+		"id": "ssc.2.1.4.6:02",
+		"type": "book",
+		"edition": "标点本",
+		"event-place": "上海",
+		"language": "zh-CN",
+		"note": "type: classic\nvolume-title: 答程夔州书",
+		"publisher": "上海古籍出版社",
+		"publisher-place": "上海",
+		"title": "方苞集",
+		"volume": "6",
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "ssc.2.1.4.7:01",
+		"type": "book",
+		"edition": "影印本",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"note": "type: classic\noriginal-date: 光绪二十四年十二月上",
+		"publisher": "中华书局",
+		"publisher-place": "北京",
+		"title": "清德宗实录",
+		"volume": "435",
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "ssc.2.1.4.3:02",
+		"type": "book",
+		"edition": "影印本",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"note": "type: classic\nvolume-title: 服章部七",
+		"publisher": "中华书局",
+		"publisher-place": "北京",
+		"title": "太平御览",
+		"volume": "690",
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "ssc.2.3.1:02b",
+		"type": "paper-conference",
+		"container-title": "全球化与亚太区域化国际研讨会论文集",
+		"event-place": "天津",
+		"language": "zh-CN",
+		"page": "9",
+		"publisher-place": "天津",
+		"title": "对国际体制和国际制度的理解和翻译",
+		"author": [
+			{
+				"family": "任东来",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000",
+					6
 				]
 			]
 		}
