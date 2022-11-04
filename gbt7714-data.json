@@ -3,7 +3,7 @@
 		"id": "gbt7714.04.1.2:01",
 		"type": "book",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "page: 29",
 		"publisher": "中华书局",
 		"publisher-place": "北京",
@@ -27,7 +27,7 @@
 		"id": "gbt7714.04.1.2:02",
 		"type": "book",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "page: 235-236",
 		"publisher": "中国人民大学出版社",
 		"publisher-place": "北京",
@@ -55,7 +55,7 @@
 		"id": "gbt7714.04.1.2:03",
 		"type": "book",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "page: 112",
 		"publisher": "民族出版社",
 		"publisher-place": "北京",
@@ -80,7 +80,7 @@
 		"id": "gbt7714.04.1.2:04",
 		"type": "report",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "type: standard",
 		"number": "GB/T 25100—2010",
 		"page": "2-3",
@@ -104,7 +104,7 @@
 		"id": "gbt7714.04.1.2:05",
 		"type": "book",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"publisher": "科学出版社",
 		"publisher-place": "北京",
 		"title": "物质结构",
@@ -130,10 +130,11 @@
 		"id": "gbt7714.04.1.2:06",
 		"type": "book",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"publisher": "北京古籍出版社",
 		"publisher-place": "北京",
 		"title": "昌平山水记: 京东考古录",
+		"title-short": "昌平山水记",
 		"author": [
 			{
 				"family": "顾",
@@ -153,7 +154,7 @@
 		"type": "book",
 		"edition": "刻本",
 		"event-place": "金陵",
-		"language": "zh",
+		"language": "zh-CN",
 		"publisher": "湘乡曾国荃",
 		"publisher-place": "金陵",
 		"title": "宋论",
@@ -175,7 +176,7 @@
 		"id": "gbt7714.04.1.2:08",
 		"type": "book",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"publisher": "海洋出版社",
 		"publisher-place": "北京",
 		"title": "综合湿地管理国际研讨会论文集",
@@ -204,7 +205,7 @@
 		"id": "gbt7714.04.1.2:09",
 		"type": "book",
 		"event-place": "桂林",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "type: collection",
 		"publisher": "广西师范大学出版社",
 		"publisher-place": "桂林",
@@ -230,7 +231,7 @@
 		"type": "thesis",
 		"event-place": "北京",
 		"genre": "博士学位论文",
-		"language": "zh",
+		"language": "zh-CN",
 		"publisher": "中国人民大学出版社",
 		"publisher-place": "北京",
 		"title": "新闻道德论",
@@ -262,7 +263,7 @@
 		"id": "gbt7714.04.1.2:11",
 		"type": "book",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"publisher": "社会科学文献出版社",
 		"publisher-place": "北京",
 		"title": "当代美国外交",
@@ -294,7 +295,7 @@
 		"id": "gbt7714.04.1.2:12",
 		"type": "book",
 		"event-place": "上海",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "page: 5-6",
 		"publisher": "同济大学出版社",
 		"publisher-place": "上海",
@@ -326,10 +327,11 @@
 		"id": "gbt7714.04.1.2:13",
 		"type": "book",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"publisher": "中国轻工业出版社",
 		"publisher-place": "北京",
 		"title": "中国造纸年鉴: 2003",
+		"title-short": "中国造纸年鉴",
 		"URL": "http://www.cadal.zju.edu.cn/book/view/25010080",
 		"author": [
 			{
@@ -383,6 +385,7 @@
 		"note": "event-date: 2000-02-01/2000-02-04\nevent-place: Moscow, Russia\npublisher-place: Rotterdam",
 		"publisher": "A. A. Balkema",
 		"title": "Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering",
+		"title-short": "Geoecology and computers",
 		"editor": [
 			{
 				"family": "Yufin",
@@ -406,6 +409,7 @@
 		"publisher": "Open University Press",
 		"publisher-place": "Rotterdam",
 		"title": "Developing early childhood services: Past, present and future",
+		"title-short": "Developing early childhood services",
 		"URL": "http://lib.myilibrary.com/Open.aspx?id=312377",
 		"author": [
 			{
@@ -473,11 +477,12 @@
 		"type": "chapter",
 		"container-title": "船山全书",
 		"event-place": "长沙",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "1109",
 		"publisher": "岳麓书社",
 		"publisher-place": "长沙",
 		"title": "周易外传: 卷 5",
+		"title-short": "周易外传",
 		"volume": "第 6 册",
 		"editor": [
 			{
@@ -498,7 +503,7 @@
 		"type": "chapter",
 		"container-title": "长江流域洪涝灾害与科技对策",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "32-36",
 		"publisher": "科学出版社",
 		"publisher-place": "北京",
@@ -532,7 +537,7 @@
 		"type": "chapter",
 		"container-title": "中国震旦亚界",
 		"event-place": "天津",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "56-114",
 		"publisher": "天津科学技术出版社",
 		"publisher-place": "天津",
@@ -577,7 +582,7 @@
 		"type": "chapter",
 		"container-title": "马克思恩格斯全集",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "302",
 		"publisher": "人民出版社",
 		"publisher-place": "北京",
@@ -609,7 +614,7 @@
 		"type": "paper-conference",
 		"container-title": "中国图书馆学会年会论文集",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "45-52",
 		"publisher": "国家图书馆出版社",
 		"publisher-place": "北京",
@@ -724,7 +729,7 @@
 		"id": "gbt7714.04.3.2:01",
 		"type": "book",
 		"event-place": "武汉",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "type: periodical\nissue: 1",
 		"publisher": "中华医学会湖北分会",
 		"publisher-place": "武汉",
@@ -747,7 +752,7 @@
 		"id": "gbt7714.04.3.2:02",
 		"type": "book",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "type: periodical\nissue: 1-4",
 		"publisher": "北京图书馆",
 		"publisher-place": "北京",
@@ -794,9 +799,10 @@
 		"type": "article-journal",
 		"container-title": "科学通报",
 		"issue": "34",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "3219",
 		"title": "蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口",
+		"title-short": "蓝田生物群",
 		"volume": "57",
 		"author": [
 			{
@@ -827,9 +833,10 @@
 		"id": "gbt7714.04.4.2:02",
 		"type": "article-newspaper",
 		"container-title": "人民日报",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "2",
 		"title": "我们的科技一直在追赶: 访中国工程院院长周济",
+		"title-short": "我们的科技一直在追赶",
 		"URL": "http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_5-02.htm",
 		"author": [
 			{
@@ -861,7 +868,7 @@
 		"type": "article-journal",
 		"container-title": "图书情报工作",
 		"issue": "6",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "6-12",
 		"title": "韩国图书馆法",
 		"URL": "http://www.docin.com/p-400265742.html",
@@ -894,9 +901,10 @@
 		"type": "article-journal",
 		"container-title": "中华移植杂志(电子版)",
 		"issue": "3",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "225-228",
 		"title": "循证医学研究方法: 附视频",
+		"title-short": "循证医学研究方法",
 		"URL": "http://www.cqvip.com/Read/Read.aspx?id=36658332",
 		"volume": "4",
 		"author": [
@@ -932,7 +940,7 @@
 		"container-title": "测绘科学",
 		"DOI": "10.3771/j.issn.1009-2307.2008.05.002",
 		"issue": "5",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "8-9",
 		"title": "“北斗一号”监控管理网设计与实现",
 		"URL": "http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail",
@@ -951,7 +959,8 @@
 				"given": "亚军"
 			},
 			{
-				"literal": "others"
+				"family": "刘",
+				"given": "英敏"
 			}
 		],
 		"accessed": {
@@ -1027,6 +1036,7 @@
 		"language": "en",
 		"page": "378-398",
 		"title": "Next-generation sequencing: from understanding biology to personalized medicine",
+		"title-short": "Next-generation sequencing",
 		"URL": "http://www.mdpi.com/2079-7737/2/1/378",
 		"volume": "2",
 		"author": [
@@ -1417,7 +1427,7 @@
 		"id": "gbt7714.04.5.2:01",
 		"type": "patent",
 		"event-place": "中国",
-		"language": "zh",
+		"language": "zh-CN",
 		"number": "200610171314.3",
 		"publisher-place": "中国",
 		"title": "全智能节电器",
@@ -1441,7 +1451,7 @@
 		"id": "gbt7714.04.5.2:02",
 		"type": "patent",
 		"event-place": "中国",
-		"language": "zh",
+		"language": "zh-CN",
 		"number": "01128777.2",
 		"publisher-place": "中国",
 		"title": "光折变自适应光外差探测方法",
@@ -1519,7 +1529,7 @@
 	{
 		"id": "gbt7714.04.6.2:01",
 		"type": "report",
-		"language": "zh",
+		"language": "zh-CN",
 		"title": "第 29 次中国互联网络发展现状统计报告",
 		"URL": "http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680",
 		"author": [
@@ -1549,7 +1559,7 @@
 	{
 		"id": "gbt7714.04.6.2:02",
 		"type": "legislation",
-		"language": "zh",
+		"language": "zh-CN",
 		"number": "京政办发[2005]37号",
 		"title": "关于转发北京市企业投资项目核准暂行实施办法的通知",
 		"URL": "http://china.findlaw.cn/fagui/p_1/39934.html",
@@ -1613,6 +1623,7 @@
 		"type": "webpage",
 		"language": "en",
 		"title": "About OCLC: History of cooperation",
+		"title-short": "About OCLC",
 		"URL": "http://www.oclc.org/about/cooperation.en.html",
 		"author": [
 			{
@@ -1634,6 +1645,7 @@
 		"type": "webpage",
 		"language": "en",
 		"title": "UNIMARC and metadata: Dublin core",
+		"title-short": "UNIMARC and metadata",
 		"URL": "http://archive.ifla.org/IV/ifla64/138-161e.htm",
 		"author": [
 			{
@@ -1682,7 +1694,7 @@
 		"id": "gbt7714.08.7:01",
 		"type": "thesis",
 		"event-place": "合肥",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "DOI: 10.7666/d.y351065\npage: 17-18",
 		"publisher": "中国科学技术大学",
 		"publisher-place": "合肥",
@@ -1803,7 +1815,7 @@
 		"id": "gbt7714.09.1:03",
 		"type": "book",
 		"event-place": "海口",
-		"language": "zh",
+		"language": "zh-CN",
 		"publisher": "海南出版社",
 		"publisher-place": "海口",
 		"title": "数字化生存",
@@ -1834,7 +1846,7 @@
 		"id": "gbt7714.09.1:04",
 		"type": "book",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "page: 16",
 		"publisher": "北京图书馆出版社",
 		"publisher-place": "北京",
@@ -1858,7 +1870,7 @@
 		"type": "article-journal",
 		"container-title": "中国图书馆学报",
 		"issue": "2",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "24-29",
 		"title": "电子图书馆的现实模型",
 		"author": [
@@ -1884,6 +1896,7 @@
 		"language": "en",
 		"page": "5-26",
 		"title": "The research university’s dilemma: Resource sharing and research in a transinstitutional environment",
+		"title-short": "The research university’s dilemma",
 		"volume": "21",
 		"author": [
 			{
@@ -1940,6 +1953,7 @@
 		"publisher": "Farrar, Straus and Giroux",
 		"publisher-place": "New York",
 		"title": "Why the west rules for now: the patterns of history, and what they reveal about the future",
+		"title-short": "Why the west rules for now",
 		"author": [
 			{
 				"family": "Morri",
@@ -1958,11 +1972,12 @@
 		"id": "gbt7714.10.1.3:03",
 		"type": "book",
 		"event-place": "大连",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "page: 15-16",
 		"publisher": "东北财经大学出版社",
 		"publisher-place": "大连",
 		"title": "西方文明史: 问题与源头",
+		"title-short": "西方文明史",
 		"author": [
 			{
 				"literal": "罗杰斯"
@@ -1990,30 +2005,6 @@
 			"date-parts": [
 				[
 					"2011"
-				]
-			]
-		}
-	},
-	{
-		"id": "gbt7714.10.1.3:04",
-		"type": "book",
-		"event-place": "北京",
-		"language": "zh",
-		"note": "page: 29",
-		"publisher": "中华书局",
-		"publisher-place": "北京",
-		"title": "国史旧闻",
-		"volume": "第 1 卷",
-		"author": [
-			{
-				"family": "陈",
-				"given": "登原"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2000"
 				]
 			]
 		}
@@ -2069,7 +2060,7 @@
 		"type": "article-journal",
 		"container-title": "山西师范大学学报(社会科学版)",
 		"issue": "4",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "147",
 		"title": "天津方言的源流关系刍议",
 		"volume": "37",
@@ -2100,7 +2091,7 @@
 		"type": "paper-conference",
 		"container-title": "汉语方言的地理语言学研究",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "138",
 		"publisher": "商务印书馆",
 		"publisher-place": "北京",
@@ -2188,7 +2179,7 @@
 		"type": "paper-conference",
 		"container-title": "中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "33-34",
 		"publisher": "中国科学技术期刊编辑学会学术委员会",
 		"publisher-place": "北京",
@@ -2217,7 +2208,7 @@
 		"type": "book",
 		"edition": "修订本",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"publisher": "商务印书馆",
 		"publisher-place": "北京",
 		"title": "现代汉语词典",
@@ -2239,9 +2230,10 @@
 		"type": "article-journal",
 		"container-title": "中国出版",
 		"issue": "5",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "38-39",
 		"title": "中国的青年刊物: 个性特色为本仁",
+		"title-short": "中国的青年刊物",
 		"author": [
 			{
 				"family": "刘",
@@ -2261,7 +2253,7 @@
 		"type": "paper-conference",
 		"container-title": "中国科协学术期刊编辑工作经验交流会资料选",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "2-10",
 		"publisher": "中国科学技术协会学会工作部",
 		"publisher-place": "北京",
@@ -2289,7 +2281,7 @@
 		"id": "gbt7714.A.01:01",
 		"type": "book",
 		"event-place": "南京",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "page: 288",
 		"publisher": "江苏古籍出版社",
 		"publisher-place": "南京",
@@ -2312,7 +2304,7 @@
 		"id": "gbt7714.A.01:02",
 		"type": "book",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "page: 155",
 		"publisher": "北京图书馆出版社",
 		"publisher-place": "北京",
@@ -2336,7 +2328,7 @@
 		"id": "gbt7714.A.01:03",
 		"type": "book",
 		"event-place": "武汉",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "page: 112",
 		"publisher": "武汉大学出版社",
 		"publisher-place": "武汉",
@@ -2368,7 +2360,7 @@
 		"id": "gbt7714.A.01:04",
 		"type": "book",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "page: 38-39",
 		"publisher": "人民卫生出版社",
 		"publisher-place": "北京",
@@ -2401,11 +2393,12 @@
 		"type": "book",
 		"edition": "同文书局影印本",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "page: 50",
 		"publisher": "中华书局",
 		"publisher-place": "北京",
 		"title": "康熙字典: 巳集上: 水部",
+		"title-short": "康熙字典",
 		"issued": {
 			"date-parts": [
 				[
@@ -2419,7 +2412,7 @@
 		"type": "book",
 		"edition": "刻本",
 		"event-place": "京都",
-		"language": "zh",
+		"language": "zh-CN",
 		"publisher": "老二酉堂",
 		"publisher-place": "京都",
 		"title": "增订本草备要",
@@ -2442,7 +2435,7 @@
 		"id": "gbt7714.A.01:07",
 		"type": "book",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"publisher": "科学出版社",
 		"publisher-place": "北京",
 		"title": "中国森林群落分类及其群落特征",
@@ -2475,10 +2468,11 @@
 		"id": "gbt7714.A.01:08",
 		"type": "book",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"publisher": "九州出版社",
 		"publisher-place": "北京",
 		"title": "投资台湾: 大陆企业赴台投资指南",
+		"title-short": "投资台湾",
 		"author": [
 			{
 				"literal": "中国企业投资协会"
@@ -2502,7 +2496,7 @@
 		"id": "gbt7714.A.01:09",
 		"type": "book",
 		"event-place": "杭州",
-		"language": "zh",
+		"language": "zh-CN",
 		"publisher": "浙江大学出版社",
 		"publisher-place": "杭州",
 		"title": "战前中国经济的增长",
@@ -2538,10 +2532,11 @@
 		"type": "book",
 		"edition": "2",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"publisher": "北京大学出版社",
 		"publisher-place": "北京",
 		"title": "科学革命的结构: 第 4 版",
+		"title-short": "科学革命的结构",
 		"author": [
 			{
 				"literal": "库恩"
@@ -2569,11 +2564,12 @@
 		"id": "gbt7714.A.01:11",
 		"type": "book",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "page: 119",
 		"publisher": "化学工业出版社",
 		"publisher-place": "北京",
 		"title": "高分子物理: 高分子材料分析、选择与改性",
+		"title-short": "高分子物理",
 		"URL": "http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&metaid=m.20111114-HGS-889-0228",
 		"author": [
 			{
@@ -2606,6 +2602,7 @@
 		"publisher": "American Library Association",
 		"publisher-place": "Chicago",
 		"title": "Future libraries: Dreams, madness, & reality",
+		"title-short": "Future libraries",
 		"author": [
 			{
 				"family": "Crawford",
@@ -2633,6 +2630,7 @@
 		"publisher": "IFLA International Office for UBC",
 		"publisher-place": "London",
 		"title": "Names of persons: National usages for entry in catalogues",
+		"title-short": "Names of persons",
 		"author": [
 			{
 				"literal": "International Federation of Library Association and Institutions"
@@ -2678,6 +2676,7 @@
 		"publisher": "MIT Press",
 		"publisher-place": "Cambridge, Mass.",
 		"title": "Seeds, sciences, and struggle: the global politics of transgenic crops",
+		"title-short": "Seeds, sciences, and struggle",
 		"URL": "http://lib.myilibrary.com?ID=381443",
 		"author": [
 			{
@@ -2710,6 +2709,7 @@
 		"note": "page: 13",
 		"publisher": "Rowman & Littlefield Publishing Group, Inc.",
 		"title": "Death by theory: a tale of mystery and archaeological theory",
+		"title-short": "Death by theory",
 		"URL": "http://lib.myilibrary.com/Open.aspx?id=293666",
 		"author": [
 			{
@@ -2738,7 +2738,7 @@
 		"id": "gbt7714.A.02:01",
 		"type": "book",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"publisher": "人民教育出版社",
 		"publisher-place": "北京",
 		"title": "职工教育研究论文集",
@@ -2759,7 +2759,7 @@
 		"id": "gbt7714.A.02:02",
 		"type": "book",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"publisher": "九州出版社",
 		"publisher-place": "北京",
 		"title": "台湾光复六十五周年暨抗战史实学术研讨会论文集",
@@ -2780,10 +2780,11 @@
 		"id": "gbt7714.A.02:03",
 		"type": "book",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"publisher": "海洋出版社",
 		"publisher-place": "北京",
 		"title": "综合湿地管理: 综合湿地管理国际研讨会论文集",
+		"title-short": "综合湿地管理",
 		"editor": [
 			{
 				"family": "雷",
@@ -2802,10 +2803,11 @@
 		"id": "gbt7714.A.02:04",
 		"type": "book",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"publisher": "经济科学出版社",
 		"publisher-place": "北京",
 		"title": "中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集",
+		"title-short": "中国财税文化价值研究",
 		"URL": "http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&metaid=m.201106228-BPO-889-0135&cult=CN",
 		"editor": [
 			{
@@ -2865,8 +2867,9 @@
 	{
 		"id": "gbt7714.A.03:01",
 		"type": "report",
-		"language": "zh",
+		"language": "zh-CN",
 		"title": "国防白皮书: 中国武装力量的多样化运用",
+		"title-short": "国防白皮书",
 		"URL": "http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm",
 		"author": [
 			{
@@ -2895,7 +2898,7 @@
 	{
 		"id": "gbt7714.A.03:02",
 		"type": "report",
-		"language": "zh",
+		"language": "zh-CN",
 		"number": "7178999X-2006BAK04A10/10.2013",
 		"title": "人体安全重要技术标准研制最终报告",
 		"URL": "http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707",
@@ -2942,6 +2945,7 @@
 		"number": "RMRS-GTR-262",
 		"page": "8-9",
 		"title": "A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report",
+		"title-short": "A comparative risk assessment framework for wildland fire management",
 		"author": [
 			{
 				"family": "Calkin",
@@ -2994,6 +2998,7 @@
 		"publisher": "WHO",
 		"publisher-place": "Geneva",
 		"title": "Factors regulating the immune response: Report of WHO Scientific Group",
+		"title-short": "Factors regulating the immune response",
 		"author": [
 			{
 				"literal": "World Health Organization"
@@ -3011,7 +3016,7 @@
 		"id": "gbt7714.A.04:01",
 		"type": "thesis",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "page: 27",
 		"publisher": "清华大学",
 		"publisher-place": "北京",
@@ -3044,7 +3049,7 @@
 		"id": "gbt7714.A.04:02",
 		"type": "thesis",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"publisher": "北京大学",
 		"publisher-place": "北京",
 		"title": "面向中文信息处理的现代汉语并列结构研究",
@@ -3098,7 +3103,7 @@
 		"id": "gbt7714.A.05:01",
 		"type": "patent",
 		"event-place": "中国",
-		"language": "zh",
+		"language": "zh-CN",
 		"number": "201220158825.2",
 		"publisher-place": "中国",
 		"title": "轨道火车及高速轨道火车紧急安全制动辅助装置",
@@ -3122,7 +3127,7 @@
 		"id": "gbt7714.A.05:02",
 		"type": "patent",
 		"event-place": "中国",
-		"language": "zh",
+		"language": "zh-CN",
 		"number": "01129210.5",
 		"publisher-place": "中国",
 		"title": "一种荒漠化地区生态植被综合培育种植方法",
@@ -3200,13 +3205,14 @@
 		"id": "gbt7714.A.06:01",
 		"type": "report",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "type: standard",
 		"number": "GB/T 3792.4—2009",
 		"page": "3",
 		"publisher": "中国标准出版社",
 		"publisher-place": "北京",
 		"title": "文献著录: 第 4 部分 非书资料",
+		"title-short": "文献著录",
 		"author": [
 			{
 				"literal": "全国信息与文献标准化技术委员会"
@@ -3224,13 +3230,14 @@
 		"id": "gbt7714.A.06:02",
 		"type": "report",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "type: standard",
 		"number": "GY/T 202.2—2007",
 		"page": "1",
 		"publisher": "国家广播电影电视总局广播电视规划院",
 		"publisher-place": "北京",
 		"title": "广播电视音像资料编目规范: 第 2 部分 广播资料",
+		"title-short": "广播电视音像资料编目规范",
 		"author": [
 			{
 				"literal": "全国广播电视标准化技术委员会"
@@ -3248,7 +3255,7 @@
 		"id": "gbt7714.A.06:03",
 		"type": "report",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "type: standard",
 		"number": "GB 15616—1995",
 		"page": "2-3",
@@ -3308,7 +3315,7 @@
 		"type": "chapter",
 		"container-title": "苏魏公文集",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "590",
 		"publisher": "中华书局",
 		"publisher-place": "北京",
@@ -3327,7 +3334,7 @@
 		"type": "chapter",
 		"container-title": "植物科学进展",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "146-163",
 		"publisher": "高等教育出版社",
 		"publisher-place": "北京",
@@ -3357,7 +3364,7 @@
 		"type": "paper-conference",
 		"container-title": "中国国家生物安全框架实施国际合作项目研讨会论文集",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "22-25",
 		"publisher": "中国环境科学出版社",
 		"publisher-place": "北京",
@@ -3386,12 +3393,13 @@
 		"type": "chapter",
 		"container-title": "文献工作国家标准汇编: 3",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "type: standard",
 		"page": "59-92",
 		"publisher": "中国标准出版社",
 		"publisher-place": "北京",
 		"title": "世界各国和地区名称代码: GB/T 2659—1986",
+		"title-short": "世界各国和地区名称代码",
 		"author": [
 			{
 				"literal": "国家标准局信息分类编码研究所"
@@ -3415,11 +3423,12 @@
 		"type": "chapter",
 		"container-title": "宋史",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "49",
 		"publisher": "中华书局",
 		"publisher-place": "北京",
 		"title": "宋史卷三: 本纪第三",
+		"title-short": "宋史卷三",
 		"volume": "第 1 册",
 		"issued": {
 			"date-parts": [
@@ -3434,7 +3443,7 @@
 		"type": "chapter",
 		"container-title": "汶川地震震害研究",
 		"event-place": "上海",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "011-012",
 		"publisher": "同济大学出版社",
 		"publisher-place": "上海",
@@ -3524,7 +3533,7 @@
 		"type": "article-journal",
 		"container-title": "文献",
 		"issue": "1",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "56-75",
 		"title": "四库馆私家抄校书考略",
 		"author": [
@@ -3542,34 +3551,11 @@
 		}
 	},
 	{
-		"id": "gbt7714.A.08:02",
-		"type": "article-journal",
-		"container-title": "图书情报工作",
-		"issue": "6",
-		"language": "zh",
-		"page": "6-21",
-		"title": "韩国图书馆法",
-		"volume": "52",
-		"author": [
-			{
-				"family": "李",
-				"given": "炳穆"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2008"
-				]
-			]
-		}
-	},
-	{
 		"id": "gbt7714.A.08:03",
 		"type": "article-journal",
 		"container-title": "清华大学学报(自然科学版)",
 		"issue": "11",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "1518-1523",
 		"title": "互联网药品可信交易环境中主体资质审核备案模式",
 		"volume": "52",
@@ -3604,7 +3590,7 @@
 		"container-title": "国土资源导刊",
 		"DOI": "10.3969/j.issn.1672-5603.2010.10.038",
 		"issue": "10",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "93",
 		"title": "从数字地球到智慧地球",
 		"URL": "http://d.g.wanfangdata.com.cn/Periodical_hunandz201010038.aspx",
@@ -3637,7 +3623,7 @@
 		"type": "article-journal",
 		"container-title": "Nature",
 		"DOI": "10.1038/359605a0",
-		"ISSN": "0028-0836",
+		"ISSN": "1476-4687",
 		"issue": "6396",
 		"language": "en",
 		"page": "605-609",
@@ -3708,6 +3694,7 @@
 		"language": "en",
 		"page": "399-418",
 		"title": "Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate",
+		"title-short": "Drought, deluge and declines",
 		"URL": "http://www.mdpi.com/2079-7737/2/1/399",
 		"volume": "2",
 		"author": [
@@ -3799,6 +3786,7 @@
 		"language": "en",
 		"page": "696-715",
 		"title": "Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms",
+		"title-short": "Metadata quality control in digital repositories and collections",
 		"URL": "http://www.tandfonline.com/doi/pdf/10.1080/01639374.2010.508711",
 		"volume": "48",
 		"author": [
@@ -3832,7 +3820,7 @@
 		"id": "gbt7714.A.09:01",
 		"type": "article-newspaper",
 		"container-title": "中国青年报",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "15",
 		"title": "数字革命与竞争国际化",
 		"author": [
@@ -3855,7 +3843,7 @@
 		"id": "gbt7714.A.09:02",
 		"type": "article-newspaper",
 		"container-title": "大众科技报",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "7",
 		"title": "罪犯 DNA 库与生命伦理学计划",
 		"author": [
@@ -3878,7 +3866,7 @@
 		"id": "gbt7714.A.09:03",
 		"type": "article-newspaper",
 		"container-title": "北京青年报",
-		"language": "zh",
+		"language": "zh-CN",
 		"title": "大风沙过后的思考",
 		"URL": "http://www.bjyouth.com.cn/Bqb/20000412/GB/4216%5ED0412B1401.htm",
 		"author": [
@@ -3918,7 +3906,7 @@
 		"id": "gbt7714.A.09:04",
 		"type": "article-newspaper",
 		"container-title": "人民日报",
-		"language": "zh",
+		"language": "zh-CN",
 		"title": "雾霾来袭, 如何突围?",
 		"URL": "http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_2-04.htm",
 		"author": [
@@ -3960,7 +3948,7 @@
 	{
 		"id": "gbt7714.A.10:01",
 		"type": "webpage",
-		"language": "zh",
+		"language": "zh-CN",
 		"title": "出版业信息化迈入快车道",
 		"URL": "http://www.creader.com/news/20011219/200112190019.html",
 		"author": [
@@ -3991,7 +3979,7 @@
 	{
 		"id": "gbt7714.A.10:02",
 		"type": "webpage",
-		"language": "zh",
+		"language": "zh-CN",
 		"title": "化解医患矛盾需釜底抽薪",
 		"URL": "http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html",
 		"author": [
@@ -4045,6 +4033,7 @@
 		"type": "webpage",
 		"language": "en",
 		"title": "Dublin core metadata element set: version 1.1",
+		"title-short": "Dublin core metadata element set",
 		"URL": "http://dublincore.org/documents/dces/",
 		"accessed": {
 			"date-parts": [
@@ -4061,6 +4050,53 @@
 					"2012",
 					6,
 					14
+				]
+			]
+		}
+	},
+	{
+		"id": "gbt7714.A.08:02",
+		"type": "article-journal",
+		"container-title": "图书情报工作",
+		"issue": "6",
+		"language": "zh-CN",
+		"page": "6-21",
+		"title": "韩国图书馆法",
+		"volume": "52",
+		"author": [
+			{
+				"family": "李",
+				"given": "炳穆"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "gbt7714.10.1.3:04",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"note": "page: 29",
+		"publisher": "中华书局",
+		"publisher-place": "北京",
+		"title": "国史旧闻",
+		"volume": "第 1 卷",
+		"author": [
+			{
+				"family": "陈",
+				"given": "登原"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
 				]
 			]
 		}

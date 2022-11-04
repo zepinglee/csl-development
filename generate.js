@@ -16,12 +16,24 @@ function make_citeproc_sys(items) {
         bib[item.id] = item;
     }
     var citeproc_sys = {
-        retrieveLocale: function (lang){
-            return fs.readFileSync("locales/locales-" + lang + ".xml", "utf8");
+        retrieveLocale: function (lang) {
+            var file_path = "./locales/locales-" + lang + ".xml";
+            if (fs.existsSync(file_path)) {
+                return fs.readFileSync(file_path, "utf8");
+            } else {
+                console.error(`Cannot find "${file_path}".`);
+                return {};
+            }
         },
-        retrieveItem: function(id){
-            return bib[id];
-        }
+        retrieveItem: function (id) {
+            var item = bib[id];
+            if (item) {
+                return bib[id];
+            } else {
+                console.error(`Cannot find item "${id}".`);
+                return {};
+            }
+        },
     };
     return citeproc_sys;
 }
@@ -185,6 +197,7 @@ function main() {
     for (var item of gbt7714_data) {
         ids.push(item.id);
     }
+    ids.sort();
     citeproc.updateItems(ids);
     res += make_bibliography(citeproc) + "\n";
 
