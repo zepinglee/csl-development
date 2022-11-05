@@ -4,17 +4,17 @@
   <sup>1</sup> 赵景深：《文坛忆旧》，上海：北新书局，1948年，第43页。<br>
   <sup>2</sup> 谢兴尧整理：《荣庆日记》，西安：西北大学出版社，1986年。<br>
   <sup>3</sup> 蒋大兴：《公司法的展开与评判——方法·判例·制度》，北京：法律出版社，2001年。<br>
-  <sup>4</sup> 任继愈编：《中国哲学发展史（先秦卷）》，北京：人民出版社，1983年。<br>
+  <sup>4</sup> 任继愈主编：《中国哲学发展史（先秦卷）》，北京：人民出版社，1983年。<br>
   <sup>5</sup> 实藤惠秀：《中国人留学日本史》，谭汝谦、林启彦译，香港：香港中文大学出版社，1982年，第11—12页。<br>
-  <sup>6</sup> 金冲及编：《周恩来传》，北京：人民出版社、中央文献出版社，1989年。<br>
+  <sup>6</sup> 金冲及主编：《周恩来传》，北京：人民出版社、中央文献出版社，1989年。<br>
   <sup>7</sup> 佚名：《晚清洋务运动事类汇钞五十七种》上册，北京：全国图书馆文献缩微复制中心，1998年。<br>
   <sup>8</sup> 狄葆贤：《平等阁笔记》，上海：有正书局，出版时间不详。<br>
   <sup>9</sup> 《马克思恩格斯全集》第31卷，北京：人民出版社，1998年。<br>
-  <sup>10</sup> 杜威·佛克马：《走向新世界主义》，王宁、薛晓源编：《全球化与后殖民批评》，北京：中央编译出版社，1999年，第247—266页。<br>
+  <sup>10</sup> 杜威·佛克马：《走向新世界主义》，王宁、薛晓源主编：《全球化与后殖民批评》，北京：中央编译出版社，1999年，第247—266页。<br>
   <sup>11</sup> 鲁迅：《中国小说的历史的变迁》，《鲁迅全集》第9册，北京：人民文学出版社，1981年，第325页。<br>
   <sup>12</sup> 唐振常：《师承与变法》，《识史集》，上海：上海古籍出版社，1997年，第65页。<br>
   <sup>13</sup> 李鹏程：《当代文化哲学沉思》，北京：人民出版社，1994年，“序言”，第 1 页。<br>
-  <sup>14</sup> 楼适夷：《读家书，想傅雷（代序）》，傅敏编：《傅雷家书》（增补本），北京：三联书店，1998年，第2页。<br>
+  <sup>14</sup> 楼适夷：《读家书，想傅雷（代序）》，傅敏主编：《傅雷家书》（增补本），北京：三联书店，1998年，第2页。<br>
   <sup>15</sup> 黄仁宇：《为什么称为“中国大历史”？——中文版自序》，《中国大历史》，北京：三联书店，1997年，第2页。<br>
   <sup>16</sup> 姚际恒：《古今伪书考》卷3，光绪三年苏州文学山房活字本，第9页a。<br>
   <sup>17</sup> 毛祥麟：《墨余录》，上海：上海古籍出版社，1985年。<br>
@@ -59,17 +59,17 @@
     <div class="csl-entry">[1] 赵景深：《文坛忆旧》，上海：北新书局，1948年。</div>
     <div class="csl-entry">[2] 谢兴尧整理：《荣庆日记》，西安：西北大学出版社，1986年。</div>
     <div class="csl-entry">[3] 蒋大兴：《公司法的展开与评判——方法·判例·制度》，北京：法律出版社，2001年。</div>
-    <div class="csl-entry">[4] 任继愈编：《中国哲学发展史（先秦卷）》，北京：人民出版社，1983年。</div>
+    <div class="csl-entry">[4] 任继愈主编：《中国哲学发展史（先秦卷）》，北京：人民出版社，1983年。</div>
     <div class="csl-entry">[5] 实藤惠秀：《中国人留学日本史》，谭汝谦、林启彦译，香港：香港中文大学出版社，1982年。</div>
-    <div class="csl-entry">[6] 金冲及编：《周恩来传》，北京：人民出版社、中央文献出版社，1989年。</div>
+    <div class="csl-entry">[6] 金冲及主编：《周恩来传》，北京：人民出版社、中央文献出版社，1989年。</div>
     <div class="csl-entry">[7] 佚名：《晚清洋务运动事类汇钞五十七种》上册，北京：全国图书馆文献缩微复制中心，1998年。</div>
     <div class="csl-entry">[8] 狄葆贤：《平等阁笔记》，上海：有正书局，出版时间不详。</div>
     <div class="csl-entry">[9] 《马克思恩格斯全集》第31卷，北京：人民出版社，1998年。</div>
-    <div class="csl-entry">[10] 杜威·佛克马：《走向新世界主义》，王宁、薛晓源编：《全球化与后殖民批评》，北京：中央编译出版社，1999年，第247—266页。</div>
+    <div class="csl-entry">[10] 杜威·佛克马：《走向新世界主义》，王宁、薛晓源主编：《全球化与后殖民批评》，北京：中央编译出版社，1999年，第247—266页。</div>
     <div class="csl-entry">[11] 鲁迅：《中国小说的历史的变迁》，《鲁迅全集》第9册，北京：人民文学出版社，1981年，第325页。</div>
     <div class="csl-entry">[12] 唐振常：《师承与变法》，《识史集》，上海：上海古籍出版社，1997年，第65页。</div>
     <div class="csl-entry">[13] 李鹏程：《当代文化哲学沉思》，北京：人民出版社，1994年。</div>
-    <div class="csl-entry">[14] 楼适夷：《读家书，想傅雷（代序）》，傅敏编：《傅雷家书》（增补本），北京：三联书店，1998年，第2页。</div>
+    <div class="csl-entry">[14] 楼适夷：《读家书，想傅雷（代序）》，傅敏主编：《傅雷家书》（增补本），北京：三联书店，1998年，第2页。</div>
     <div class="csl-entry">[15] 黄仁宇：《为什么称为“中国大历史”？——中文版自序》，《中国大历史》，北京：三联书店，1997年，第2页。</div>
     <div class="csl-entry">[16] 姚际恒：《古今伪书考》卷3，光绪三年苏州文学山房活字本。</div>
     <div class="csl-entry">[17] 毛祥麟：《墨余录》，上海：上海古籍出版社，1985年。</div>
@@ -140,17 +140,17 @@
     <div class="csl-entry">[20] 黄仁宇：《为什么称为“中国大历史”？——中文版自序》，《中国大历史》，北京：三联书店，1997年，第2页。</div>
     <div class="csl-entry">[21] 唐振常：《师承与变法》，《识史集》，上海：上海古籍出版社，1997年，第65页。</div>
     <div class="csl-entry">[22] 管志道：《答屠仪部赤水丈书》，《续问辨牍》卷2，《四库全书存目丛书》，济南：齐鲁书社，1997年影印本。</div>
-    <div class="csl-entry">[23] 楼适夷：《读家书，想傅雷（代序）》，傅敏编：《傅雷家书》（增补本），北京：三联书店，1998年，第2页。</div>
+    <div class="csl-entry">[23] 楼适夷：《读家书，想傅雷（代序）》，傅敏主编：《傅雷家书》（增补本），北京：三联书店，1998年，第2页。</div>
     <div class="csl-entry">[24] 李鹏程：《当代文化哲学沉思》，北京：人民出版社，1994年。</div>
     <div class="csl-entry">[25] 鲁迅：《中国小说的历史的变迁》，《鲁迅全集》第9册，北京：人民文学出版社，1981年，第325页。</div>
-    <div class="csl-entry">[26] 杜威·佛克马：《走向新世界主义》，王宁、薛晓源编：《全球化与后殖民批评》，北京：中央编译出版社，1999年，第247—266页。</div>
+    <div class="csl-entry">[26] 杜威·佛克马：《走向新世界主义》，王宁、薛晓源主编：《全球化与后殖民批评》，北京：中央编译出版社，1999年，第247—266页。</div>
     <div class="csl-entry">[27] 狄葆贤：《平等阁笔记》，上海：有正书局，出版时间不详。</div>
     <div class="csl-entry">[28] 实藤惠秀：《中国人留学日本史》，谭汝谦、林启彦译，香港：香港中文大学出版社，1982年。</div>
-    <div class="csl-entry">[29] 任继愈编：《中国哲学发展史（先秦卷）》，北京：人民出版社，1983年。</div>
+    <div class="csl-entry">[29] 任继愈主编：《中国哲学发展史（先秦卷）》，北京：人民出版社，1983年。</div>
     <div class="csl-entry">[30] 谢兴尧整理：《荣庆日记》，西安：西北大学出版社，1986年。</div>
     <div class="csl-entry">[31] 《马克思恩格斯全集》第31卷，北京：人民出版社，1998年。</div>
     <div class="csl-entry">[32] 佚名：《晚清洋务运动事类汇钞五十七种》上册，北京：全国图书馆文献缩微复制中心，1998年。</div>
-    <div class="csl-entry">[33] 金冲及编：《周恩来传》，北京：人民出版社、中央文献出版社，1989年。</div>
+    <div class="csl-entry">[33] 金冲及主编：《周恩来传》，北京：人民出版社、中央文献出版社，1989年。</div>
     <div class="csl-entry">[34] 蒋大兴：《公司法的展开与评判——方法·判例·制度》，北京：法律出版社，2001年。</div>
     <div class="csl-entry">[35] 赵景深：《文坛忆旧》，上海：北新书局，1948年。</div>
     <div class="csl-entry">[36] 汪疑今：《江苏的小农及其副业》，《中国经济》第4卷第6期，1936年6月15日。</div>
@@ -179,7 +179,7 @@
   <sup>4</sup> I. Morri, <i>Why the West Rules for Now</i>, p. 260.<br>
   <sup>5</sup> 罗杰斯：《西方文明史: 问题与源头》，潘惠霞、魏婧、杨艳、汤玲译，大连：东北财经大学出版社，2011年，第15—16页。<br>
   <sup>6</sup> I. Morri, <i>Why the West Rules for Now</i>, pp. 326-329.<br>
-  <sup>7</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会编：《中国图书馆学会年会论文集》2011 年卷，北京：国家图书馆出版社，2011年，第48页。<br>
+  <sup>7</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，北京：国家图书馆出版社，2011年，第48页。<br>
   <sup>8</sup> 邓一刚：《全智能节电器》，中国，2006年。<br>
   <sup>9</sup> D. Bawden, Origins and Concepts of Digital Literacy, 2008.<br>
   <sup>10</sup> 杨保军：《新闻道德论》，博士学位论文，中国人民大学出版社，2012年。<br>
@@ -192,7 +192,7 @@
     <div class="csl-entry">[1] Cass R. Sunstein, “Social Norms and Social Roles,” <i>Columbia Law Review</i>, vol. 96 (1996), p. 903.</div>
     <div class="csl-entry">[2] I. Morri, <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010.</div>
     <div class="csl-entry">[3] 罗杰斯：《西方文明史: 问题与源头》，潘惠霞、魏婧、杨艳、汤玲译，大连：东北财经大学出版社，2011年，第15—16页。</div>
-    <div class="csl-entry">[4] 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会编：《中国图书馆学会年会论文集》2011 年卷，北京：国家图书馆出版社，2011年，第45—52页。</div>
+    <div class="csl-entry">[4] 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，北京：国家图书馆出版社，2011年，第45—52页。</div>
     <div class="csl-entry">[5] 邓一刚：《全智能节电器》，中国，2006年。</div>
     <div class="csl-entry">[6] D. Bawden, Origins and Concepts of Digital Literacy, 2008.</div>
     <div class="csl-entry">[7] 杨保军：《新闻道德论》，博士学位论文，中国人民大学出版社，2012年。</div>
@@ -210,7 +210,7 @@
     <div class="csl-entry">[5] 徐光宪、王祥云：《物质结构》，北京：科学出版社，2010年。</div>
     <div class="csl-entry">[6] 顾炎武：《昌平山水记: 京东考古录》，北京：北京古籍出版社，1992年。</div>
     <div class="csl-entry">[7] 王夫之：《宋论》（刻本），金陵：湘乡曾国荃，1865年。</div>
-    <div class="csl-entry">[8] 牛志明、斯温兰德、雷光春编：《综合湿地管理国际研讨会论文集》，北京：海洋出版社，2012年。</div>
+    <div class="csl-entry">[8] 牛志明、斯温兰德、雷光春主编：《综合湿地管理国际研讨会论文集》，北京：海洋出版社，2012年。</div>
     <div class="csl-entry">[9] 中国第一历史档案馆、辽宁省档案馆：《中国明朝档案总汇》，桂林：广西师范大学出版社，2001年。</div>
     <div class="csl-entry">[10] 杨保军：《新闻道德论》，博士学位论文，中国人民大学出版社，2012年。</div>
     <div class="csl-entry">[11] 赵学功：《当代美国外交》，北京：社会科学文献出版社，2001年。</div>
@@ -220,11 +220,11 @@
     <div class="csl-entry">[15] Sergey A. Yufin, ed., <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>, Rotterdam: A. A. Balkema, 2000.</div>
     <div class="csl-entry">[16] Peter Baldock, <i>Developing Early Childhood Services: Past, Present and Future</i>, Rotterdam: Open University Press, 2011, p. 105.</div>
     <div class="csl-entry">[17] Xuetong Fan and Christopher H. Sommers, <i>Food Irradiation Research and Technology</i>, Ames, Iowa: Blackwell Publishing, 2013, pp. 25-26.</div>
-    <div class="csl-entry">[18] 王夫之编：《周易外传: 卷 5》，《船山全书》第 6 册，长沙：岳麓书社，2011年，第1109页。</div>
-    <div class="csl-entry">[19] 程根伟：《1998 年长江洪水的成因与减灾对策》，许厚泽、赵其国编：《长江流域洪涝灾害与科技对策》，北京：科学出版社，1999年，第32—36页。</div>
-    <div class="csl-entry">[20] 陈晋镳、张惠民、朱士兴、赵震、王振刚：《蓟县震旦亚界研究》，中国地质科学院天津地质矿产研究所编：《中国震旦亚界》，天津：天津科学技术出版社，1980年，第56—114页。</div>
-    <div class="csl-entry">[21] 马克思：《政治经济学批判》，马克思、恩格斯编：《马克思恩格斯全集》第 35 卷，北京：人民出版社，2013年，第302页。</div>
-    <div class="csl-entry">[22] 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会编：《中国图书馆学会年会论文集》2011 年卷，北京：国家图书馆出版社，2011年，第45—52页。</div>
+    <div class="csl-entry">[18] 王夫之主编：《周易外传: 卷 5》，《船山全书》第 6 册，长沙：岳麓书社，2011年，第1109页。</div>
+    <div class="csl-entry">[19] 程根伟：《1998 年长江洪水的成因与减灾对策》，许厚泽、赵其国主编：《长江流域洪涝灾害与科技对策》，北京：科学出版社，1999年，第32—36页。</div>
+    <div class="csl-entry">[20] 陈晋镳、张惠民、朱士兴、赵震、王振刚：《蓟县震旦亚界研究》，中国地质科学院天津地质矿产研究所主编：《中国震旦亚界》，天津：天津科学技术出版社，1980年，第56—114页。</div>
+    <div class="csl-entry">[21] 马克思：《政治经济学批判》，马克思、恩格斯主编：《马克思恩格斯全集》第 35 卷，北京：人民出版社，2013年，第302页。</div>
+    <div class="csl-entry">[22] 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，北京：国家图书馆出版社，2011年，第45—52页。</div>
     <div class="csl-entry">[23] L. Weinstein and M. N. Swertz, “Pathogenic Properties of Invading Microorganism,” in William A. Sodeman, Jr and William A. Sodeman, eds., <i>Pathologic Physiology: Mechanisms of Disease</i>, Philadelphia: Saunders, 1974, pp. 745-772.</div>
     <div class="csl-entry">[24] J. Alan Roberson and Eric G. Burneson, “Drinking Water Standards, Regulations and Goals,” in American Water Works Association, ed., <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill, 2011, 1.1-1.36.</div>
     <div class="csl-entry">[25] 中华医学会湖北分会：《临床内科杂志》第1卷，武汉：中华医学会湖北分会，1984年。</div>
@@ -263,13 +263,13 @@
     <div class="csl-entry">[58] Diana Crane, <i>Invisible College</i>, Chicago: Univ. of Chicago Press, 1972.</div>
     <div class="csl-entry">[59] Margaret F. Stieg, “The Information Needs of Historians,” <i>College &#38; Research Libraries</i>, vol. 42, no. 6 (1981), pp. 549-560.</div>
     <div class="csl-entry">[60] 王临惠、支建刚、王忠一：《天津方言的源流关系刍议》，《山西师范大学学报(社会科学版)》第37卷第4期，2010年，第147页。</div>
-    <div class="csl-entry">[61] 王临惠：《从几组声母的演变看天津方言形成的自然条件和历史条件》，曹志耘编：《汉语方言的地理语言学研究》，北京：商务印书馆，2010年，第138页。</div>
+    <div class="csl-entry">[61] 王临惠：《从几组声母的演变看天津方言形成的自然条件和历史条件》，曹志耘主编：《汉语方言的地理语言学研究》，北京：商务印书馆，2010年，第138页。</div>
     <div class="csl-entry">[62] W. James Kennedy and Robert E. Garrison, “Morphology and Genesis of Nodular Chalks and Hardgrounds in the Upper Cretaceous of Southern England,” <i>Sedimentology</i>, vol. 22 (1975), p. 311.</div>
     <div class="csl-entry">[63] W. James Kennedy and Robert E. Garrison, “Morphology and Genesis of Nodular Phosphates in the Cenomanian Glauconitic Marl of South-East England,” <i>Lethaia</i>, vol. 8, no. 4 (October 1975), pp. 339-360.</div>
-    <div class="csl-entry">[64] 张忠智：《科技书刊的总编(主编)的角色要求》，中国科学技术期刊编辑学会编：《中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编》，北京：中国科学技术期刊编辑学会学术委员会，1997年，第33—34页。</div>
+    <div class="csl-entry">[64] 张忠智：《科技书刊的总编(主编)的角色要求》，中国科学技术期刊编辑学会主编：《中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编》，北京：中国科学技术期刊编辑学会学术委员会，1997年，第33—34页。</div>
     <div class="csl-entry">[65] 中国社会科学院语言研究所词典编辑室：《现代汉语词典》（修订本），北京：商务印书馆，1996年。</div>
     <div class="csl-entry">[66] 刘彻东：《中国的青年刊物: 个性特色为本仁》，《中国出版》1998年第5期，第38—39页。</div>
-    <div class="csl-entry">[67] 裴丽生：《在中国科协学术期刊编辑工作经验交流会上的讲话》，中国科学技术协会编：《中国科协学术期刊编辑工作经验交流会资料选》，北京：中国科学技术协会学会工作部，1981年，第2—10页。</div>
+    <div class="csl-entry">[67] 裴丽生：《在中国科协学术期刊编辑工作经验交流会上的讲话》，中国科学技术协会主编：《中国科协学术期刊编辑工作经验交流会资料选》，北京：中国科学技术协会学会工作部，1981年，第2—10页。</div>
     <div class="csl-entry">[68] 张伯伟：《全唐五代诗格汇考》，南京：江苏古籍出版社，2002年，第288页。</div>
     <div class="csl-entry">[69] 皮锡瑞：《师伏堂日记》第 4 册，北京：北京图书馆出版社，2009年，第155页。</div>
     <div class="csl-entry">[70] 胡承正、周详、缪灵：《理论物理概论》上，武汉：武汉大学出版社，2010年，第112页。</div>
@@ -286,10 +286,10 @@
     <div class="csl-entry">[81] J. A. O’Brien, <i>Introduction to Information Systems</i>, Burr Ridge, III: Irwin, 1994.</div>
     <div class="csl-entry">[82] A. Kinchy, <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>, Cambridge, Mass.: MIT Press, 2012, p. 50.</div>
     <div class="csl-entry">[83] Adrian Praetzellis, <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>, Rowman &#38; Littlefield Publishing Group, Inc., 2011, p. 13.</div>
-    <div class="csl-entry">[84] 中国职工教育研究会编：《职工教育研究论文集》，北京：人民教育出版社，1985年。</div>
-    <div class="csl-entry">[85] 中国社会科学院台湾史研究中心编：《台湾光复六十五周年暨抗战史实学术研讨会论文集》，北京：九州出版社，2012年。</div>
-    <div class="csl-entry">[86] 雷光春编：《综合湿地管理: 综合湿地管理国际研讨会论文集》，北京：海洋出版社，2012年。</div>
-    <div class="csl-entry">[87] 陈志勇编：《中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集》，北京：经济科学出版社，2011年。</div>
+    <div class="csl-entry">[84] 中国职工教育研究会主编：《职工教育研究论文集》，北京：人民教育出版社，1985年。</div>
+    <div class="csl-entry">[85] 中国社会科学院台湾史研究中心主编：《台湾光复六十五周年暨抗战史实学术研讨会论文集》，北京：九州出版社，2012年。</div>
+    <div class="csl-entry">[86] 雷光春主编：《综合湿地管理: 综合湿地管理国际研讨会论文集》，北京：海洋出版社，2012年。</div>
+    <div class="csl-entry">[87] 陈志勇主编：《中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集》，北京：经济科学出版社，2011年。</div>
     <div class="csl-entry">[88] B. V. Babu, A. K. Nagar, K. Deep, and others, eds., <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>, New Delhi: Springer, 2014.</div>
     <div class="csl-entry">[89] 中华人民共和国国务院新闻办公室：《国防白皮书: 中国武装力量的多样化运用》，2013年。</div>
     <div class="csl-entry">[90] 汤万金、杨跃翔、刘文、others：《人体安全重要技术标准研制最终报告》，2013年。</div>
@@ -307,11 +307,11 @@
     <div class="csl-entry">[102] 国家环境保护局科技标准司：《土壤环境质量标准》，北京：中国标准出版社，1996年，第2—3页。</div>
     <div class="csl-entry">[103] Information and Documentation—The Dublin Core Metadata Element Set, 2009.</div>
     <div class="csl-entry">[104] 《卷 39 乞致仕第一》，《苏魏公文集》下册，北京：中华书局，1988年，第590页。</div>
-    <div class="csl-entry">[105] 白书农：《植物开花研究》，李承森编：《植物科学进展》，北京：高等教育出版社，1998年，第146—163页。</div>
-    <div class="csl-entry">[106] 汪学军：《中国农业转基因生物研究进展与安全管理》，国家环境保护总局生物安全管理办公室编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社，2002年，第22—25页。</div>
+    <div class="csl-entry">[105] 白书农：《植物开花研究》，李承森主编：《植物科学进展》，北京：高等教育出版社，1998年，第146—163页。</div>
+    <div class="csl-entry">[106] 汪学军：《中国农业转基因生物研究进展与安全管理》，国家环境保护总局生物安全管理办公室主编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社，2002年，第22—25页。</div>
     <div class="csl-entry">[107] 国家标准局信息分类编码研究所：《世界各国和地区名称代码: GB/T 2659—1986》，北京：中国标准出版社，1988年，第59—92页。</div>
     <div class="csl-entry">[108] 《宋史卷三: 本纪第三》，《宋史》第 1 册，北京：中华书局，1977年，第49页。</div>
-    <div class="csl-entry">[109] 楼梦鳞、杨燕：《汶川地震基岩地震动特征分析》，同济大学土木工程防灾国家重点实验室编：《汶川地震震害研究》，上海：同济大学出版社，2011年，第011—012页。</div>
+    <div class="csl-entry">[109] 楼梦鳞、杨燕：《汶川地震基岩地震动特征分析》，同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，上海：同济大学出版社，2011年，第011—012页。</div>
     <div class="csl-entry">[110] P. R. Buseck, G. L. Nord, and D. R. Veblen, “Subsolidus Phenomena in Pyroxenes,” in <i>Pyroxense</i>, Washington, D.C.: Mineralogical Society of America, c1980, pp. 117-211.</div>
     <div class="csl-entry">[111] M. E. Fourney, “Advances in Holographic Photoelasticity,” in <i>Symposium on Applications of Holography in Mechanics</i>, New York: ASME, c1971, pp. 17-38.</div>
     <div class="csl-entry">[112] 杨洪升：《四库馆私家抄校书考略》，《文献》2013年第1期，第56—75页。</div>
