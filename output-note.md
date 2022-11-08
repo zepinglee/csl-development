@@ -181,7 +181,7 @@
   <sup>6</sup> I. Morri, <i>Why the West Rules for Now</i>, pp. 326-329.<br>
   <sup>7</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，北京：国家图书馆出版社，2011年，第48页。<br>
   <sup>8</sup> 邓一刚：《全智能节电器》，中国，2006年。<br>
-  <sup>9</sup> D. Bawden, Origins and Concepts of Digital Literacy, 2008.<br>
+  <sup>9</sup> D. Bawden, Origins and Concepts of Digital Literacy, 2008, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>，March 8, 2013.<br>
   <sup>10</sup> 杨保军：《新闻道德论》，博士学位论文，中国人民大学出版社，2012年。<br>
 </blockquote>
 
@@ -194,7 +194,7 @@
     <div class="csl-entry">[3] 罗杰斯：《西方文明史: 问题与源头》，潘惠霞、魏婧、杨艳、汤玲译，大连：东北财经大学出版社，2011年，第15—16页。</div>
     <div class="csl-entry">[4] 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，北京：国家图书馆出版社，2011年，第45—52页。</div>
     <div class="csl-entry">[5] 邓一刚：《全智能节电器》，中国，2006年。</div>
-    <div class="csl-entry">[6] D. Bawden, Origins and Concepts of Digital Literacy, 2008.</div>
+    <div class="csl-entry">[6] D. Bawden, Origins and Concepts of Digital Literacy, 2008, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>，March 8, 2013.</div>
     <div class="csl-entry">[7] 杨保军：《新闻道德论》，博士学位论文，中国人民大学出版社，2012年。</div>
   </div>
 </blockquote>
@@ -211,7 +211,7 @@
     <div class="csl-entry">[6] 顾炎武：《昌平山水记: 京东考古录》，北京：北京古籍出版社，1992年。</div>
     <div class="csl-entry">[7] 王夫之：《宋论》（刻本），金陵：湘乡曾国荃，1865年。</div>
     <div class="csl-entry">[8] 牛志明、斯温兰德、雷光春主编：《综合湿地管理国际研讨会论文集》，北京：海洋出版社，2012年。</div>
-    <div class="csl-entry">[9] 中国第一历史档案馆、辽宁省档案馆：《中国明朝档案总汇》，桂林：广西师范大学出版社，2001年。</div>
+    <div class="csl-entry">[9] 中国第一历史档案馆、辽宁省档案馆：《中国明朝档案总汇》，2001年。</div>
     <div class="csl-entry">[10] 杨保军：《新闻道德论》，博士学位论文，中国人民大学出版社，2012年。</div>
     <div class="csl-entry">[11] 赵学功：《当代美国外交》，北京：社会科学文献出版社，2001年。</div>
     <div class="csl-entry">[12] 同济大学土木工程防灾国家重点实验室：《汶川地震灾害研究》，上海：同济大学出版社，2011年，第5—6页。</div>
@@ -229,7 +229,7 @@
     <div class="csl-entry">[24] J. Alan Roberson and Eric G. Burneson, “Drinking Water Standards, Regulations and Goals,” in American Water Works Association, ed., <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill, 2011, 1.1-1.36.</div>
     <div class="csl-entry">[25] 中华医学会湖北分会：《临床内科杂志》第1卷，武汉：中华医学会湖北分会，1984年。</div>
     <div class="csl-entry">[26] 中国图书馆学会：《图书馆学通讯》，北京：北京图书馆，1957年。</div>
-    <div class="csl-entry">[27] American Association for the Advancement of Science, Science, Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
+    <div class="csl-entry">[27] American Association for the Advancement of Science, <i>Science</i>, vol.1, Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
     <div class="csl-entry">[28] 袁训来、陈哲、肖书海、others：《蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口》，《科学通报》第57卷第34期，2012年，第3219页。</div>
     <div class="csl-entry">[29] 余建斌：《我们的科技一直在追赶: 访中国工程院院长周济》，《人民日报》2013年1月12日，第2版。</div>
     <div class="csl-entry">[30] 李炳穆：《韩国图书馆法》，《图书情报工作》第52卷第6期，2008年，第6—12页。</div>
@@ -241,15 +241,15 @@
     <div class="csl-entry">[36] Alexander A. Myburg, Dario Grattapaglia, Gerald A. Tuskan, Uffe Hellsten, Richard D. Hayes, Jane Grimwood, Jerry Jenkins, Erika Lindquist, Hope Tice, Diane Bauer, David M. Goodstein, Inna Dubchak, Alexandre Poliakov, Eshchar Mizrachi, Anand R. K. Kullan, Steven G. Hussey, Desre Pinard, Karen van der Merwe, Pooja Singh, Ida van Jaarsveld, Orzenil B. Silva-Junior, Roberto C. Togawa, Marilia R. Pappas, Danielle A. Faria, Carolina P. Sansaloni, Cesar D. Petroli, Xiaohan Yang, Priya Ranjan, Timothy J. Tschaplinski, Chu-Yu Ye, Ting Li, Lieven Sterck, Kevin Vanneste, Florent Murat, Marçal Soler, Hélène San Clemente, Naijib Saidi, Hua Cassan-Wang, Christophe Dunand, Charles A. Hefer, Erich Bornberg-Bauer, Anna R. Kersting, Kelly Vining, Vindhya Amarasinghe, Martin Ranik, Sushma Naithani, Justin Elser, Alexander E. Boyd, Aaron Liston, Joseph W. Spatafora, Palitha Dharmwardhana, Rajani Raja, Christopher Sullivan, Elisson Romanel, Marcio Alves-Ferreira, Carsten Külheim, William Foley, Victor Carocha, Jorge Paiva, David Kudrna, Sergio H. Brommonschenkel, Giancarlo Pasquali, Margaret Byrne, Philippe Rigault, Josquin Tibbits, Antanas Spokevicius, Rebecca C. Jones, Dorothy A. Steane, René E. Vaillancourt, Brad M. Potts, Fourie Joubert, Kerrie Barry, Georgios J. Pappas, Steven H. Strauss, Pankaj Jaiswal, Jacqueline Grima-Pettenati, Jérôme Salse, Yves Van de Peer, Daniel S. Rokhsar, and Jeremy Schmutz, “The Genome of Eucalyptus Grandis,” <i>Nature</i>, vol. 510 (June 2014), pp. 356-362.</div>
     <div class="csl-entry">[37] 邓一刚：《全智能节电器》，中国，2006年。</div>
     <div class="csl-entry">[38] 西安电子科技大学：《光折变自适应光外差探测方法》，中国，2002年。</div>
-    <div class="csl-entry">[39] Ryuki Tachibana, Shuhichi Shimizu, Seiji Kobayshi, and Taiga Nakamura, Electronic Watermarking Method and System, US, 2005.</div>
+    <div class="csl-entry">[39] Ryuki Tachibana, Shuhichi Shimizu, Seiji Kobayshi, and Taiga Nakamura, <i>Electronic Watermarking Method and System</i>, US, 2005.</div>
     <div class="csl-entry">[40] 中国互联网络信息中心：《第 29 次中国互联网络发展现状统计报告》，2012年。</div>
     <div class="csl-entry">[41] 北京市人民政府办公厅：《关于转发北京市企业投资项目核准暂行实施办法的通知》，2005年。</div>
-    <div class="csl-entry">[42] D. Bawden, Origins and Concepts of Digital Literacy, 2008.</div>
-    <div class="csl-entry">[43] Online Computer Library Center, Inc, About OCLC: History of Cooperation.</div>
-    <div class="csl-entry">[44] A. Hopkinson, UNIMARC and Metadata: Dublin Core, 2009.</div>
+    <div class="csl-entry">[42] D. Bawden, Origins and Concepts of Digital Literacy, 2008, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>，March 8, 2013.</div>
+    <div class="csl-entry">[43] Online Computer Library Center, Inc, About OCLC: History of Cooperation, <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>，March 27, 2012.</div>
+    <div class="csl-entry">[44] A. Hopkinson, UNIMARC and Metadata: Dublin Core, 2009, <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>，March 27, 2013.</div>
     <div class="csl-entry">[45] “Coffee Drinking and Cancer of the Pancreas,” <i>British Medical Journal</i>, vol. 283, no. 6292 (1981), p. 628.</div>
-    <div class="csl-entry">[46] 刘乃安：《生物质材料热解失重动力学及其分析方法研究》，中国科学技术大学，2000年，第17—18页。</div>
-    <div class="csl-entry">[47] William Deverell and David Igler, <i>A Companion to California History</i>, New York: John Wiley &#38; Sons, 2013, pp. 21-22.</div>
+    <div class="csl-entry">[46] 刘乃安：《生物质材料热解失重动力学及其分析方法研究》，博士学位论文，中国科学技术大学，2000年，第17—18页。</div>
+    <div class="csl-entry">[47] William Deverell and David Igler, “A Companion to California History,” Doctoral Dissertation, John Wiley &#38; Sons, 2013, pp. 21-22.</div>
     <div class="csl-entry">[48] S. K. Baker and M. E. Jackson, <i>The Future of Resource Sharing</i>, New York: The Haworth Press, 1995.</div>
     <div class="csl-entry">[49] B. E. Chernik, <i>Introduction to Library Services for Library Technicians</i>, Littleton, Colo.: Libraries Unlimited, Inc., 1982.</div>
     <div class="csl-entry">[50] 尼葛洛庞帝：《数字化生存》，胡泳、范海燕译，海口：海南出版社，1996年。</div>
@@ -293,19 +293,19 @@
     <div class="csl-entry">[88] B. V. Babu, A. K. Nagar, K. Deep, and others, eds., <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>, New Delhi: Springer, 2014.</div>
     <div class="csl-entry">[89] 中华人民共和国国务院新闻办公室：《国防白皮书: 中国武装力量的多样化运用》，2013年。</div>
     <div class="csl-entry">[90] 汤万金、杨跃翔、刘文、others：《人体安全重要技术标准研制最终报告》，2013年。</div>
-    <div class="csl-entry">[91] D. Calkin, A. Ager, and M. Thompson, A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report, 2011, pp. 8-9.</div>
-    <div class="csl-entry">[92] U.S. Department of Transportation Federal Highway Administration, Guidelines for Handling Excavated Acid-Producing Material, Springfield: U.S. Department of Commerce National Information Service, 1990.</div>
-    <div class="csl-entry">[93] World Health Organization, Factors Regulating the Immune Response: Report of WHO Scientific Group, Geneva: WHO, 1970.</div>
-    <div class="csl-entry">[94] 马欢：《人类活动影响下海河流域典型区水循环变化分析》，清华大学，2011年，第27页。</div>
-    <div class="csl-entry">[95] 吴云芳：《面向中文信息处理的现代汉语并列结构研究》，北京大学，2003年。</div>
-    <div class="csl-entry">[96] R. B. Calms, <i>Infrared Spectroscopic Studies on Solid Oxygen</i>, Berkeley: Univ. of California, 1965.</div>
+    <div class="csl-entry">[91] D. Calkin, A. Ager, and M. Thompson, “A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report,” 2011, pp. 8-9.</div>
+    <div class="csl-entry">[92] U.S. Department of Transportation Federal Highway Administration, “Guidelines for Handling Excavated Acid-Producing Material,” Springfield: U.S. Department of Commerce National Information Service, 1990.</div>
+    <div class="csl-entry">[93] World Health Organization, “Factors Regulating the Immune Response: Report of WHO Scientific Group,” Geneva: WHO, 1970.</div>
+    <div class="csl-entry">[94] 马欢：《人类活动影响下海河流域典型区水循环变化分析》，博士学位论文，清华大学，2011年，第27页。</div>
+    <div class="csl-entry">[95] 吴云芳：《面向中文信息处理的现代汉语并列结构研究》，博士学位论文，北京大学，2003年。</div>
+    <div class="csl-entry">[96] R. B. Calms, “Infrared Spectroscopic Studies on Solid Oxygen,” Ph.D. Dissertation, Univ. of California, 1965.</div>
     <div class="csl-entry">[97] 张凯军：《轨道火车及高速轨道火车紧急安全制动辅助装置》，中国，2012年。</div>
     <div class="csl-entry">[98] 河北绿洲生态环境科技有限公司：《一种荒漠化地区生态植被综合培育种植方法》，中国，2001年。</div>
-    <div class="csl-entry">[99] A. Koseki, H. Momose, M. Kawahito, and others, Compiler, US, 2002.</div>
+    <div class="csl-entry">[99] A. Koseki, H. Momose, M. Kawahito, and others, <i>Compiler</i>, US, 2002.</div>
     <div class="csl-entry">[100] 全国信息与文献标准化技术委员会：《文献著录: 第 4 部分 非书资料》，北京：中国标准出版社，2010年，第3页。</div>
     <div class="csl-entry">[101] 全国广播电视标准化技术委员会：《广播电视音像资料编目规范: 第 2 部分 广播资料》，北京：国家广播电影电视总局广播电视规划院，2007年，第1页。</div>
     <div class="csl-entry">[102] 国家环境保护局科技标准司：《土壤环境质量标准》，北京：中国标准出版社，1996年，第2—3页。</div>
-    <div class="csl-entry">[103] Information and Documentation—The Dublin Core Metadata Element Set, 2009.</div>
+    <div class="csl-entry">[103] <i>Information and Documentation—The Dublin Core Metadata Element Set</i>, 2009.</div>
     <div class="csl-entry">[104] 《卷 39 乞致仕第一》，《苏魏公文集》下册，北京：中华书局，1988年，第590页。</div>
     <div class="csl-entry">[105] 白书农：《植物开花研究》，李承森主编：《植物科学进展》，北京：高等教育出版社，1998年，第146—163页。</div>
     <div class="csl-entry">[106] 汪学军：《中国农业转基因生物研究进展与安全管理》，国家环境保护总局生物安全管理办公室主编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社，2002年，第22—25页。</div>
@@ -329,7 +329,7 @@
     <div class="csl-entry">[124] 刘裕国、杨柳、张洋、others：《雾霾来袭, 如何突围?》，《人民日报》2013年1月12日。</div>
     <div class="csl-entry">[125] 萧钰：《出版业信息化迈入快车道》，2001年12月19日，<a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>，2002年4月15日。</div>
     <div class="csl-entry">[126] 李强：《化解医患矛盾需釜底抽薪》，2012年5月3日，<a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>，2013年3月25日。</div>
-    <div class="csl-entry">[127] Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office, Pennsylvania Library Laws.</div>
-    <div class="csl-entry">[128] Dublin Core Metadata Element Set: Version 1.1, 2012.</div>
+    <div class="csl-entry">[127] Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office, Pennsylvania Library Laws, <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>，March 24, 2013.</div>
+    <div class="csl-entry">[128] Dublin Core Metadata Element Set: Version 1.1, 2012, <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>，June 11, 2014.</div>
   </div>
 </blockquote>
