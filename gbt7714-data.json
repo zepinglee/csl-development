@@ -753,7 +753,7 @@
 		"type": "book",
 		"event-place": "北京",
 		"language": "zh-CN",
-		"note": "type: periodical\nissue: 1-4",
+		"note": "type: periodical\nissued: 1957/1990\nissue: 1-4",
 		"publisher": "北京图书馆",
 		"publisher-place": "北京",
 		"title": "图书馆学通讯",
@@ -761,15 +761,7 @@
 			{
 				"literal": "中国图书馆学会"
 			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1957"
-				]
-			],
-			"season": "1990"
-		}
+		]
 	},
 	{
 		"id": "gbt7714.04.3.2:03",
