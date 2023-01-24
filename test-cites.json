@@ -1,4 +1,32 @@
 {
     "example": [],
-    "test": []
+    "test": [
+        [
+            {
+                "id": "aips.4.01:1"
+            }
+        ],
+        [
+            {
+                "id": "aips.4.02:1"
+            }
+        ],
+        [
+            {
+                "id": "aips.4.02:2"
+            }
+        ],
+        [
+            {
+                "id": "aips.4.02:1",
+                "author-only": "true"
+            }
+        ],
+        [
+            {
+                "id": "aips.4.02:2",
+                "author-only": "true"
+            }
+        ]
+    ]
 }

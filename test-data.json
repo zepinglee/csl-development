@@ -11,8 +11,8 @@
 		"volume": "40",
 		"author": [
 			{
-				"family": "张三",
-				"given": ""
+				"family": "张",
+				"given": "三"
 			}
 		],
 		"issued": {
@@ -35,12 +35,12 @@
 		"volume": "40",
 		"author": [
 			{
-				"family": "张三",
-				"given": ""
+				"family": "张",
+				"given": "三"
 			},
 			{
-				"family": "李四",
-				"given": ""
+				"family": "李",
+				"given": "四"
 			}
 		],
 		"issued": {
@@ -63,32 +63,32 @@
 		"volume": "40",
 		"author": [
 			{
-				"family": "赵一",
-				"given": ""
+				"family": "赵",
+				"given": "一"
 			},
 			{
-				"family": "钱二",
-				"given": ""
+				"family": "钱",
+				"given": "二"
 			},
 			{
-				"family": "孙三",
-				"given": ""
+				"family": "孙",
+				"given": "三"
 			},
 			{
-				"family": "李四",
-				"given": ""
+				"family": "李",
+				"given": "四"
 			},
 			{
-				"family": "周五",
-				"given": ""
+				"family": "周",
+				"given": "五"
 			},
 			{
-				"family": "吴六",
-				"given": ""
+				"family": "吴",
+				"given": "六"
 			},
 			{
-				"family": "郑七",
-				"given": ""
+				"family": "郑",
+				"given": "七"
 			}
 		],
 		"issued": {
@@ -100,7 +100,7 @@
 		}
 	},
 	{
-		"id": "aips.4.02:2",
+		"id": "aips.4.03:2",
 		"type": "article-journal",
 		"abstract": "Three experiments investigated the frames of reference used in memory to represent the spatial structure of the environment. Participants learned the locations of objects in a room according to an intrinsic axis of the configuration; the axis was different from or the same as their viewing perspective. Judgments of relative direction using memory were most accurate for imagined headings parallel to the intrinsic axis, even when it differed from the viewing perspective, and there was no cost to learning the layout according to a nonegocentric axis. When the shape of the layout was bilaterally symmetric relative to the intrinsic axis of learning, novel headings orthogonal to that axis were retrieved more accurately than were other novel headings. These results indicate that spatial memories are defined with respect to intrinsic frames of reference, which are selected on the basis of egocentric experience and environmental cues. (PsycINFO Database Record (c) 2016 APA, all rights reserved)",
 		"container-title": "Journal of Experimental Psychology: Learning, Memory, and Cognition",
@@ -130,7 +130,7 @@
 		}
 	},
 	{
-		"id": "aips.4.03:2",
+		"id": "aips.4.02:2",
 		"type": "article-journal",
 		"abstract": "Four experiments examined reference systems in spatial memories acquired from language. Participants read narratives that located 4 objects in canonical (front, back, left, right) or noncanonical (left front, right front, left back, right back) positions around them. Participants' focus of attention was first set on each of the 4 objects, and then they were asked to report the name of the object at the location indicated by a direction word or an iconic arrow. The results indicated that spatial memories were represented in terms of intrinsic (object-to-object) reference systems, which were selected using egocentric cues (e.g., alignment with body axes). Results also indicated that linguistic direction cues were comprehended in terms of egocentric reference systems, whereas iconic arrows were not. (PsycINFO Database Record (c) 2016 APA, all rights reserved)",
 		"container-title": "Journal of Experimental Psychology: Learning, Memory, and Cognition",
@@ -145,10 +145,6 @@
 			{
 				"family": "Mou",
 				"given": "Weimin"
-			},
-			{
-				"family": "Zhang",
-				"given": "Kan"
 			},
 			{
 				"family": "McNamara",
@@ -174,12 +170,12 @@
 		"title": "中国心理学的过去与未来",
 		"author": [
 			{
-				"family": "张三",
-				"given": ""
+				"family": "张",
+				"given": "三"
 			},
 			{
-				"family": "李四",
-				"given": ""
+				"family": "李",
+				"given": "四"
 			}
 		]
 	},
@@ -260,36 +256,36 @@
 		"volume": "40",
 		"author": [
 			{
-				"family": "赵一",
-				"given": ""
+				"family": "赵",
+				"given": "一"
 			},
 			{
-				"family": "钱二",
-				"given": ""
+				"family": "钱",
+				"given": "二"
 			},
 			{
-				"family": "孙三",
-				"given": ""
+				"family": "孙",
+				"given": "三"
 			},
 			{
-				"family": "李四",
-				"given": ""
+				"family": "李",
+				"given": "四"
 			},
 			{
-				"family": "周五",
-				"given": ""
+				"family": "周",
+				"given": "五"
 			},
 			{
-				"family": "吴六",
-				"given": ""
+				"family": "吴",
+				"given": "六"
 			},
 			{
-				"family": "郑七",
-				"given": ""
+				"family": "郑",
+				"given": "七"
 			},
 			{
-				"family": "王八",
-				"given": ""
+				"family": "王",
+				"given": "八"
 			}
 		],
 		"issued": {
@@ -307,8 +303,9 @@
 		"container-title": "PLoS ONE",
 		"DOI": "10.1371/journal.pone.0209899",
 		"ISSN": "1932-6203(Electronic)",
+		"issue": "1",
 		"language": "en",
-		"note": "publisher-place: US\npublisher: Public Library of Science",
+		"note": "publisher-place: US\npublisher: Public Library of Science\nnumber: e0209899",
 		"title": "Body ownership increases the interference between observed and executed movements.",
 		"volume": "14",
 		"author": [
@@ -345,16 +342,12 @@
 		"id": "aips.4.06:1",
 		"type": "article-journal",
 		"abstract": "Based on current integration theories of face–voice processing, the present study had participants process 1,152 videos of faces uttering digits. Half of the videos contained face–voice gender-incongruent stimuli (vs. congruent stimuli in the other half). Participants indicated digit magnitude or parity. Tasks were presented in pure blocks (only 1 task) and in task switching blocks (using colored cues to specify task). The results indicate significant congruency effects in pure blocks, but partially reversed congruency effects in task switching, probably due to enhanced assignment of capacity toward resolving difficult situational demands. Congruency effects did not dissipate over time, ruling out that initial surprise associated with incongruent stimuli drove the effects. The results show that interference between two task-irrelevant person-related dimensions (face/voice gender) can affect processing of a third, task-relevant dimension (digit identity), suggesting greater processing ease associated with more authentic voices (i.e., voices that do not violate face-based expectancies). (PsycInfo Database Record (c) 2020 APA, all rights reserved)",
-		"container-title": "Experimental Psychology",
 		"DOI": "10.1027/1618-3169/a000440",
-		"ISSN": "2190-5142",
 		"language": "en",
-		"note": "publisher-place: Germany\npublisher: Hogrefe Publishing",
-		"page": "154-164",
+		"note": "status: Advance online publication",
 		"source": "APA PsycNet",
 		"title": "Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing",
 		"title-short": "Are face-incongruent voices harder to process?",
-		"volume": "66",
 		"author": [
 			{
 				"family": "Huestegge",
@@ -392,7 +385,8 @@
 		"URL": "http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000001119281&d=8356562408B64C1B170D52D5D150114E&fenlei=02140103",
 		"author": [
 			{
-				"literal": "张三"
+				"family": "张",
+				"given": "三"
 			}
 		],
 		"accessed": {
@@ -427,7 +421,8 @@
 		"URL": "http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000001119281&d=8356562408B64C1B170D52D5D150114E&fenlei=02140103",
 		"editor": [
 			{
-				"literal": "张三"
+				"family": "张",
+				"given": "三"
 			}
 		],
 		"accessed": {
@@ -451,13 +446,10 @@
 		"id": "aips.4.12:2",
 		"type": "book",
 		"abstract": "\"Children of Color\" fulfills several goals and will be useful in a wide variety of clinical, professional, and educational settings. First, its primary purpose is to present a well-balanced discussion of the issues involved in clinical assessment and treatment of minority children and adolescents from six major ethnic groups and two emerging special population groups. The various contributors cover a range of interventions, from psychodynamic to social cognitive to systems-oriented, with an ecological perspective providing a common thread across groups and serving to integrate the conventional with the more culturally based methods of intervention.  Second, a comparative, cross-cultural approach informs each chapter, enabling the reader to compare selected topics (for example, socialization practices, identity formation, coping strategies, assessment issues, treatment approaches) across ethnic groups.  Third, the book reflects a major commitment to an ecological perspective that recognizes the significant impact of social and environmental factors, such as poverty, discrimination, immigration, and family structure, on the adaptation and coping patterns of minority children and adolescents.  Regrettably, this book could not include every ethnic minority group. We have decided to focus on children and adolescents from six of the larger groups in the United States—Black Americans, Chinese Americans, Japanese Americans, American Indians, Mexican Americans, and mainland Puerto Ricans—and two emerging groups, Southeast Asian refugees and biracial youth. (PsycInfo Database Record (c) 2020 APA, all rights reserved)",
-		"collection-title": "Children of color:  Psychological interventions with minority youth.",
 		"event-place": "Hoboken,  NJ,  US",
 		"ISBN": "1-55542-156-3",
 		"language": "en",
-		"note": "page: xxviii, 423",
-		"number-of-pages": "xxviii, 423",
-		"publisher": "Jossey-Bass/Wiley",
+		"publisher": "Jossey-Bass",
 		"publisher-place": "Hoboken,  NJ,  US",
 		"title": "Children of color:  Psychological interventions with minority youth.",
 		"editor": [
@@ -513,7 +505,9 @@
 			{
 				"family": "Laplace",
 				"given": "Pierre-Simon"
-			},
+			}
+		],
+		"translator": [
 			{
 				"family": "Truscott",
 				"given": "F. W."
@@ -544,8 +538,8 @@
 		"volume": "40",
 		"author": [
 			{
-				"family": "张三",
-				"given": ""
+				"family": "张",
+				"given": "三"
 			}
 		],
 		"issued": {
@@ -561,29 +555,31 @@
 		"type": "chapter",
 		"archive_location": "CNKI",
 		"container-title": "人格与社会心理学论丛",
+		"event-place": "北京",
 		"language": "zh",
 		"page": "46-84",
 		"publisher": "北京大学出版社",
+		"publisher-place": "北京",
 		"title": "中国人“大七”人格结构的理论分析",
 		"volume": "1",
-		"author": [
-			{
-				"family": "王登峰",
-				"given": ""
-			},
-			{
-				"family": "崔红",
-				"given": ""
-			}
-		],
 		"container-author": [
 			{
-				"family": "王登峰",
-				"given": ""
+				"family": "王",
+				"given": "登峰"
 			},
 			{
-				"family": "侯玉波",
-				"given": ""
+				"family": "侯",
+				"given": "玉波"
+			}
+		],
+		"author": [
+			{
+				"family": "王",
+				"given": "登峰"
+			},
+			{
+				"family": "崔",
+				"given": "红"
 			}
 		],
 		"issued": {
@@ -610,12 +606,12 @@
 		],
 		"translator": [
 			{
-				"family": "张三",
-				"given": ""
+				"family": "张",
+				"given": "三"
 			},
 			{
-				"family": "李四",
-				"given": ""
+				"family": "李",
+				"given": "四"
 			}
 		],
 		"issued": {
@@ -650,6 +646,342 @@
 			"date-parts": [
 				[
 					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.15:1",
+		"type": "paper-conference",
+		"container-title": "Reducing medication in geriatric populations",
+		"event-place": "Uppsala, Sweden",
+		"event-title": "Symposium conducted at the meeting of the First International Congress of Behavioral Medicine",
+		"language": "en",
+		"note": "publisher-place: US\npublisher: American Psychological Association",
+		"publisher-place": "Uppsala, Sweden",
+		"title": "Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs",
+		"author": [
+			{
+				"family": "Lichstein",
+				"given": "Kenneth L."
+			},
+			{
+				"family": "Johnson",
+				"given": "Ronald S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.15:2",
+		"type": "paper-conference",
+		"abstract": "Treating Complex Trauma in Adolescents and Young Adults is the first empirically-validated, multi-component manual to guide practitioners and students in the treatment of multi-traumatized adolescents and young adults. Best-selling author, John Briere, and renowned clinician, Cheryl Lanktree, outline a hands-on, culturally-sensitive approach to the most challenging of young clients: those suffering from complex trauma histories, multiple symptoms, and, in many cases, involvement in a range of problematic behaviors. This model, Integrated Treatment of Complex Trauma for Adolescents (ITCT-A), integrates a series of approaches and techniques, which are adapted according to the youth′s specific symptoms, culture, and age. Components include relationship-building, psychoeducation, affect regulation training, trigger identification, cognitive processing, titrated emotional processing, mindfulness training, collateral treatments with parents and families, group therapy, and system-level advocacy.",
+		"event-place": "San Diego, CA",
+		"event-title": "Paper presented at the meeting of the American Professional Society on the Abuse of Children",
+		"ISBN": "978-1-4129-8144-6",
+		"language": "en",
+		"publisher": "SAGE Publications, Inc",
+		"publisher-place": "San Diego, CA",
+		"source": "Amazon",
+		"title": "Early data on the Trauma Symptom Checklist for Children (TSC-C)",
+		"author": [
+			{
+				"family": "Lanktree",
+				"given": "Cheryl B."
+			},
+			{
+				"family": "Briere",
+				"given": "John N."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.15:3",
+		"type": "paper-conference",
+		"event-place": "Washington, DC",
+		"event-title": "Poster session presented at the annual meeting of the Society for Scholarly Publishing",
+		"language": "en",
+		"note": "publisher-place: US\npublisher: American Psychological Association",
+		"publisher-place": "Washington, DC",
+		"title": "Beyond redlining: Editing software that works",
+		"author": [
+			{
+				"family": "John",
+				"given": "Ruby"
+			},
+			{
+				"family": "Cain",
+				"given": "Fulton"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.17:1",
+		"type": "book",
+		"call-number": "HD31 .M478 1987",
+		"collection-title": "McGraw-Hill series in management",
+		"edition": "3rd ed",
+		"event-place": "New York",
+		"ISBN": "978-0-07-042534-7",
+		"language": "en",
+		"number-of-pages": "602",
+		"publisher": "McGraw-Hill",
+		"publisher-place": "New York",
+		"source": "Library of Congress ISBN",
+		"title": "People in organizations: an introduction to organizational behavior",
+		"title-short": "People in organizations",
+		"author": [
+			{
+				"family": "Mitchell",
+				"given": "Terence R."
+			},
+			{
+				"family": "Larson",
+				"given": "James R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.18:1",
+		"type": "entry-encyclopedia",
+		"call-number": "HD31 .M478 1987",
+		"collection-title": "McGraw-Hill series in management",
+		"container-title": "The new encyclopedia Britannica",
+		"event-place": "New York",
+		"language": "en",
+		"page": "501-508",
+		"publisher": "Encyclopedia Britannica",
+		"publisher-place": "New York",
+		"source": "Library of Congress ISBN",
+		"title": "Relativity",
+		"volume": "26",
+		"author": [
+			{
+				"family": "Bergmann",
+				"given": "P. G"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.18:2",
+		"type": "book",
+		"call-number": "ML100 .N48 2000",
+		"edition": "6th ed",
+		"event-place": "London : New York",
+		"ISBN": "978-0-333-60800-5",
+		"language": "en",
+		"number-of-pages": "29",
+		"publisher": "Distributed by Macmillan ; Distributed by Grove's Dictionaries",
+		"publisher-place": "London : New York",
+		"source": "Library Catalog (Blacklight)",
+		"title": "The new Grove dictionary of music and musicians",
+		"volume": "1-20",
+		"editor": [
+			{
+				"family": "Sadie",
+				"given": "Stanley"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.21:1",
+		"type": "thesis",
+		"genre": "Unpublished doctorial dissertation",
+		"language": "en",
+		"publisher": "Beijing Normal University",
+		"title": "Phonological representation and processing in Chinese spoken language production",
+		"URL": "https://gongjushu.cnki.net/rbook/Search/SimpleSearch?key=%E8%BE%9E%E5%85%B8&t=0&c=0&tn=%E8%AF%8D%E7%9B%AE",
+		"author": [
+			{
+				"family": "Lin",
+				"given": "Yu"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.18:3",
+		"type": "entry-encyclopedia",
+		"archive_location": "H164",
+		"event-place": "北京",
+		"ISBN": "978-7-5385-2114-6",
+		"language": "zh",
+		"page": "255",
+		"publisher": "外语教学与研究出版社",
+		"publisher-place": "北京",
+		"source": "Superlib",
+		"title": "现代汉语规范辞典",
+		"URL": "http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000007502301&d=6CE8370C1575089E8C1CA0C567C13999&fenlei=08021204",
+		"editor": [
+			{
+				"family": "李",
+				"given": "行健"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.19:1",
+		"type": "book",
+		"archive_location": "H136-61",
+		"event-place": "北京",
+		"language": "zh",
+		"publisher": "北京语言学院出版社",
+		"publisher-place": "北京",
+		"source": "Superlib",
+		"title": "现代汉语频率词典",
+		"URL": "http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000001022685&d=71C299B1BB1D244BF2DDA9151F541912&fenlei=0802080332",
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.21:3",
+		"type": "thesis",
+		"event-place": "上海",
+		"genre": "博士学位论文",
+		"language": "zh",
+		"publisher": "华东师范大学",
+		"publisher-place": "上海",
+		"title": "遗传与语言学习",
+		"author": [
+			{
+				"family": "邱",
+				"given": "颖文"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.22:1",
+		"type": "article-newspaper",
+		"container-title": "新华日报",
+		"language": "zh",
+		"page": "2",
+		"title": "中国心理学与奥林匹克",
+		"author": [
+			{
+				"family": "张",
+				"given": "三"
+			},
+			{
+				"family": "李",
+				"given": "四"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					8,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.21:2",
+		"type": "thesis",
+		"genre": "博士学位论文",
+		"language": "zh",
+		"publisher": "北京师范大学",
+		"title": "汉语语言产生中的语音表征与加工",
+		"author": [
+			{
+				"family": "余",
+				"given": "林"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
 				]
 			]
 		}
