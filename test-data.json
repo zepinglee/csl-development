@@ -1,1 +1,657 @@
-[]
+[
+	{
+		"id": "aips.4.01:1",
+		"type": "article-journal",
+		"archive_location": "CNKI",
+		"call-number": "36-1228/B",
+		"container-title": "心理学报",
+		"language": "zh",
+		"page": "210-215",
+		"title": "中国心理学的过去与未来",
+		"volume": "40",
+		"author": [
+			{
+				"family": "张三",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.02:1",
+		"type": "article-journal",
+		"archive_location": "CNKI",
+		"call-number": "36-1228/B",
+		"container-title": "心理学报",
+		"language": "zh",
+		"page": "210-215",
+		"title": "中国心理学的过去与未来",
+		"volume": "40",
+		"author": [
+			{
+				"family": "张三",
+				"given": ""
+			},
+			{
+				"family": "李四",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.03:1",
+		"type": "article-journal",
+		"archive_location": "CNKI",
+		"call-number": "36-1228/B",
+		"container-title": "心理学报",
+		"language": "zh",
+		"page": "210-215",
+		"title": "中国心理学的过去与未来",
+		"volume": "40",
+		"author": [
+			{
+				"family": "赵一",
+				"given": ""
+			},
+			{
+				"family": "钱二",
+				"given": ""
+			},
+			{
+				"family": "孙三",
+				"given": ""
+			},
+			{
+				"family": "李四",
+				"given": ""
+			},
+			{
+				"family": "周五",
+				"given": ""
+			},
+			{
+				"family": "吴六",
+				"given": ""
+			},
+			{
+				"family": "郑七",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.02:2",
+		"type": "article-journal",
+		"abstract": "Three experiments investigated the frames of reference used in memory to represent the spatial structure of the environment. Participants learned the locations of objects in a room according to an intrinsic axis of the configuration; the axis was different from or the same as their viewing perspective. Judgments of relative direction using memory were most accurate for imagined headings parallel to the intrinsic axis, even when it differed from the viewing perspective, and there was no cost to learning the layout according to a nonegocentric axis. When the shape of the layout was bilaterally symmetric relative to the intrinsic axis of learning, novel headings orthogonal to that axis were retrieved more accurately than were other novel headings. These results indicate that spatial memories are defined with respect to intrinsic frames of reference, which are selected on the basis of egocentric experience and environmental cues. (PsycINFO Database Record (c) 2016 APA, all rights reserved)",
+		"container-title": "Journal of Experimental Psychology: Learning, Memory, and Cognition",
+		"DOI": "10.1037/0278-7393.28.1.162",
+		"ISSN": "1939-1285(Electronic),0278-7393(Print)",
+		"language": "en",
+		"note": "publisher-place: US\npublisher: American Psychological Association",
+		"page": "162-170",
+		"title": "Intrinsic frames of reference in spatial memory.",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Mou",
+				"given": "Weimin"
+			},
+			{
+				"family": "McNamara",
+				"given": "Timothy P."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.03:2",
+		"type": "article-journal",
+		"abstract": "Four experiments examined reference systems in spatial memories acquired from language. Participants read narratives that located 4 objects in canonical (front, back, left, right) or noncanonical (left front, right front, left back, right back) positions around them. Participants' focus of attention was first set on each of the 4 objects, and then they were asked to report the name of the object at the location indicated by a direction word or an iconic arrow. The results indicated that spatial memories were represented in terms of intrinsic (object-to-object) reference systems, which were selected using egocentric cues (e.g., alignment with body axes). Results also indicated that linguistic direction cues were comprehended in terms of egocentric reference systems, whereas iconic arrows were not. (PsycINFO Database Record (c) 2016 APA, all rights reserved)",
+		"container-title": "Journal of Experimental Psychology: Learning, Memory, and Cognition",
+		"DOI": "10.1037/0278-7393.30.1.171",
+		"ISSN": "1939-1285(Electronic),0278-7393(Print)",
+		"language": "en",
+		"note": "publisher-place: US\npublisher: American Psychological Association",
+		"page": "171-180",
+		"title": "Frames of Reference in Spatial Memories Acquired From Language.",
+		"volume": "30",
+		"author": [
+			{
+				"family": "Mou",
+				"given": "Weimin"
+			},
+			{
+				"family": "Zhang",
+				"given": "Kan"
+			},
+			{
+				"family": "McNamara",
+				"given": "Timothy P."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.05:1",
+		"type": "article-journal",
+		"archive_location": "CNKI",
+		"call-number": "36-1228/B",
+		"container-title": "心理学报",
+		"language": "zh",
+		"note": "status: 印刷中",
+		"title": "中国心理学的过去与未来",
+		"author": [
+			{
+				"family": "张三",
+				"given": ""
+			},
+			{
+				"family": "李四",
+				"given": ""
+			}
+		]
+	},
+	{
+		"id": "aips.4.04:2",
+		"type": "article-journal",
+		"abstract": "This study evaluated the efficacy of 2 theory-based preventive interventions for divorced families: a program for mothers and a dual component mother-child program. The mother program targeted mother-child relationship quality, discipline, interparental conflict, and the father-child relationship. The child program targeted active coping, avoidant coping, appraisals of divorce stressors, and mother-child relationship quality. Families with a 9- to 12-year-old child (N = 240) were randomly assigned to the mother, dual-component, or self-study program. Postintervention comparisons showed significant positive program effects of the mother program versus self-study condition on relationship quality, discipline, attitude toward father-child contact, and adjustment problems. For several outcomes, more positive effects occurred in families with poorer initial functioning. Program effects on externalizing problems were maintained at 6-month follow-up. A few additive effects of the dual-component program occurred for the putative mediators; none occurred for adjustment problems.",
+		"container-title": "Journal of Consulting and Clinical Psychology",
+		"ISSN": "0022-006X",
+		"issue": "5",
+		"journalAbbreviation": "J Consult Clin Psychol",
+		"language": "en",
+		"note": "PMID: 11068970",
+		"page": "843-856",
+		"source": "PubMed",
+		"title": "An experimental evaluation of theory-based mother and mother-child programs for children of divorce",
+		"volume": "68",
+		"author": [
+			{
+				"family": "Wolchik",
+				"given": "S. A."
+			},
+			{
+				"family": "West",
+				"given": "S. G."
+			},
+			{
+				"family": "Sandler",
+				"given": "I. N."
+			},
+			{
+				"family": "Tein",
+				"given": "J. Y."
+			},
+			{
+				"family": "Coatsworth",
+				"given": "D."
+			},
+			{
+				"family": "Lengua",
+				"given": "L."
+			},
+			{
+				"family": "Weiss",
+				"given": "L."
+			},
+			{
+				"family": "Anderson",
+				"given": "E. R."
+			},
+			{
+				"family": "Greene",
+				"given": "S. M."
+			},
+			{
+				"family": "Griffin",
+				"given": "W. A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.04:1",
+		"type": "article-journal",
+		"archive_location": "CNKI",
+		"call-number": "36-1228/B",
+		"container-title": "心理学报",
+		"language": "zh",
+		"page": "210-215",
+		"title": "中国心理学的过去与未来",
+		"volume": "40",
+		"author": [
+			{
+				"family": "赵一",
+				"given": ""
+			},
+			{
+				"family": "钱二",
+				"given": ""
+			},
+			{
+				"family": "孙三",
+				"given": ""
+			},
+			{
+				"family": "李四",
+				"given": ""
+			},
+			{
+				"family": "周五",
+				"given": ""
+			},
+			{
+				"family": "吴六",
+				"given": ""
+			},
+			{
+				"family": "郑七",
+				"given": ""
+			},
+			{
+				"family": "王八",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.07:1",
+		"type": "article-journal",
+		"abstract": "When we successfully achieve willed actions, the feeling that our moving body parts belong to the self (i.e., body ownership) is barely required. However, how and to what extent the awareness of our own body contributes to the neurocognitive processes subserving actions is still debated. Here we capitalized on immersive virtual reality in order to examine whether and how body ownership influences motor performance (and, secondly, if it modulates the feeling of voluntariness). Healthy participants saw a virtual body either from a first or a third person perspective. In both conditions, they had to draw continuously straight vertical lines while seeing the virtual arm doing the same action (i.e., drawing lines) or deviating from them (i.e., drawing ellipses). Results showed that when there was a mismatch between the intended and the seen movements (i.e., participants had to draw lines but the avatar drew ellipses), motor performance was strongly “attracted” towards the seen (rather than the performed) movement when the avatar’s body part was perceived as own (i.e., first person perspective). In support of previous studies, here we provide direct behavioral evidence that the feeling of body ownership modulates the interference of seen movements to the performed movements. (PsycInfo Database Record (c) 2020 APA, all rights reserved)",
+		"container-title": "PLoS ONE",
+		"DOI": "10.1371/journal.pone.0209899",
+		"ISSN": "1932-6203(Electronic)",
+		"language": "en",
+		"note": "publisher-place: US\npublisher: Public Library of Science",
+		"title": "Body ownership increases the interference between observed and executed movements.",
+		"volume": "14",
+		"author": [
+			{
+				"family": "Burin",
+				"given": "Dalila"
+			},
+			{
+				"family": "Kilteni",
+				"given": "Konstantina"
+			},
+			{
+				"family": "Rabuffetti",
+				"given": "Marco"
+			},
+			{
+				"family": "Slater",
+				"given": "Mel"
+			},
+			{
+				"family": "Pia",
+				"given": "Lorenzo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.06:1",
+		"type": "article-journal",
+		"abstract": "Based on current integration theories of face–voice processing, the present study had participants process 1,152 videos of faces uttering digits. Half of the videos contained face–voice gender-incongruent stimuli (vs. congruent stimuli in the other half). Participants indicated digit magnitude or parity. Tasks were presented in pure blocks (only 1 task) and in task switching blocks (using colored cues to specify task). The results indicate significant congruency effects in pure blocks, but partially reversed congruency effects in task switching, probably due to enhanced assignment of capacity toward resolving difficult situational demands. Congruency effects did not dissipate over time, ruling out that initial surprise associated with incongruent stimuli drove the effects. The results show that interference between two task-irrelevant person-related dimensions (face/voice gender) can affect processing of a third, task-relevant dimension (digit identity), suggesting greater processing ease associated with more authentic voices (i.e., voices that do not violate face-based expectancies). (PsycInfo Database Record (c) 2020 APA, all rights reserved)",
+		"container-title": "Experimental Psychology",
+		"DOI": "10.1027/1618-3169/a000440",
+		"ISSN": "2190-5142",
+		"language": "en",
+		"note": "publisher-place: Germany\npublisher: Hogrefe Publishing",
+		"page": "154-164",
+		"source": "APA PsycNet",
+		"title": "Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing",
+		"title-short": "Are face-incongruent voices harder to process?",
+		"volume": "66",
+		"author": [
+			{
+				"family": "Huestegge",
+				"given": "Sujata M."
+			},
+			{
+				"family": "Raettig",
+				"given": "Tim"
+			},
+			{
+				"family": "Huestegge",
+				"given": "Lynn"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.11:1",
+		"type": "book",
+		"archive_location": "B84-09",
+		"event-place": "北京",
+		"ISBN": "978-7-80061-127-8",
+		"language": "zh",
+		"number-of-pages": "450",
+		"publisher": "未名出版社",
+		"publisher-place": "北京",
+		"source": "Superlib",
+		"title": "心理学史",
+		"URL": "http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000001119281&d=8356562408B64C1B170D52D5D150114E&fenlei=02140103",
+		"author": [
+			{
+				"literal": "张三"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.12:1",
+		"type": "book",
+		"archive_location": "B84-09",
+		"event-place": "北京",
+		"ISBN": "978-7-80061-127-8",
+		"language": "zh",
+		"number-of-pages": "450",
+		"publisher": "未名出版社",
+		"publisher-place": "北京",
+		"source": "Superlib",
+		"title": "心理学史",
+		"URL": "http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000001119281&d=8356562408B64C1B170D52D5D150114E&fenlei=02140103",
+		"editor": [
+			{
+				"literal": "张三"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.12:2",
+		"type": "book",
+		"abstract": "\"Children of Color\" fulfills several goals and will be useful in a wide variety of clinical, professional, and educational settings. First, its primary purpose is to present a well-balanced discussion of the issues involved in clinical assessment and treatment of minority children and adolescents from six major ethnic groups and two emerging special population groups. The various contributors cover a range of interventions, from psychodynamic to social cognitive to systems-oriented, with an ecological perspective providing a common thread across groups and serving to integrate the conventional with the more culturally based methods of intervention.  Second, a comparative, cross-cultural approach informs each chapter, enabling the reader to compare selected topics (for example, socialization practices, identity formation, coping strategies, assessment issues, treatment approaches) across ethnic groups.  Third, the book reflects a major commitment to an ecological perspective that recognizes the significant impact of social and environmental factors, such as poverty, discrimination, immigration, and family structure, on the adaptation and coping patterns of minority children and adolescents.  Regrettably, this book could not include every ethnic minority group. We have decided to focus on children and adolescents from six of the larger groups in the United States—Black Americans, Chinese Americans, Japanese Americans, American Indians, Mexican Americans, and mainland Puerto Ricans—and two emerging groups, Southeast Asian refugees and biracial youth. (PsycInfo Database Record (c) 2020 APA, all rights reserved)",
+		"collection-title": "Children of color:  Psychological interventions with minority youth.",
+		"event-place": "Hoboken,  NJ,  US",
+		"ISBN": "1-55542-156-3",
+		"language": "en",
+		"note": "page: xxviii, 423",
+		"number-of-pages": "xxviii, 423",
+		"publisher": "Jossey-Bass/Wiley",
+		"publisher-place": "Hoboken,  NJ,  US",
+		"title": "Children of color:  Psychological interventions with minority youth.",
+		"editor": [
+			{
+				"family": "Gibbs",
+				"given": "Jewelle Taylor"
+			},
+			{
+				"family": "Huang",
+				"given": "Larke Nahme"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.14:1",
+		"type": "book",
+		"ISBN": "978-3-540-64603-7",
+		"language": "en",
+		"note": "journalAbbreviation: Spat. Cogn\ncontainer-title: Spat. Cogn\nDOI: 10.1007/3-540-69342-4_1",
+		"title": "Allocentric and Egocentric Spatial Representations: Definitions, Distinctions, and Interconnections",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Klatzky",
+				"given": "Roberta"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998",
+					10,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.13:1",
+		"type": "book",
+		"language": "en",
+		"note": "original-date: 1814",
+		"publisher": "dover",
+		"title": "A philosophical essay on probabilities",
+		"author": [
+			{
+				"family": "Laplace",
+				"given": "Pierre-Simon"
+			},
+			{
+				"family": "Truscott",
+				"given": "F. W."
+			},
+			{
+				"family": "Emory",
+				"given": "F. L."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1951"
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.08:1",
+		"type": "article-journal",
+		"archive_location": "CNKI",
+		"call-number": "36-1228/B",
+		"container-title": "心理学报",
+		"issue": "增刊",
+		"language": "zh",
+		"page": "210-215",
+		"title": "中国心理学的过去与未来",
+		"volume": "40",
+		"author": [
+			{
+				"family": "张三",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.14:2",
+		"type": "chapter",
+		"archive_location": "CNKI",
+		"container-title": "人格与社会心理学论丛",
+		"language": "zh",
+		"page": "46-84",
+		"publisher": "北京大学出版社",
+		"title": "中国人“大七”人格结构的理论分析",
+		"volume": "1",
+		"author": [
+			{
+				"family": "王登峰",
+				"given": ""
+			},
+			{
+				"family": "崔红",
+				"given": ""
+			}
+		],
+		"container-author": [
+			{
+				"family": "王登峰",
+				"given": ""
+			},
+			{
+				"family": "侯玉波",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.13:2",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh",
+		"publisher": "未名出版社",
+		"publisher-place": "北京",
+		"title": "概率哲学",
+		"author": [
+			{
+				"family": "拉普拉斯",
+				"given": "Pierre-Simon"
+			}
+		],
+		"translator": [
+			{
+				"family": "张三",
+				"given": ""
+			},
+			{
+				"family": "李四",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1951"
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.14:3",
+		"type": "chapter",
+		"abstract": "reformulate psychoanalytic theories of narcissism and narcissistic personality disorder to make them consistent with current trends in developmental and social psychology / review Freud's ideas concerning primary narcissism as a developmental concept / perspectives of other psychoanalytic theorists will also be discussed / the developmental findings that challenge these notions will be discussed / discussion will focus on material relevant to a critique of narcissism (PsycINFO Database Record (c) 2016 APA, all rights reserved)",
+		"collection-title": "Empirical studies of psychoanalytic theories, Vol. 4.",
+		"container-title": "Psychoanalytic perspectives on psychopathology.",
+		"event-place": "Washington,  DC,  US",
+		"ISBN": "1-55798-211-2",
+		"language": "en",
+		"note": "DOI: 10.1037/10138-002",
+		"page": "43-110",
+		"publisher": "American Psychological Association",
+		"publisher-place": "Washington,  DC,  US",
+		"title": "The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation.",
+		"author": [
+			{
+				"family": "Auerbach",
+				"given": "John S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	}
+]
