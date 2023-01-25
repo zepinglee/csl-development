@@ -313,7 +313,6 @@
       <term name="retrieved">取</term>
       <term name="from">自</term>
       <term name="no date" form="short">无日期</term>
-      <term name="editor" form="short">主编</term>
       <term name="chapter" form="short">章</term>
       <term name="page" form="short">
         <single>p.</single>
@@ -594,6 +593,57 @@
                     <date variable="issued">
                       <date-part prefix=", " name="month"/>
                       <date-part prefix=" " name="day"/>
+                    </date>
+                  </if>
+                </choose>
+              </else-if>
+              <!-- Only year: article article-journal book chapter entry entry-dictionary entry-encyclopedia dataset figure graphic
+                   manuscript map musical_score paper-conference[published] patent report review review-book thesis -->
+            </choose>
+          </if>
+          <else-if variable="status">
+            <group>
+              <text variable="status" text-case="lowercase"/>
+              <text variable="year-suffix" prefix="-"/>
+            </group>
+          </else-if>
+          <else>
+            <text term="no date" form="short"/>
+            <text variable="year-suffix" prefix="-"/>
+          </else>
+        </choose>
+      </group>
+    </group>
+  </macro>
+  <macro name="date-bib-zh">
+    <group delimiter=" " prefix="(" suffix=")">
+      <choose>
+        <if is-uncertain-date="issued">
+          <text term="circa" form="short"/>
+        </if>
+      </choose>
+      <group>
+        <choose>
+          <if variable="issued">
+            <date variable="issued">
+              <date-part name="year"/>
+            </date>
+            <text variable="year-suffix"/>
+            <choose>
+              <if type="article-magazine article-newspaper broadcast interview motion_picture pamphlet personal_communication post post-weblog song speech webpage" match="any">
+                <!-- Many video and audio examples in manual give full dates. Err on the side of too much information. -->
+                <date variable="issued">
+                  <date-part prefix="-" name="month" form="numeric-leading-zeros"/>
+                  <date-part prefix="-" name="day" form="numeric-leading-zeros"/>
+                </date>
+              </if>
+              <else-if type="paper-conference">
+                <!-- Capture 'speech' stored as 'paper-conference' -->
+                <choose>
+                  <if variable="collection-editor editor editorial-director issue page volume" match="none">
+                    <date variable="issued">
+                      <date-part prefix="-" name="month" form="numeric-leading-zeros"/>
+                      <date-part prefix="-" name="day" form="numeric-leading-zeros"/>
                     </date>
                   </if>
                 </choose>
@@ -950,7 +1000,6 @@
       <if variable="container-title" match="any">
         <group prefix="(" suffix=")">
           <group delimiter="; ">
-            <text macro="database-location"/>
             <choose>
               <if type="broadcast graphic map motion_picture song" match="none">
                 <!-- For audiovisual media, number information comes after title, not container-title -->
@@ -958,6 +1007,23 @@
               </if>
             </choose>
             <text macro="locators-booklike"/>
+          </group>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <macro name="parenthetical-container-zh">
+    <choose>
+      <if variable="container-title" match="any">
+        <group prefix="(" suffix=")">
+          <group delimiter="; ">
+            <choose>
+              <if type="broadcast graphic map motion_picture song" match="none">
+                <!-- For audiovisual media, number information comes after title, not container-title -->
+                <text macro="number"/>
+              </if>
+            </choose>
+            <text macro="locators-booklike-zh"/>
           </group>
         </group>
       </if>
@@ -1504,6 +1570,29 @@
       </else>
     </choose>
   </macro>
+  <macro name="locators-booklike-zh">
+    <choose>
+      <if type="article-journal article-magazine article-newspaper broadcast interview patent post post-weblog review review-book speech webpage" match="any"/>
+      <else-if type="paper-conference">
+        <choose>
+          <if variable="collection-editor editor editorial-director" match="any">
+            <group delimiter=", ">
+              <text macro="version"/>
+              <text macro="edition"/>
+              <text macro="volume-booklike-zh"/>
+            </group>
+          </if>
+        </choose>
+      </else-if>
+      <else>
+        <group delimiter=", ">
+          <text macro="version"/>
+          <text macro="edition"/>
+          <text macro="volume-booklike-zh"/>
+        </group>
+      </else>
+    </choose>
+  </macro>
   <macro name="version">
     <choose>
       <if is-numeric="version">
@@ -1563,6 +1652,27 @@
             <number variable="number-of-volumes" form="numeric"/>
           </group>
         </else>
+      </choose>
+      <group delimiter=" ">
+        <label variable="issue" text-case="capitalize-first"/>
+        <text variable="issue"/>
+      </group>
+      <group delimiter=" ">
+        <label variable="page" form="short" suffix=" "/>
+        <text variable="page"/>
+      </group>
+    </group>
+  </macro>
+  <macro name="volume-booklike-zh">
+    <group delimiter=", ">
+      <!-- Report series [ex. 52] -->
+      <choose>
+        <if type="report">
+          <group delimiter=" ">
+            <text variable="collection-title" text-case="title"/>
+            <text variable="collection-number"/>
+          </group>
+        </if>
       </choose>
       <group delimiter=" ">
         <label variable="issue" text-case="capitalize-first"/>
@@ -1692,10 +1802,35 @@
       </else-if>
     </choose>
   </macro>
+  <macro name="container-zh">
+    <choose>
+      <if type="article-journal article-magazine article-newspaper post-weblog review review-book" match="any">
+        <!-- Periodical items -->
+        <text macro="container-periodical"/>
+      </if>
+      <else-if type="paper-conference">
+        <!-- Determine if paper-conference is a periodical or booklike -->
+        <choose>
+          <if variable="editor editorial-director collection-editor container-author" match="any">
+            <text macro="container-booklike-zh"/>
+          </if>
+          <else>
+            <text macro="container-periodical"/>
+          </else>
+        </choose>
+      </else-if>
+      <else-if type="post webpage" match="none">
+        <!-- post and webpage treat container-title like publisher -->
+        <text macro="container-booklike-zh"/>
+      </else-if>
+    </choose>
+  </macro>
   <macro name="container-periodical">
     <group delimiter=". ">
       <group delimiter=", ">
-        <text variable="container-title" font-style="italic" text-case="title"/>
+        <group font-style="italic">
+          <text variable="container-title" text-case="title"/>
+        </group>
         <choose>
           <if variable="volume">
             <group>
@@ -1759,6 +1894,43 @@
             </group>
           </group>
           <text macro="parenthetical-container"/>
+          <text macro="bracketed-container"/>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <macro name="container-booklike-zh">
+    <choose>
+      <if variable="container-title" match="any">
+        <group delimiter=" ">
+          <text term="in" text-case="capitalize-first"/>
+          <group delimiter=", ">
+            <names variable="editor translator" delimiter=", &amp; ">
+              <!-- Change to editortranslator and move editor to substitute as that becomes available -->
+              <name initialize-with=". " delimiter=", "/>
+              <label form="short" prefix=" (" suffix=")"/>
+              <substitute>
+                <names variable="editorial-director"/>
+                <names variable="collection-editor"/>
+                <names variable="container-author"/>
+              </substitute>
+            </names>
+            <group delimiter=" ">
+              <group delimiter=" " font-style="italic">
+                <text variable="container-title"/>
+              </group>
+              <!-- Replace with volume-title as that becomes available -->
+              <choose>
+                <if is-numeric="volume">
+                  <number variable="volume" form="long-ordinal" prefix="(" suffix=")"/>
+                </if>
+                <else>
+                  <text variable="volume" prefix="(" suffix=")"/>
+                </else>
+              </choose>
+            </group>
+          </group>
+          <text macro="parenthetical-container-zh"/>
           <text macro="bracketed-container"/>
         </group>
       </if>
@@ -2250,9 +2422,9 @@
         <group delimiter=" ">
           <group delimiter=". " suffix=".">
             <text macro="author-bib-zh"/>
-            <text macro="date-bib"/>
+            <text macro="date-bib-zh"/>
             <text macro="title-and-descriptions-zh"/>
-            <text macro="container"/>
+            <text macro="container-zh"/>
             <text macro="event"/>
             <text macro="publisher-zh"/>
           </group>

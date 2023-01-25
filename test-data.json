@@ -2,7 +2,6 @@
 	{
 		"id": "aips.4.01:1",
 		"type": "article-journal",
-		"archive_location": "CNKI",
 		"call-number": "36-1228/B",
 		"container-title": "心理学报",
 		"language": "zh",
@@ -26,7 +25,6 @@
 	{
 		"id": "aips.4.02:1",
 		"type": "article-journal",
-		"archive_location": "CNKI",
 		"call-number": "36-1228/B",
 		"container-title": "心理学报",
 		"language": "zh",
@@ -54,7 +52,6 @@
 	{
 		"id": "aips.4.03:1",
 		"type": "article-journal",
-		"archive_location": "CNKI",
 		"call-number": "36-1228/B",
 		"container-title": "心理学报",
 		"language": "zh",
@@ -162,7 +159,6 @@
 	{
 		"id": "aips.4.05:1",
 		"type": "article-journal",
-		"archive_location": "CNKI",
 		"call-number": "36-1228/B",
 		"container-title": "心理学报",
 		"language": "zh",
@@ -247,7 +243,6 @@
 	{
 		"id": "aips.4.04:1",
 		"type": "article-journal",
-		"archive_location": "CNKI",
 		"call-number": "36-1228/B",
 		"container-title": "心理学报",
 		"language": "zh",
@@ -472,12 +467,13 @@
 	},
 	{
 		"id": "aips.4.14:1",
-		"type": "book",
+		"type": "chapter",
+		"container-title": "Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge",
 		"ISBN": "978-3-540-64603-7",
 		"language": "en",
-		"note": "journalAbbreviation: Spat. Cogn\ncontainer-title: Spat. Cogn\nDOI: 10.1007/3-540-69342-4_1",
-		"title": "Allocentric and Egocentric Spatial Representations: Definitions, Distinctions, and Interconnections",
-		"volume": "1",
+		"page": "1-17",
+		"publisher": "Springer-Verlag",
+		"title": "Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections",
 		"author": [
 			{
 				"family": "Klatzky",
@@ -499,7 +495,7 @@
 		"type": "book",
 		"language": "en",
 		"note": "original-date: 1814",
-		"publisher": "dover",
+		"publisher": "Dover",
 		"title": "A philosophical essay on probabilities",
 		"author": [
 			{
@@ -528,7 +524,6 @@
 	{
 		"id": "aips.4.08:1",
 		"type": "article-journal",
-		"archive_location": "CNKI",
 		"call-number": "36-1228/B",
 		"container-title": "心理学报",
 		"issue": "增刊",
@@ -551,9 +546,8 @@
 		}
 	},
 	{
-		"id": "aips.4.14:2",
+		"id": "aips.4.14:3",
 		"type": "chapter",
-		"archive_location": "CNKI",
 		"container-title": "人格与社会心理学论丛",
 		"event-place": "北京",
 		"language": "zh",
@@ -562,7 +556,7 @@
 		"publisher-place": "北京",
 		"title": "中国人“大七”人格结构的理论分析",
 		"volume": "1",
-		"container-author": [
+		"editor": [
 			{
 				"family": "王",
 				"given": "登峰"
@@ -623,23 +617,35 @@
 		}
 	},
 	{
-		"id": "aips.4.14:3",
+		"id": "aips.4.14:4",
 		"type": "chapter",
 		"abstract": "reformulate psychoanalytic theories of narcissism and narcissistic personality disorder to make them consistent with current trends in developmental and social psychology / review Freud's ideas concerning primary narcissism as a developmental concept / perspectives of other psychoanalytic theorists will also be discussed / the developmental findings that challenge these notions will be discussed / discussion will focus on material relevant to a critique of narcissism (PsycINFO Database Record (c) 2016 APA, all rights reserved)",
-		"collection-title": "Empirical studies of psychoanalytic theories, Vol. 4.",
-		"container-title": "Psychoanalytic perspectives on psychopathology.",
+		"container-title": "Handbook of child psychology: Vol. 4. Socialization, personality, and social development",
+		"edition": "4",
 		"event-place": "Washington,  DC,  US",
 		"ISBN": "1-55798-211-2",
 		"language": "en",
 		"note": "DOI: 10.1037/10138-002",
 		"page": "43-110",
-		"publisher": "American Psychological Association",
+		"publisher": "Wiley",
 		"publisher-place": "Washington,  DC,  US",
-		"title": "The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation.",
+		"title": "The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation",
 		"author": [
 			{
 				"family": "Auerbach",
 				"given": "John S."
+			}
+		],
+		"collection-editor": [
+			{
+				"family": "Masling",
+				"given": "J. L."
+			}
+		],
+		"editor": [
+			{
+				"family": "Bornstein",
+				"given": "M. F."
 			}
 		],
 		"issued": {
@@ -721,12 +727,12 @@
 		"title": "Beyond redlining: Editing software that works",
 		"author": [
 			{
-				"family": "John",
-				"given": "Ruby"
+				"family": "Ruby",
+				"given": "John"
 			},
 			{
-				"family": "Cain",
-				"given": "Fulton"
+				"family": "Fulton",
+				"given": "Cain"
 			}
 		],
 		"issued": {
@@ -743,7 +749,7 @@
 		"type": "book",
 		"call-number": "HD31 .M478 1987",
 		"collection-title": "McGraw-Hill series in management",
-		"edition": "3rd ed",
+		"edition": "3",
 		"event-place": "New York",
 		"ISBN": "978-0-07-042534-7",
 		"language": "en",
@@ -751,7 +757,7 @@
 		"publisher": "McGraw-Hill",
 		"publisher-place": "New York",
 		"source": "Library of Congress ISBN",
-		"title": "People in organizations: an introduction to organizational behavior",
+		"title": "People in organizations: An introduction to organizational behavior",
 		"title-short": "People in organizations",
 		"author": [
 			{
@@ -803,16 +809,16 @@
 		"id": "aips.4.18:2",
 		"type": "book",
 		"call-number": "ML100 .N48 2000",
-		"edition": "6th ed",
+		"edition": "6",
 		"event-place": "London : New York",
 		"ISBN": "978-0-333-60800-5",
 		"language": "en",
 		"number-of-pages": "29",
-		"publisher": "Distributed by Macmillan ; Distributed by Grove's Dictionaries",
+		"number-of-volumes": "20",
+		"publisher": "Macmillan",
 		"publisher-place": "London : New York",
 		"source": "Library Catalog (Blacklight)",
 		"title": "The new Grove dictionary of music and musicians",
-		"volume": "1-20",
 		"editor": [
 			{
 				"family": "Sadie",
@@ -837,8 +843,8 @@
 		"URL": "https://gongjushu.cnki.net/rbook/Search/SimpleSearch?key=%E8%BE%9E%E5%85%B8&t=0&c=0&tn=%E8%AF%8D%E7%9B%AE",
 		"author": [
 			{
-				"family": "Lin",
-				"given": "Yu"
+				"family": "Yu",
+				"given": "Lin"
 			}
 		],
 		"accessed": {
@@ -943,7 +949,7 @@
 		"type": "article-newspaper",
 		"container-title": "新华日报",
 		"language": "zh",
-		"page": "2",
+		"page": "2, 5-7",
 		"title": "中国心理学与奥林匹克",
 		"author": [
 			{
@@ -982,6 +988,67 @@
 			"date-parts": [
 				[
 					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.14:2",
+		"type": "chapter",
+		"container-title": "Selected papers on personality and social psychology",
+		"event-place": "Beijing",
+		"language": "en",
+		"page": "46-84",
+		"publisher": "Peking University Press",
+		"publisher-place": "Beijing",
+		"title": "Theoretical analysis of the seven factor model of Chinese personality",
+		"volume": "1",
+		"editor": [
+			{
+				"family": "Wang",
+				"given": "Deng Feng"
+			},
+			{
+				"family": "Hou",
+				"given": "Yu Bo"
+			}
+		],
+		"author": [
+			{
+				"family": "Wang",
+				"given": "Deng Feng"
+			},
+			{
+				"family": "Cui",
+				"given": "Hong"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "aips.4.16:1",
+		"type": "book",
+		"event-place": "Canberra, Australian Capital Territory",
+		"language": "en",
+		"note": "number: 3209.1",
+		"publisher": "Author",
+		"publisher-place": "Canberra, Australian Capital Territory",
+		"title": "Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990",
+		"author": [
+			{
+				"literal": "Australian Bureau of Statistics"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
 				]
 			]
 		}
