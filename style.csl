@@ -709,6 +709,23 @@
       </else>
     </choose>
   </macro>
+  <macro name="title-and-descriptions-zh">
+    <choose>
+      <if variable="title">
+        <group delimiter=" ">
+          <text macro="title"/>
+          <text macro="parenthetical-zh"/>
+          <text macro="bracketed"/>
+        </group>
+      </if>
+      <else>
+        <group delimiter=" ">
+          <text macro="bracketed"/>
+          <text macro="parenthetical-zh"/>
+        </group>
+      </else>
+    </choose>
+  </macro>
   <macro name="title">
     <choose>
       <if type="post webpage" match="any">
@@ -863,6 +880,62 @@
         <else>
           <group delimiter="; ">
             <text macro="secondary-contributors"/>
+            <!-- 书籍不显示存储位置 -->
+            <!-- <text macro="database-location"/> -->
+            <text macro="number"/>
+            <text macro="locators-booklike"/>
+          </group>
+        </else>
+      </choose>
+    </group>
+  </macro>
+  <macro name="parenthetical-zh">
+    <!-- (Secondary contributors; Database location; Genre no. 123; Report Series 123, Version, Edition, Volume, Page) -->
+    <group prefix="(" suffix=")">
+      <choose>
+        <if type="patent">
+          <!-- authority: U.S. ; genre: patent ; number: 123,445 -->
+          <group delimiter=" ">
+            <text variable="authority" form="short"/>
+            <choose>
+              <if variable="genre">
+                <text variable="genre" text-case="capitalize-first"/>
+              </if>
+              <else>
+                <!-- This should be localized -->
+                <text value="patent" text-case="capitalize-first"/>
+              </else>
+            </choose>
+            <group delimiter=" ">
+              <!-- Replace with label variable="number" if that becomes available -->
+              <text term="issue" form="short" text-case="capitalize-first"/>
+              <text variable="number"/>
+            </group>
+          </group>
+        </if>
+        <else-if type="post webpage" match="any">
+          <!-- For post webpage, container-title is treated as publisher -->
+          <group delimiter="; ">
+            <text macro="secondary-contributors-zh"/>
+            <text macro="database-location"/>
+            <text macro="number"/>
+            <text macro="locators-booklike"/>
+          </group>
+        </else-if>
+        <else-if variable="container-title">
+          <group delimiter="; ">
+            <text macro="secondary-contributors-zh"/>
+            <choose>
+              <if type="broadcast graphic map motion_picture song" match="any">
+                <!-- For audiovisual media, number information comes after title, not container-title -->
+                <text macro="number"/>
+              </if>
+            </choose>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter="; ">
+            <text macro="secondary-contributors-zh"/>
             <!-- 书籍不显示存储位置 -->
             <!-- <text macro="database-location"/> -->
             <text macro="number"/>
@@ -1228,6 +1301,26 @@
       </else>
     </choose>
   </macro>
+  <macro name="secondary-contributors-zh">
+    <choose>
+      <if type="article-journal article-magazine article-newspaper post-weblog review review-book" match="any">
+        <text macro="secondary-contributors-periodical-zh"/>
+      </if>
+      <else-if type="paper-conference">
+        <choose>
+          <if variable="collection-editor editor editorial-director" match="any">
+            <text macro="secondary-contributors-booklike-zh"/>
+          </if>
+          <else>
+            <text macro="secondary-contributors-periodical-zh"/>
+          </else>
+        </choose>
+      </else-if>
+      <else>
+        <text macro="secondary-contributors-booklike-zh"/>
+      </else>
+    </choose>
+  </macro>
   <macro name="secondary-contributors-periodical">
     <group delimiter="; ">
       <choose>
@@ -1241,6 +1334,22 @@
       <names variable="translator" delimiter="; ">
         <name and="symbol" initialize-with=". " delimiter=", "/>
         <label form="short" prefix=", " text-case="title"/>
+      </names>
+    </group>
+  </macro>
+  <macro name="secondary-contributors-periodical-zh">
+    <group delimiter="; ">
+      <choose>
+        <if variable="title">
+          <names variable="interviewer" delimiter="; ">
+            <name initialize-with=". " delimiter=", "/>
+            <label form="short" prefix=", " text-case="title"/>
+          </names>
+        </if>
+      </choose>
+      <names variable="translator" delimiter="; ">
+        <name initialize-with=". " delimiter=", "/>
+        <label form="short" prefix=" " text-case="title"/>
       </names>
     </group>
   </macro>
@@ -1282,6 +1391,50 @@
             <names variable="editor translator" delimiter="; ">
               <name and="symbol" initialize-with=". " delimiter=", "/>
               <label form="short" prefix=", " text-case="title"/>
+            </names>
+          </group>
+        </else>
+      </choose>
+    </group>
+  </macro>
+  <macro name="secondary-contributors-booklike-zh">
+    <group delimiter="; ">
+      <choose>
+        <if variable="title">
+          <names variable="interviewer">
+            <name initialize-with=". " delimiter=", "/>
+            <label form="short" prefix=" " text-case="title"/>
+          </names>
+        </if>
+      </choose>
+      <!-- When editortranslator becomes available, add a test: variable="editortranslator" match="none"; then print translator -->
+      <choose>
+        <if type="post webpage" match="none">
+          <!-- Webpages treat container-title like publisher -->
+          <choose>
+            <if variable="container-title" match="none">
+              <group delimiter="; ">
+                <names variable="container-author">
+                  <label form="verb-short" suffix=" " text-case="title"/>
+                  <name initialize-with=". " delimiter=", "/>
+                </names>
+                <names variable="editor translator" delimiter="; ">
+                  <name initialize-with=". " delimiter=", "/>
+                  <label form="short" prefix=" " text-case="title"/>
+                </names>
+              </group>
+            </if>
+          </choose>
+        </if>
+        <else>
+          <group delimiter="; ">
+            <names variable="container-author">
+              <label form="verb-short" suffix=" " text-case="title"/>
+              <name initialize-with=". " delimiter=", "/>
+            </names>
+            <names variable="editor translator" delimiter="; ">
+              <name initialize-with=". " delimiter=", "/>
+              <label form="short" prefix=" " text-case="title"/>
             </names>
           </group>
         </else>
@@ -2098,7 +2251,7 @@
           <group delimiter=". " suffix=".">
             <text macro="author-bib-zh"/>
             <text macro="date-bib"/>
-            <text macro="title-and-descriptions"/>
+            <text macro="title-and-descriptions-zh"/>
             <text macro="container"/>
             <text macro="event"/>
             <text macro="publisher-zh"/>

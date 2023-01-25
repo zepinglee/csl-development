@@ -53,7 +53,7 @@
     <div class="csl-entry">张三 (主编). (2008d). <i>心理学史</i>. 北京: 未名出版社.</div>
     <div class="csl-entry">Gibbs, J. T., &#38; Huang, L. N. (Eds.). (1989). <i>Children of color:  Psychological interventions with minority youth.</i> Jossey-Bass.</div>
     <div class="csl-entry">Laplace, P.-S. (1951). <i>A philosophical essay on probabilities</i> (F. W. Truscott &#38; F. L. Emory, Trans.). dover. (Original work published 1814)</div>
-    <div class="csl-entry">拉普拉斯 P.-S. (1951). <i>概率哲学</i> (张三 &#38; 李四, 译). 北京: 未名出版社.</div>
+    <div class="csl-entry">拉普拉斯 P.-S. (1951). <i>概率哲学</i> (张三, 李四 译). 北京: 未名出版社.</div>
     <div class="csl-entry">Klatzky, R. (1998). Allocentric and Egocentric Spatial Representations: Definitions, Distinctions, and Interconnections. In <i>Spat. Cogn</i> (Vol. 1).</div>
     <div class="csl-entry">王登峰, 崔红. (2004). 中国人《大七》人格结构的理论分析. 见 王登峰 &#38; 侯玉波, <i>人格与社会心理学论丛</i> (CNKI; 卷 1, pp. 46–84). 北京: 北京大学出版社.</div>
     <div class="csl-entry">Auerbach, J. S. (1993). The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation. In <i>Psychoanalytic perspectives on psychopathology.</i> (pp. 43–110). American Psychological Association.</div>
@@ -114,7 +114,7 @@
     <div class="csl-entry">Laplace, P.-S. (1951). <i>A philosophical essay on probabilities</i> (F. W. Truscott &#38; F. L. Emory, Trans.). dover. (Original work published 1814)</div>
     <div class="csl-entry">张三. (2008d). 中国心理学的过去与未来. 心理学报, <i>40</i>(增刊), 210–215.</div>
     <div class="csl-entry">王登峰, 崔红. (2004). 中国人《大七》人格结构的理论分析. 见 王登峰 &#38; 侯玉波, <i>人格与社会心理学论丛</i> (CNKI; 卷 1, pp. 46–84). 北京: 北京大学出版社.</div>
-    <div class="csl-entry">拉普拉斯 P.-S. (1951). <i>概率哲学</i> (张三 &#38; 李四, 译). 北京: 未名出版社.</div>
+    <div class="csl-entry">拉普拉斯 P.-S. (1951). <i>概率哲学</i> (张三, 李四 译). 北京: 未名出版社.</div>
     <div class="csl-entry">Auerbach, J. S. (1993). The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation. In <i>Psychoanalytic perspectives on psychopathology.</i> (pp. 43–110). American Psychological Association.</div>
     <div class="csl-entry">Lichstein, K. L., &#38; Johnson, R. S. (1990, June). Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs. <i>Reducing Medication in Geriatric Populations</i>. Symposium conducted at the meeting of the First International Congress of Behavioral Medicine, Uppsala, Sweden.</div>
     <div class="csl-entry">Lanktree, C. B., &#38; Briere, J. N. (1991, January). <i>Early data on the Trauma Symptom Checklist for Children (TSC-C)</i>. Paper presented at the meeting of the American Professional Society on the Abuse of Children, San Diego, CA.</div>
@@ -167,7 +167,7 @@
 <blockquote>
   <div class="csl-bib-body">
     <div class="csl-entry">陈登原. (2000a). <i>国史旧闻: 卷 第 1 卷</i> (p. 29). 北京: 中华书局.</div>
-    <div class="csl-entry">哈里森·沃尔德伦. (2012). <i>经济数学与金融数学</i> (谢远涛, 译; pp. 235–236). 北京: 中国人民大学出版社.</div>
+    <div class="csl-entry">哈里森·沃尔德伦. (2012). <i>经济数学与金融数学</i> (谢远涛 译; pp. 235–236). 北京: 中国人民大学出版社.</div>
     <div class="csl-entry">北京市政协民族和宗教委员会, 北京联合大学民族与宗教研究所. (2012). <i>历代王朝与民族宗教</i> (p. 112). 北京: 民族出版社.</div>
     <div class="csl-entry">全国信息与文献标准化技术委员会. (2010a). <i>信息与文献 都柏林核心元数据元素集</i> (GB/T 25100—2010; pp. 2–3). 北京: 中国标准出版社.</div>
     <div class="csl-entry">徐光宪, 王祥云. (2010). <i>物质结构</i>. 北京: 科学出版社.</div>
@@ -215,13 +215,13 @@
     <div class="csl-entry">Deverell, W., &#38; Igler, D. (2013). <i>A companion to California history</i> (pp. 21–22) [Doctoral dissertation, John Wiley &#38; Sons].</div>
     <div class="csl-entry">Baker, S. K., &#38; Jackson, M. E. (1995). <i>The future of resource sharing</i>. The Haworth Press.</div>
     <div class="csl-entry">Chernik, B. E. (1982). <i>Introduction to library services for library technicians</i>. Libraries Unlimited, Inc.</div>
-    <div class="csl-entry">尼葛洛庞帝. (1996). <i>数字化生存</i> (胡泳 &#38; 范海燕, 译). 海口: 海南出版社.</div>
+    <div class="csl-entry">尼葛洛庞帝. (1996). <i>数字化生存</i> (胡泳, 范海燕 译). 海口: 海南出版社.</div>
     <div class="csl-entry">汪冰. (1997). <i>电子图书馆理论与实践研究</i> (p. 16). 北京: 北京图书馆出版社.</div>
     <div class="csl-entry">杨宗英. (1996). 电子图书馆的现实模型. 中国图书馆学报, <i>2</i>, 24–29.</div>
     <div class="csl-entry">Dowler, L. (1995). The research university’s dilemma: Resource sharing and research in a transinstitutional environment. <i>Journal of Library Administration</i>, <i>21</i>(1/2), 5–26.</div>
     <div class="csl-entry">Sunstein, C. R. (1996). Social norms and social roles. <i>Columbia Law Review</i>, <i>96</i>, 903.</div>
     <div class="csl-entry">Morri, I. (2010). <i>Why the west rules for now: the patterns of history, and what they reveal about the future</i>. Farrar, Straus and Giroux.</div>
-    <div class="csl-entry">罗杰斯. (2011). <i>西方文明史: 问题与源头</i> (潘惠霞, 魏婧, 杨艳, &#38; 汤玲, 译; pp. 15–16). 大连: 东北财经大学出版社.</div>
+    <div class="csl-entry">罗杰斯. (2011). <i>西方文明史: 问题与源头</i> (潘惠霞, 魏婧, 杨艳, 汤玲 译; pp. 15–16). 大连: 东北财经大学出版社.</div>
     <div class="csl-entry">陈登原. (2000b). <i>国史旧闻: 卷 第 1 卷</i> (p. 29). 北京: 中华书局.</div>
     <div class="csl-entry">Crane, D. (1972). <i>Invisible college</i>. Univ. of Chicago Press.</div>
     <div class="csl-entry">Stieg, M. F. (1981). The information needs of historians. <i>College &#38; Research Libraries</i>, <i>42</i>(6), 549–560.</div>
@@ -236,13 +236,13 @@
     <div class="csl-entry">张伯伟. (2002). <i>全唐五代诗格汇考</i> (p. 288). 南京: 江苏古籍出版社.</div>
     <div class="csl-entry">皮锡瑞. (2009). <i>师伏堂日记: 卷 第 4 册</i> (p. 155). 北京: 北京图书馆出版社.</div>
     <div class="csl-entry">胡承正, 周详, 缪灵. (2010). <i>理论物理概论: 卷 上</i> (p. 112). 武汉: 武汉大学出版社.</div>
-    <div class="csl-entry">美国妇产科医师学会. (2010). <i>新生儿脑病和脑性瘫痪发病机制与病理生理</i> (段涛 &#38; 杨慧霞, 译; pp. 38–39). 北京: 人民卫生出版社.</div>
+    <div class="csl-entry">美国妇产科医师学会. (2010). <i>新生儿脑病和脑性瘫痪发病机制与病理生理</i> (段涛, 杨慧霞 译; pp. 38–39). 北京: 人民卫生出版社.</div>
     <div class="csl-entry"><i>康熙字典: 巳集上: 水部</i> (同文书局影印本, p. 50). (1962). 北京: 中华书局.</div>
     <div class="csl-entry">汪昂. (1881). <i>增订本草备要: 卷 四卷</i> (刻本). 京都: 老二酉堂.</div>
     <div class="csl-entry">蒋有绪, 郭泉水, 马娟, others. (1998). <i>中国森林群落分类及其群落特征</i>. 北京: 科学出版社.</div>
     <div class="csl-entry">中国企业投资协会, 台湾并购与私募股权协会, 汇盈国际投资集团. (2013). <i>投资台湾: 大陆企业赴台投资指南</i>. 北京: 九州出版社.</div>
-    <div class="csl-entry">罗斯基. (2009). <i>战前中国经济的增长</i> (唐巧天, 毛立坤, &#38; 姜修宪, 译). 杭州: 浙江大学出版社.</div>
-    <div class="csl-entry">库恩. (2012). <i>科学革命的结构: 第 4 版</i> (金吾伦 &#38; 胡新和, 译; 2 版). 北京: 北京大学出版社.</div>
+    <div class="csl-entry">罗斯基. (2009). <i>战前中国经济的增长</i> (唐巧天, 毛立坤, 姜修宪 译). 杭州: 浙江大学出版社.</div>
+    <div class="csl-entry">库恩. (2012). <i>科学革命的结构: 第 4 版</i> (金吾伦, 胡新和 译; 2 版). 北京: 北京大学出版社.</div>
     <div class="csl-entry">侯文顺. (2010). <i>高分子物理: 高分子材料分析、选择与改性</i> (p. 119). 北京: 化学工业出版社.</div>
     <div class="csl-entry">Crawford, W., &#38; Gorman, M. (1995). <i>Future libraries: Dreams, madness, &#38; reality</i>. American Library Association.</div>
     <div class="csl-entry">International Federation of Library Association and Institutions. (1977). <i>Names of persons: National usages for entry in catalogues</i> (3rd ed.). IFLA International Office for UBC.</div>
