@@ -69,9 +69,9 @@
     <div class="csl-entry">Sadie, S. (Ed.). (1980). <i>The new Grove dictionary of music and musicians</i> (6th ed., Vol. 1–20). Macmillan.</div>
     <div class="csl-entry">李行健 (编). (2004). <i>现代汉语规范辞典</i> (p. 255). 北京: 外语教学与研究出版社.</div>
     <div class="csl-entry"><i>现代汉语频率词典</i>. (1986). 北京: 北京语言学院出版社.</div>
-    <div class="csl-entry">Yu, L. (n.d.). <i>Phonological representation and processing in Chinese spoken language production</i> [Unpublished doctorial dissertation, Beijing Normal University].</div>
-    <div class="csl-entry">余林. (2000). <i>汉语语言产生中的语音表征与加工</i> [博士学位论文]. 北京师范大学.</div>
-    <div class="csl-entry">邱颖文. (2009). <i>遗传与语言学习</i> [博士学位论文]. 华东师范大学.</div>
+    <div class="csl-entry">Yu, L. (n.d.). <i>Phonological representation and processing in Chinese spoken language production</i> (Unpublished doctorial dissertation). Beijing Normal University.</div>
+    <div class="csl-entry">余林. (2000). <i>汉语语言产生中的语音表征与加工</i> (博士学位论文). 北京师范大学.</div>
+    <div class="csl-entry">邱颖文. (2009). <i>遗传与语言学习</i> (博士学位论文). 华东师范大学, 上海.</div>
     <div class="csl-entry">张三, 李四. (2008b-08-08). 中国心理学与奥林匹克. <i>新华日报</i>, 2, 5–7.</div>
   </div>
 </blockquote>
@@ -130,9 +130,9 @@
     <div class="csl-entry">Sadie, S. (Ed.). (1980). <i>The new Grove dictionary of music and musicians</i> (6th ed., Vol. 1–20). Macmillan.</div>
     <div class="csl-entry">李行健 (编). (2004). <i>现代汉语规范辞典</i> (p. 255). 北京: 外语教学与研究出版社.</div>
     <div class="csl-entry"><i>现代汉语频率词典</i>. (1986). 北京: 北京语言学院出版社.</div>
-    <div class="csl-entry">Yu, L. (n.d.). <i>Phonological representation and processing in Chinese spoken language production</i> [Unpublished doctorial dissertation, Beijing Normal University].</div>
-    <div class="csl-entry">余林. (2000). <i>汉语语言产生中的语音表征与加工</i> [博士学位论文]. 北京师范大学.</div>
-    <div class="csl-entry">邱颖文. (2009). <i>遗传与语言学习</i> [博士学位论文]. 华东师范大学.</div>
+    <div class="csl-entry">Yu, L. (n.d.). <i>Phonological representation and processing in Chinese spoken language production</i> (Unpublished doctorial dissertation). Beijing Normal University.</div>
+    <div class="csl-entry">余林. (2000). <i>汉语语言产生中的语音表征与加工</i> (博士学位论文). 北京师范大学.</div>
+    <div class="csl-entry">邱颖文. (2009). <i>遗传与语言学习</i> (博士学位论文). 华东师范大学, 上海.</div>
     <div class="csl-entry">张三, 李四. (2008b-08-08). 中国心理学与奥林匹克. <i>新华日报</i>, 2, 5–7.</div>
   </div>
 </blockquote>
@@ -162,7 +162,7 @@
     <div class="csl-entry">Kennedy, W. J., &#38; Garrison, R. E. (1975a). Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England. <i>Sedimentology</i>, <i>22</i>, 311.</div>
     <div class="csl-entry">Kennedy, W. J., &#38; Garrison, R. E. (1975b). Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England. <i>Lethaia</i>, <i>8</i>(4), 339–360.</div>
     <div class="csl-entry">中国社会科学院语言研究所词典编辑室. (1996). <i>现代汉语词典</i> (修订本). 北京: 商务印书馆.</div>
-    <div class="csl-entry">杨保军. (2012). <i>新闻道德论</i> [博士学位论文, 中国人民大学出版社].</div>
+    <div class="csl-entry">杨保军. (2012). <i>新闻道德论</i> (博士学位论文). 中国人民大学出版社, 北京.</div>
     <div class="csl-entry">邓一刚. (2006). <i>全智能节电器</i> (Patent 期 200610171314.3). 中国.</div>
     <div class="csl-entry">Bawden, D. (2008, May 4). <i>Origins and concepts of digital literacy</i>.</div>
   </div>
@@ -181,7 +181,7 @@
     <div class="csl-entry">王夫之. (1865). <i>宋论</i> (刻本). 金陵: 湘乡曾国荃.</div>
     <div class="csl-entry">牛志明, 斯温兰德, &#38; 雷光春 (编). (2012). <i>综合湿地管理国际研讨会论文集</i>. 北京: 海洋出版社.</div>
     <div class="csl-entry">中国第一历史档案馆, 辽宁省档案馆. (2001). <i>中国明朝档案总汇</i>. 桂林: 广西师范大学出版社.</div>
-    <div class="csl-entry">杨保军. (2012). <i>新闻道德论</i> [博士学位论文, 中国人民大学出版社].</div>
+    <div class="csl-entry">杨保军. (2012). <i>新闻道德论</i> (博士学位论文). 中国人民大学出版社, 北京.</div>
     <div class="csl-entry">赵学功. (2001). <i>当代美国外交</i>. 北京: 社会科学文献出版社.</div>
     <div class="csl-entry">同济大学土木工程防灾国家重点实验室. (2011). <i>汶川地震灾害研究</i> (pp. 5–6). 上海: 同济大学出版社.</div>
     <div class="csl-entry">中国造纸学会. (2003). <i>中国造纸年鉴: 2003</i>. 北京: 中国轻工业出版社.</div>
@@ -217,8 +217,8 @@
     <div class="csl-entry">Online Computer Library Center, Inc. (n.d.). <i>About OCLC: History of cooperation</i>.</div>
     <div class="csl-entry">Hopkinson, A. (2009, April 22). <i>UNIMARC and metadata: Dublin core</i>.</div>
     <div class="csl-entry">Coffee drinking and cancer of the pancreas. (1981). <i>British Medical Journal</i>, <i>283</i>(6292), 628.</div>
-    <div class="csl-entry">刘乃安. (2000). <i>生物质材料热解失重动力学及其分析方法研究</i> (pp. 17–18) [中国科学技术大学].</div>
-    <div class="csl-entry">Deverell, W., &#38; Igler, D. (2013). <i>A companion to California history</i> (pp. 21–22) [Doctoral dissertation, John Wiley &#38; Sons].</div>
+    <div class="csl-entry">刘乃安. (2000). <i>生物质材料热解失重动力学及其分析方法研究</i> (中国科学技术大学).</div>
+    <div class="csl-entry">Deverell, W., &#38; Igler, D. (2013). <i>A companion to California history</i> (Doctoral dissertation, John Wiley &#38; Sons).</div>
     <div class="csl-entry">Baker, S. K., &#38; Jackson, M. E. (1995). <i>The future of resource sharing</i>. The Haworth Press.</div>
     <div class="csl-entry">Chernik, B. E. (1982). <i>Introduction to library services for library technicians</i>. Libraries Unlimited, Inc.</div>
     <div class="csl-entry">尼葛洛庞帝. (1996). <i>数字化生存</i> (胡泳, 范海燕 译). 海口: 海南出版社.</div>
@@ -265,9 +265,9 @@
     <div class="csl-entry">Calkin, D., Ager, A., &#38; Thompson, M. (2011). <i>A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report</i> (RMRS-GTR-262; pp. 8–9).</div>
     <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. (1990). <i>Guidelines for handling excavated acid-producing material</i> (PB 91-194001). U.S. Department of Commerce National Information Service.</div>
     <div class="csl-entry">World Health Organization. (1970). <i>Factors regulating the immune response: Report of WHO Scientific Group</i>. WHO.</div>
-    <div class="csl-entry">马欢. (2011). <i>人类活动影响下海河流域典型区水循环变化分析</i> (p. 27) [清华大学].</div>
-    <div class="csl-entry">吴云芳. (2003). <i>面向中文信息处理的现代汉语并列结构研究</i> [北京大学].</div>
-    <div class="csl-entry">Calms, R. B. (1965). <i>Infrared spectroscopic studies on solid oxygen</i>. Univ. of California.</div>
+    <div class="csl-entry">马欢. (2011). <i>人类活动影响下海河流域典型区水循环变化分析</i>. 清华大学, 北京.</div>
+    <div class="csl-entry">吴云芳. (2003). <i>面向中文信息处理的现代汉语并列结构研究</i>. 北京大学, 北京.</div>
+    <div class="csl-entry">Calms, R. B. (1965). <i>Infrared spectroscopic studies on solid oxygen</i>. Univ. of California, Berkeley.</div>
     <div class="csl-entry">张凯军. (2012). <i>轨道火车及高速轨道火车紧急安全制动辅助装置</i> (Patent 期 201220158825.2). 中国.</div>
     <div class="csl-entry">河北绿洲生态环境科技有限公司. (2001). <i>一种荒漠化地区生态植被综合培育种植方法</i> (Patent 期 01129210.5). 中国.</div>
     <div class="csl-entry">Koseki, A., Momose, H., Kawahito, M., &#38; others. (2002). <i>Compiler</i> (Patent No. US828402).</div>

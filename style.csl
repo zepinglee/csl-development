@@ -920,6 +920,25 @@
             </group>
           </group>
         </if>
+        <else-if type="thesis">
+          <!-- Thesis type and institution -->
+          <group delimiter="; ">
+            <choose>
+              <if variable="number" match="none">
+                <group delimiter=", ">
+                  <text variable="genre" text-case="capitalize-first"/>
+                  <choose>
+                    <if variable="archive DOI" match="any">
+                      <!-- Include the university in brackets if thesis is published -->
+                      <text variable="publisher"/>
+                    </if>
+                  </choose>
+                </group>
+              </if>
+            </choose>
+            <text variable="medium" text-case="capitalize-first"/>
+          </group>
+        </else-if>
         <else-if type="post webpage" match="any">
           <!-- For post webpage, container-title is treated as publisher -->
           <group delimiter="; ">
@@ -976,6 +995,25 @@
             </group>
           </group>
         </if>
+        <else-if type="thesis">
+          <!-- Thesis type and institution -->
+          <group delimiter="; ">
+            <choose>
+              <if variable="number" match="none">
+                <group delimiter=", ">
+                  <text variable="genre" text-case="capitalize-first"/>
+                  <choose>
+                    <if variable="archive DOI" match="any">
+                      <!-- Include the university in brackets if thesis is published -->
+                      <text variable="publisher"/>
+                    </if>
+                  </choose>
+                </group>
+              </if>
+            </choose>
+            <text variable="medium" text-case="capitalize-first"/>
+          </group>
+        </else-if>
         <else-if type="post webpage" match="any">
           <!-- For post webpage, container-title is treated as publisher -->
           <group delimiter="; ">
@@ -1099,23 +1137,7 @@
           </group>
         </if>
         <else-if type="thesis">
-          <!-- Thesis type and institution -->
-          <group delimiter="; ">
-            <choose>
-              <if variable="number" match="none">
-                <group delimiter=", ">
-                  <text variable="genre" text-case="capitalize-first"/>
-                  <choose>
-                    <if variable="archive DOI URL" match="any">
-                      <!-- Include the university in brackets if thesis is published -->
-                      <text variable="publisher"/>
-                    </if>
-                  </choose>
-                </group>
-              </if>
-            </choose>
-            <text variable="medium" text-case="capitalize-first"/>
-          </group>
+          <!-- 学委论文类型从方括号移至圆括号中 -->
         </else-if>
         <else-if variable="interviewer" type="interview" match="any">
           <!-- Interview information -->
@@ -1550,7 +1572,7 @@
             <if type="thesis">
               <choose>
                 <!-- Include the university in brackets if thesis is published -->
-                <if variable="archive DOI URL" match="any">
+                <if variable="archive DOI" match="any">
                   <text variable="publisher"/>
                 </if>
               </choose>
@@ -1962,8 +1984,11 @@
       <choose>
         <if type="thesis">
           <choose>
-            <if variable="archive DOI URL" match="none">
-              <text variable="publisher"/>
+            <if variable="archive DOI" match="none">
+              <group delimiter=", ">
+                <text variable="publisher"/>
+                <text variable="publisher-place"/>
+              </group>
             </if>
           </choose>
         </if>
@@ -2010,8 +2035,11 @@
       <choose>
         <if type="thesis">
           <choose>
-            <if variable="archive DOI URL" match="none">
-              <text variable="publisher"/>
+            <if variable="archive DOI" match="none">
+              <group delimiter=", ">
+                <text variable="publisher"/>
+                <text variable="publisher-place"/>
+              </group>
             </if>
           </choose>
         </if>
@@ -2472,13 +2500,13 @@
     </layout>
   </citation>
   <bibliography hanging-indent="true" et-al-min="8" et-al-use-first="6" et-al-use-last="true" entry-spacing="0" line-spacing="2">
-    <!-- <sort>
+    <sort>
       <key macro="author-bib"/>
       <key macro="date-sort-group"/>
       <key macro="date-sort-date"/>
       <key variable="status"/>
       <key macro="title"/>
-    </sort> -->
+    </sort>
     <layout locale="zh">
       <text macro="bibliography-layout-zh"/>
     </layout>
