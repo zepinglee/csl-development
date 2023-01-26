@@ -13,8 +13,7 @@
     <category citation-format="author-date"/>
     <category field="psychology"/>
     <issn>1671-3710</issn>
-    <summary>该样式在 apa.csl 的基础上仅调整了姓名的格式，尚未处理中文文献在细节上的特殊要求。如果需要修改请联系作者，并将期刊官方提供的全部示例文献录入 Zotero 群组</summary>
-    <updated>2022-12-02T17:49:29+08:00</updated>
+    <updated>2023-01-26T21:18:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -780,7 +779,9 @@
     <choose>
       <if type="post webpage" match="any">
         <!-- Webpages are always italicized -->
-        <text variable="title" font-style="italic"/>
+        <group font-style="italic">
+          <text variable="title"/>
+        </group>
       </if>
       <else-if variable="container-title" match="any">
         <!-- Other types are italicized based on presence of container-title.
@@ -791,7 +792,9 @@
       <else>
         <choose>
           <if type="article-journal article-magazine article-newspaper post-weblog review review-book" match="any">
-            <text variable="title" font-style="italic"/>
+            <group font-style="italic">
+              <text variable="title"/>
+            </group>
           </if>
           <else-if type="paper-conference">
             <choose>
@@ -810,7 +813,9 @@
                 </group>
               </if>
               <else>
-                <text variable="title" font-style="italic"/>
+                <group font-style="italic">
+                  <text variable="title"/>
+                </group>
               </else>
             </choose>
           </else-if>
@@ -841,7 +846,9 @@
         <!-- If a bill has no number or container-title, assume it is a hearing; italic -->
         <choose>
           <if variable="number container-title" match="none">
-            <text variable="title" form="short" font-style="italic" text-case="title"/>
+            <group font-style="italic">
+              <text variable="title" form="short" text-case="title"/>
+            </group>
           </if>
           <else-if variable="title">
             <text variable="title" form="short" text-case="title"/>
@@ -864,7 +871,9 @@
       </else-if>
       <else-if type="legal_case" match="any">
         <!-- Cases are italicized -->
-        <text variable="title" font-style="italic"/>
+        <group font-style="italic">
+          <text variable="title"/>
+        </group>
       </else-if>
       <else-if type="legislation treaty" match="any">
         <!-- Legislation and treaties not italicized or quoted -->
@@ -872,14 +881,18 @@
       </else-if>
       <else-if type="post webpage" match="any">
         <!-- Webpages are always italicized -->
-        <text variable="title" form="short" font-style="italic" text-case="title"/>
+        <group font-style="italic">
+          <text variable="title" form="short" text-case="title"/>
+        </group>
       </else-if>
       <else-if variable="container-title" match="any">
         <!-- Other types are italicized or quoted based on presence of container-title. As in title macro. -->
         <text variable="title" form="short" quotes="true" text-case="title"/>
       </else-if>
       <else>
-        <text variable="title" form="short" font-style="italic" text-case="title"/>
+        <group font-style="italic">
+          <text variable="title" form="short" text-case="title"/>
+        </group>
       </else>
     </choose>
   </macro>
@@ -1689,11 +1702,15 @@
       <if variable="reviewed-title">
         <!-- Not possible to distinguish TV series episode from other reviewed
               works [Ex. 69] -->
-        <text variable="reviewed-title" font-style="italic"/>
+        <group font-style="italic">
+          <text variable="reviewed-title"/>
+        </group>
       </if>
       <else>
         <!-- Assume title is title of reviewed work -->
-        <text variable="title" font-style="italic"/>
+        <group font-style="italic">
+          <text variable="title"/>
+        </group>
       </else>
     </choose>
   </macro>
@@ -1701,11 +1718,15 @@
     <choose>
       <if variable="reviewed-title">
         <!-- Not possible to distinguish TV series episode from other reviewed works [Ex. 69] -->
-        <text variable="reviewed-title" form="short" font-style="italic" text-case="title"/>
+        <group font-style="italic">
+          <text variable="reviewed-title" form="short" text-case="title"/>
+        </group>
       </if>
       <else>
         <!-- Assume title is title of reviewed work -->
-        <text variable="title" form="short" font-style="italic" text-case="title"/>
+        <group font-style="italic">
+          <text variable="title" form="short" text-case="title"/>
+        </group>
       </else>
     </choose>
   </macro>
@@ -2142,7 +2163,9 @@
             <choose>
               <if variable="number container-title" match="none">
                 <!-- If no number or container-title, then assume it is a hearing -->
-                <text variable="title" font-style="italic"/>
+                <group font-style="italic">
+                  <text variable="title"/>
+                </group>
               </if>
               <else>
                 <text variable="title"/>

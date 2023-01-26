@@ -29,7 +29,7 @@
   (Bergmann, 1993)<br>
   (Sadie, 1980)<br>
   (李行健, 2004)<br>
-  (现代汉语频率词典, 1986)<br>
+  (<i>现代汉语频率词典</i>, 1986)<br>
   (Yu, n.d.)<br>
   (余林, 2000)<br>
   (邱颖文, 2009)<br>
@@ -296,8 +296,8 @@
     <div class="csl-entry">张田勤. (2000-11-12). 罪犯 DNA 库与生命伦理学计划. <i>大众科技报</i>, 7.</div>
     <div class="csl-entry">傅刚, 赵承, 李佳路. (2000-01-12). 大风沙过后的思考. <i>北京青年报</i>.</div>
     <div class="csl-entry">刘裕国, 杨柳, 张洋, others. (2013-01-12). 雾霾来袭, 如何突围? <i>人民日报</i>.</div>
-    <div class="csl-entry">萧钰. (2001-12-19). 出版业信息化迈入快车道.</div>
-    <div class="csl-entry">李强. (2012-05-03). 化解医患矛盾需釜底抽薪.</div>
+    <div class="csl-entry">萧钰. (2001-12-19). <i>出版业信息化迈入快车道</i>.</div>
+    <div class="csl-entry">李强. (2012-05-03). <i>化解医患矛盾需釜底抽薪</i>.</div>
     <div class="csl-entry">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. (n.d.). <i>Pennsylvania library laws</i>.</div>
     <div class="csl-entry"><i>Dublin core metadata element set: version 1.1</i>. (2012, June 14).</div>
   </div>
