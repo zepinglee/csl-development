@@ -181,6 +181,7 @@ function main() {
         for (var item of test_data) {
             ids.push(item.id);
         }
+        ids.sort();
         citeproc.updateItems(ids);
         res += make_bibliography(citeproc) + "\n";
     }
