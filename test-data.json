@@ -54,7 +54,7 @@
 		"type": "article-journal",
 		"call-number": "36-1228/B",
 		"container-title": "心理学报",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "210-215",
 		"title": "中国心理学的过去与未来",
 		"volume": "40",
@@ -97,7 +97,7 @@
 		}
 	},
 	{
-		"id": "aips.4.03:2",
+		"id": "aips.4.02:2",
 		"type": "article-journal",
 		"abstract": "Three experiments investigated the frames of reference used in memory to represent the spatial structure of the environment. Participants learned the locations of objects in a room according to an intrinsic axis of the configuration; the axis was different from or the same as their viewing perspective. Judgments of relative direction using memory were most accurate for imagined headings parallel to the intrinsic axis, even when it differed from the viewing perspective, and there was no cost to learning the layout according to a nonegocentric axis. When the shape of the layout was bilaterally symmetric relative to the intrinsic axis of learning, novel headings orthogonal to that axis were retrieved more accurately than were other novel headings. These results indicate that spatial memories are defined with respect to intrinsic frames of reference, which are selected on the basis of egocentric experience and environmental cues. (PsycINFO Database Record (c) 2016 APA, all rights reserved)",
 		"container-title": "Journal of Experimental Psychology: Learning, Memory, and Cognition",
@@ -127,7 +127,7 @@
 		}
 	},
 	{
-		"id": "aips.4.02:2",
+		"id": "aips.4.03:2",
 		"type": "article-journal",
 		"abstract": "Four experiments examined reference systems in spatial memories acquired from language. Participants read narratives that located 4 objects in canonical (front, back, left, right) or noncanonical (left front, right front, left back, right back) positions around them. Participants' focus of attention was first set on each of the 4 objects, and then they were asked to report the name of the object at the location indicated by a direction word or an iconic arrow. The results indicated that spatial memories were represented in terms of intrinsic (object-to-object) reference systems, which were selected using egocentric cues (e.g., alignment with body axes). Results also indicated that linguistic direction cues were comprehended in terms of egocentric reference systems, whereas iconic arrows were not. (PsycINFO Database Record (c) 2016 APA, all rights reserved)",
 		"container-title": "Journal of Experimental Psychology: Learning, Memory, and Cognition",
@@ -136,12 +136,16 @@
 		"language": "en",
 		"note": "publisher-place: US\npublisher: American Psychological Association",
 		"page": "171-180",
-		"title": "Frames of Reference in Spatial Memories Acquired From Language.",
+		"title": "Frames of Reference in Spatial Memories Acquired From Language",
 		"volume": "30",
 		"author": [
 			{
 				"family": "Mou",
 				"given": "Weimin"
+			},
+			{
+				"family": "Zhang",
+				"given": "Kan"
 			},
 			{
 				"family": "McNamara",
@@ -161,7 +165,7 @@
 		"type": "article-journal",
 		"call-number": "36-1228/B",
 		"container-title": "心理学报",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "status: 印刷中",
 		"title": "中国心理学的过去与未来",
 		"author": [
@@ -245,7 +249,7 @@
 		"type": "article-journal",
 		"call-number": "36-1228/B",
 		"container-title": "心理学报",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "210-215",
 		"title": "中国心理学的过去与未来",
 		"volume": "40",
@@ -478,6 +482,20 @@
 			{
 				"family": "Klatzky",
 				"given": "Roberta"
+			}
+		],
+		"editor": [
+			{
+				"family": "Freksa",
+				"given": "C."
+			},
+			{
+				"family": "Habel",
+				"given": "C."
+			},
+			{
+				"family": "Wender",
+				"given": "K. F."
 			}
 		],
 		"issued": {
@@ -853,6 +871,13 @@
 					"2023",
 					1,
 					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
 				]
 			]
 		}
